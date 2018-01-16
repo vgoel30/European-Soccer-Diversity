@@ -1,0 +1,4 @@
+Top 5 European leagues: England, Germany, Spain, Italy and France.
+Leagues 2000-16.
+
+1. For each league, collect the annual information (teams that played) 

@@ -1,0 +1,4811 @@
+{
+    "2000": {
+        "afc-sunderland": {
+            "0": {
+                "age": 19,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Michael Ingham",
+                "nationality": "Northern Ireland"
+            },
+            "1": {
+                "age": 24,
+                "appearances": 34,
+                "minutes": "3.017'",
+                "name": "Thomas S\u00f6rensen",
+                "nationality": "Denmark"
+            },
+            "2": {
+                "age": 22,
+                "appearances": 5,
+                "minutes": "402'",
+                "name": "J\u00fcrgen Macho",
+                "nationality": "Austria"
+            },
+            "3": {
+                "age": 27,
+                "appearances": 23,
+                "minutes": "1.907'",
+                "name": "Chris Makin",
+                "nationality": "England"
+            },
+            "4": {
+                "age": 29,
+                "appearances": 8,
+                "minutes": "720'",
+                "name": "Patrice Carteron",
+                "nationality": "France"
+            },
+            "5": {
+                "age": 19,
+                "appearances": 2,
+                "minutes": "106'",
+                "name": "George McCartney",
+                "nationality": "Northern Ireland"
+            },
+            "6": {
+                "age": 27,
+                "appearances": 12,
+                "minutes": "811'",
+                "name": "Stanislav Varga",
+                "nationality": "Slovakia"
+            },
+            "7": {
+                "age": 23,
+                "appearances": 28,
+                "minutes": "2.013'",
+                "name": "Darren Williams",
+                "nationality": "England"
+            },
+            "8": {
+                "age": 27,
+                "appearances": 4,
+                "minutes": "294'",
+                "name": "Paul Butler",
+                "nationality": "Ireland"
+            },
+            "9": {
+                "age": 22,
+                "appearances": 5,
+                "minutes": "399'",
+                "name": "Darren Holloway",
+                "nationality": "England"
+            },
+            "10": {
+                "age": 35,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Thomas Helmer",
+                "nationality": "Germany"
+            },
+            "11": {
+                "age": 25,
+                "appearances": 36,
+                "minutes": "3.173'",
+                "name": "Michael Gray",
+                "nationality": "England"
+            },
+            "12": {
+                "age": 28,
+                "appearances": 31,
+                "minutes": "2.738'",
+                "name": "\u00c9merson Thome",
+                "nationality": "Portugal"
+            },
+            "13": {
+                "age": 24,
+                "appearances": 34,
+                "minutes": "2.971'",
+                "name": "Jody Craddock",
+                "nationality": "England"
+            },
+            "14": {
+                "age": 17,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Ben Clark",
+                "nationality": "England"
+            },
+            "15": {
+                "age": 37,
+                "appearances": 1,
+                "minutes": "43'",
+                "name": "Steve Bould",
+                "nationality": "England"
+            },
+            "16": {
+                "age": 21,
+                "appearances": 5,
+                "minutes": "225'",
+                "name": "Paul Thirlwell",
+                "nationality": "England"
+            },
+            "17": {
+                "age": 29,
+                "appearances": 31,
+                "minutes": "2.699'",
+                "name": "Don Hutchison",
+                "nationality": "Scotland"
+            },
+            "18": {
+                "age": 32,
+                "appearances": 3,
+                "minutes": "147'",
+                "name": "\u00c9ric Roy",
+                "nationality": "France"
+            },
+            "19": {
+                "age": 21,
+                "appearances": 8,
+                "minutes": "223'",
+                "name": "John Oster",
+                "nationality": "Wales"
+            },
+            "20": {
+                "age": 20,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Chris Lumsdon",
+                "nationality": "England"
+            },
+            "21": {
+                "age": 22,
+                "appearances": 22,
+                "minutes": "1.928'",
+                "name": "Gavin McCann",
+                "nationality": "England"
+            },
+            "22": {
+                "age": 30,
+                "appearances": 18,
+                "minutes": "1.569'",
+                "name": "Alex Rae",
+                "nationality": "Scotland"
+            },
+            "23": {
+                "age": 23,
+                "appearances": 30,
+                "minutes": "2.348'",
+                "name": "Kevin Kilbane",
+                "nationality": "Ireland"
+            },
+            "24": {
+                "age": 19,
+                "appearances": 3,
+                "minutes": "23'",
+                "name": "Thomas Butler",
+                "nationality": "Ireland"
+            },
+            "25": {
+                "age": 31,
+                "appearances": 20,
+                "minutes": "1.462'",
+                "name": "Stefan Schwarz",
+                "nationality": "Sweden"
+            },
+            "26": {
+                "age": 19,
+                "appearances": 27,
+                "minutes": "2.123'",
+                "name": "Julio Arca",
+                "nationality": "Argentina"
+            },
+            "27": {
+                "age": 18,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Jonjo Dickman",
+                "nationality": "England"
+            },
+            "28": {
+                "age": 19,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Brendan McGill",
+                "nationality": "Ireland"
+            },
+            "29": {
+                "age": 25,
+                "appearances": 15,
+                "minutes": "391'",
+                "name": "Danny Dichio",
+                "nationality": "England"
+            },
+            "30": {
+                "age": 21,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Tom Peeters",
+                "nationality": "Belgium"
+            },
+            "31": {
+                "age": 22,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Neil Wainwright",
+                "nationality": "England"
+            },
+            "32": {
+                "age": 19,
+                "appearances": 3,
+                "minutes": "58'",
+                "name": "Kevin Kyle",
+                "nationality": "Scotland"
+            },
+            "33": {
+                "age": 20,
+                "appearances": 2,
+                "minutes": "36'",
+                "name": "Michael Reddy",
+                "nationality": "Ireland"
+            },
+            "34": {
+                "age": 26,
+                "appearances": 34,
+                "minutes": "3.055'",
+                "name": "Kevin Phillips",
+                "nationality": "England"
+            },
+            "35": {
+                "age": 33,
+                "appearances": 34,
+                "minutes": "2.575'",
+                "name": "Niall Quinn",
+                "nationality": "Ireland"
+            }
+        },
+        "aston-villa": {
+            "0": {
+                "age": 29,
+                "appearances": 38,
+                "minutes": "3.420'",
+                "name": "David James",
+                "nationality": "England"
+            },
+            "1": {
+                "age": 23,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Neil Cutler",
+                "nationality": "England"
+            },
+            "2": {
+                "age": 23,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Peter Enckelman",
+                "nationality": "Finland"
+            },
+            "3": {
+                "age": 27,
+                "appearances": 2,
+                "minutes": "151'",
+                "name": "Ugo Ehiogu",
+                "nationality": "England"
+            },
+            "4": {
+                "age": 24,
+                "appearances": 19,
+                "minutes": "1.342'",
+                "name": "Mark Delaney",
+                "nationality": "Wales"
+            },
+            "5": {
+                "age": 29,
+                "appearances": 30,
+                "minutes": "2.571'",
+                "name": "Gareth Southgate",
+                "nationality": "England"
+            },
+            "6": {
+                "age": 27,
+                "appearances": 33,
+                "minutes": "2.852'",
+                "name": "Alpay \u00d6zalan",
+                "nationality": "Turkey"
+            },
+            "7": {
+                "age": 31,
+                "appearances": 15,
+                "minutes": "1.199'",
+                "name": "Steve Staunton",
+                "nationality": "Ireland"
+            },
+            "8": {
+                "age": 28,
+                "appearances": 36,
+                "minutes": "3.109'",
+                "name": "Alan Wright",
+                "nationality": "England"
+            },
+            "9": {
+                "age": 17,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Jonathan Bewers",
+                "nationality": "England"
+            },
+            "10": {
+                "age": 19,
+                "appearances": 30,
+                "minutes": "2.497'",
+                "name": "Gareth Barry",
+                "nationality": "England"
+            },
+            "11": {
+                "age": 19,
+                "appearances": 3,
+                "minutes": "101'",
+                "name": "Jlloyd Samuel",
+                "nationality": "Trinidad and Tobago"
+            },
+            "12": {
+                "age": 17,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Stephen Cooke",
+                "nationality": "England"
+            },
+            "13": {
+                "age": 20,
+                "appearances": 2,
+                "minutes": "46'",
+                "name": "John McGrath",
+                "nationality": "Ireland"
+            },
+            "14": {
+                "age": 24,
+                "appearances": 33,
+                "minutes": "2.538'",
+                "name": "George Boateng",
+                "nationality": "Netherlands"
+            },
+            "15": {
+                "age": 32,
+                "appearances": 29,
+                "minutes": "2.205'",
+                "name": "Ian Taylor",
+                "nationality": "England"
+            },
+            "16": {
+                "age": 32,
+                "appearances": 38,
+                "minutes": "3.361'",
+                "name": "Paul Merson",
+                "nationality": "England"
+            },
+            "17": {
+                "age": 23,
+                "appearances": 32,
+                "minutes": "2.430'",
+                "name": "Lee Hendrie",
+                "nationality": "England"
+            },
+            "18": {
+                "age": 28,
+                "appearances": 34,
+                "minutes": "2.771'",
+                "name": "Steve Stone",
+                "nationality": "England"
+            },
+            "19": {
+                "age": 18,
+                "appearances": 1,
+                "minutes": "6'",
+                "name": "Thomas Hitzlsperger",
+                "nationality": "Germany"
+            },
+            "20": {
+                "age": 29,
+                "appearances": 4,
+                "minutes": "300'",
+                "name": "Gilles De Bilde",
+                "nationality": "Belgium"
+            },
+            "21": {
+                "age": 16,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Stefan Moore",
+                "nationality": "England"
+            },
+            "22": {
+                "age": 31,
+                "appearances": 33,
+                "minutes": "2.633'",
+                "name": "Dion Dublin",
+                "nationality": "England"
+            },
+            "23": {
+                "age": 33,
+                "appearances": 3,
+                "minutes": "165'",
+                "name": "Luc Nilis",
+                "nationality": "Belgium"
+            },
+            "24": {
+                "age": 24,
+                "appearances": 9,
+                "minutes": "512'",
+                "name": "Juan Pablo \u00c1ngel",
+                "nationality": "Colombia"
+            },
+            "25": {
+                "age": 25,
+                "appearances": 20,
+                "minutes": "1.181'",
+                "name": "Julian Joachim",
+                "nationality": "England"
+            },
+            "26": {
+                "age": 20,
+                "appearances": 23,
+                "minutes": "791'",
+                "name": "Darius Vassell",
+                "nationality": "England"
+            },
+            "27": {
+                "age": 33,
+                "appearances": 27,
+                "minutes": "1.321'",
+                "name": "David Ginola",
+                "nationality": "France"
+            }
+        },
+        "bradford-city": {
+            "0": {
+                "age": 32,
+                "appearances": 19,
+                "minutes": "1.710'",
+                "name": "Gary Walsh",
+                "nationality": "England"
+            },
+            "1": {
+                "age": 26,
+                "appearances": 17,
+                "minutes": "1.530'",
+                "name": "Matthew Clarke",
+                "nationality": "England"
+            },
+            "2": {
+                "age": 32,
+                "appearances": 2,
+                "minutes": "180'",
+                "name": "Aidan Davison",
+                "nationality": "Northern Ireland"
+            },
+            "3": {
+                "age": 16,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Lewis Emanuel",
+                "nationality": "England"
+            },
+            "4": {
+                "age": 26,
+                "appearances": 1,
+                "minutes": "55'",
+                "name": "Matt Lawrence",
+                "nationality": "England"
+            },
+            "5": {
+                "age": 26,
+                "appearances": 20,
+                "minutes": "1.422'",
+                "name": "Andy Myers",
+                "nationality": "England"
+            },
+            "6": {
+                "age": 29,
+                "appearances": 18,
+                "minutes": "1.569'",
+                "name": "David Wetherall",
+                "nationality": "England"
+            },
+            "7": {
+                "age": 31,
+                "appearances": 21,
+                "minutes": "1.793'",
+                "name": "Robert Molenaar",
+                "nationality": "Netherlands"
+            },
+            "8": {
+                "age": 21,
+                "appearances": 18,
+                "minutes": "1.500'",
+                "name": "Andrew O'Brien",
+                "nationality": "Ireland"
+            },
+            "9": {
+                "age": 30,
+                "appearances": 25,
+                "minutes": "2.211'",
+                "name": "Peter Atherton",
+                "nationality": "England"
+            },
+            "10": {
+                "age": 31,
+                "appearances": 21,
+                "minutes": "1.680'",
+                "name": "Wayne Jacobs",
+                "nationality": "England"
+            },
+            "11": {
+                "age": 20,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Mark Bower",
+                "nationality": "England"
+            },
+            "12": {
+                "age": 32,
+                "appearances": 17,
+                "minutes": "1.292'",
+                "name": "Dan Petrescu",
+                "nationality": "Romania"
+            },
+            "13": {
+                "age": 29,
+                "appearances": 21,
+                "minutes": "1.592'",
+                "name": "Ian Nolan",
+                "nationality": "Northern Ireland"
+            },
+            "14": {
+                "age": 23,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Ashley Westwood",
+                "nationality": "England"
+            },
+            "15": {
+                "age": 34,
+                "appearances": 13,
+                "minutes": "1.032'",
+                "name": "Gunnar Halle",
+                "nationality": "Norway"
+            },
+            "16": {
+                "age": 36,
+                "appearances": 37,
+                "minutes": "3.242'",
+                "name": "Stuart McCall",
+                "nationality": "Scotland"
+            },
+            "17": {
+                "age": 25,
+                "appearances": 7,
+                "minutes": "459'",
+                "name": "Gary Locke",
+                "nationality": "Scotland"
+            },
+            "18": {
+                "age": 26,
+                "appearances": 19,
+                "minutes": "1.439'",
+                "name": "Gareth Whalley",
+                "nationality": "England"
+            },
+            "19": {
+                "age": 30,
+                "appearances": 16,
+                "minutes": "1.331'",
+                "name": "Jamie Lawrence",
+                "nationality": "Jamaica"
+            },
+            "20": {
+                "age": 18,
+                "appearances": 1,
+                "minutes": "8'",
+                "name": "Scott Kerr",
+                "nationality": "England"
+            },
+            "21": {
+                "age": 31,
+                "appearances": 11,
+                "minutes": "911'",
+                "name": "Billy McKinlay",
+                "nationality": "Scotland"
+            },
+            "22": {
+                "age": 34,
+                "appearances": 18,
+                "minutes": "916'",
+                "name": "Peter Beagrie",
+                "nationality": "England"
+            },
+            "23": {
+                "age": 29,
+                "appearances": 11,
+                "minutes": "756'",
+                "name": "David Hopkin",
+                "nationality": "Scotland"
+            },
+            "24": {
+                "age": 22,
+                "appearances": 1,
+                "minutes": "3'",
+                "name": "Isaiah Rankin",
+                "nationality": "England"
+            },
+            "25": {
+                "age": 24,
+                "appearances": 21,
+                "minutes": "1.263'",
+                "name": "Robbie Blake",
+                "nationality": "England"
+            },
+            "26": {
+                "age": 29,
+                "appearances": 33,
+                "minutes": "2.300'",
+                "name": "Ashley Ward",
+                "nationality": "England"
+            },
+            "27": {
+                "age": 28,
+                "appearances": 31,
+                "minutes": "2.556'",
+                "name": "Benny Carbone",
+                "nationality": "Italy"
+            },
+            "28": {
+                "age": 31,
+                "appearances": 24,
+                "minutes": "1.990'",
+                "name": "Dean Windass",
+                "nationality": "England"
+            },
+            "29": {
+                "age": 29,
+                "appearances": 17,
+                "minutes": "1.504'",
+                "name": "Eoin Jess",
+                "nationality": "Scotland"
+            },
+            "30": {
+                "age": 29,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Lee Mills",
+                "nationality": "England"
+            },
+            "31": {
+                "age": 29,
+                "appearances": 10,
+                "minutes": "469'",
+                "name": "Lee Sharpe",
+                "nationality": "England"
+            },
+            "32": {
+                "age": 36,
+                "appearances": 10,
+                "minutes": "397'",
+                "name": "Dean Saunders",
+                "nationality": "Wales"
+            },
+            "33": {
+                "age": 19,
+                "appearances": 5,
+                "minutes": "46'",
+                "name": "Gareth Grant",
+                "nationality": "England"
+            },
+            "34": {
+                "age": 29,
+                "appearances": 7,
+                "minutes": "461'",
+                "name": "Stan Collymore",
+                "nationality": "England"
+            }
+        },
+        "charlton-athletic": {
+            "0": {
+                "age": 26,
+                "appearances": 1,
+                "minutes": "44'",
+                "name": "Tony Caig",
+                "nationality": "England"
+            },
+            "1": {
+                "age": 25,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Ben Roberts",
+                "nationality": "England"
+            },
+            "2": {
+                "age": 29,
+                "appearances": 25,
+                "minutes": "2.205'",
+                "name": "Dean Kiely",
+                "nationality": "Ireland"
+            },
+            "3": {
+                "age": 27,
+                "appearances": 13,
+                "minutes": "1.170'",
+                "name": "Sasa Ilic",
+                "nationality": "Serbia"
+            },
+            "4": {
+                "age": 19,
+                "appearances": 23,
+                "minutes": "1.078'",
+                "name": "Paul Konchesky",
+                "nationality": "England"
+            },
+            "5": {
+                "age": 28,
+                "appearances": 25,
+                "minutes": "1.525'",
+                "name": "Steve Brown",
+                "nationality": "England"
+            },
+            "6": {
+                "age": 23,
+                "appearances": 4,
+                "minutes": "205'",
+                "name": "Greg Shields",
+                "nationality": "Scotland"
+            },
+            "7": {
+                "age": 19,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Jonathan Fortune",
+                "nationality": "England"
+            },
+            "8": {
+                "age": 30,
+                "appearances": 33,
+                "minutes": "2.767'",
+                "name": "Chris Powell",
+                "nationality": "England"
+            },
+            "9": {
+                "age": 25,
+                "appearances": 32,
+                "minutes": "2.880'",
+                "name": "Richard Rufus",
+                "nationality": "England"
+            },
+            "10": {
+                "age": 26,
+                "appearances": 24,
+                "minutes": "2.028'",
+                "name": "Mark Fish",
+                "nationality": "South Africa"
+            },
+            "11": {
+                "age": 25,
+                "appearances": 23,
+                "minutes": "1.746'",
+                "name": "Andy Todd",
+                "nationality": "England"
+            },
+            "12": {
+                "age": 30,
+                "appearances": 7,
+                "minutes": "570'",
+                "name": "Carl Tiler",
+                "nationality": "England"
+            },
+            "13": {
+                "age": 27,
+                "appearances": 32,
+                "minutes": "2.488'",
+                "name": "Mark Kinsella",
+                "nationality": "Ireland"
+            },
+            "14": {
+                "age": 24,
+                "appearances": 10,
+                "minutes": "213'",
+                "name": "Shaun Newton",
+                "nationality": "England"
+            },
+            "15": {
+                "age": 25,
+                "appearances": 27,
+                "minutes": "2.093'",
+                "name": "Radostin Kishishev",
+                "nationality": "Bulgaria"
+            },
+            "16": {
+                "age": 29,
+                "appearances": 35,
+                "minutes": "2.935'",
+                "name": "Graham Stuart",
+                "nationality": "England"
+            },
+            "17": {
+                "age": 23,
+                "appearances": 38,
+                "minutes": "3.159'",
+                "name": "Claus Jensen",
+                "nationality": "Denmark"
+            },
+            "18": {
+                "age": 28,
+                "appearances": 29,
+                "minutes": "1.796'",
+                "name": "John Robinson",
+                "nationality": "Wales"
+            },
+            "19": {
+                "age": 19,
+                "appearances": 20,
+                "minutes": "1.255'",
+                "name": "Scott Parker",
+                "nationality": "England"
+            },
+            "20": {
+                "age": 26,
+                "appearances": 1,
+                "minutes": "18'",
+                "name": "Karim Bagheri",
+                "nationality": "Iran"
+            },
+            "21": {
+                "age": 21,
+                "appearances": 18,
+                "minutes": "538'",
+                "name": "Kevin Lisbie",
+                "nationality": "Jamaica"
+            },
+            "22": {
+                "age": 31,
+                "appearances": 16,
+                "minutes": "451'",
+                "name": "John Salako",
+                "nationality": "England"
+            },
+            "23": {
+                "age": 19,
+                "appearances": 3,
+                "minutes": "87'",
+                "name": "Charlie MacDonald",
+                "nationality": "England"
+            },
+            "24": {
+                "age": 29,
+                "appearances": 7,
+                "minutes": "209'",
+                "name": "Martin Pringle",
+                "nationality": "Sweden"
+            },
+            "25": {
+                "age": 24,
+                "appearances": 31,
+                "minutes": "2.446'",
+                "name": "Jonatan Johansson",
+                "nationality": "Finland"
+            },
+            "26": {
+                "age": 25,
+                "appearances": 22,
+                "minutes": "1.421'",
+                "name": "Mathias Svensson",
+                "nationality": "Sweden"
+            },
+            "27": {
+                "age": 17,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Mark DeBolla",
+                "nationality": "England"
+            },
+            "28": {
+                "age": 27,
+                "appearances": 18,
+                "minutes": "1.427'",
+                "name": "Shaun Bartlett",
+                "nationality": "South Africa"
+            },
+            "29": {
+                "age": 30,
+                "appearances": 8,
+                "minutes": "676'",
+                "name": "Andy Hunt",
+                "nationality": "England"
+            }
+        },
+        "coventry-city": {
+            "0": {
+                "age": 17,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Gary Montgomery",
+                "nationality": "England"
+            },
+            "1": {
+                "age": 30,
+                "appearances": 1,
+                "minutes": "67'",
+                "name": "Alan Miller",
+                "nationality": "England"
+            },
+            "2": {
+                "age": 19,
+                "appearances": 23,
+                "minutes": "2.002'",
+                "name": "Chris Kirkland",
+                "nationality": "England"
+            },
+            "3": {
+                "age": 27,
+                "appearances": 15,
+                "minutes": "1.350'",
+                "name": "Magnus Hedman",
+                "nationality": "Sweden"
+            },
+            "4": {
+                "age": 22,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Morten Hyldgaard",
+                "nationality": "Denmark"
+            },
+            "5": {
+                "age": 17,
+                "appearances": 1,
+                "minutes": "44'",
+                "name": "Calum Davenport",
+                "nationality": "England"
+            },
+            "6": {
+                "age": 27,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Tomas Antonelius",
+                "nationality": "Sweden"
+            },
+            "7": {
+                "age": 27,
+                "appearances": 24,
+                "minutes": "1.805'",
+                "name": "Marc Edworthy",
+                "nationality": "England"
+            },
+            "8": {
+                "age": 30,
+                "appearances": 8,
+                "minutes": "579'",
+                "name": "Muhamed Konjic",
+                "nationality": "Bosnia-Herzegovina"
+            },
+            "9": {
+                "age": 22,
+                "appearances": 3,
+                "minutes": "227'",
+                "name": "Iv\u00e1n Guerrero",
+                "nationality": "Honduras"
+            },
+            "10": {
+                "age": 29,
+                "appearances": 30,
+                "minutes": "2.403'",
+                "name": "Paul Williams",
+                "nationality": "England"
+            },
+            "11": {
+                "age": 31,
+                "appearances": 24,
+                "minutes": "2.085'",
+                "name": "Richard Shaw",
+                "nationality": "England"
+            },
+            "12": {
+                "age": 28,
+                "appearances": 31,
+                "minutes": "2.363'",
+                "name": "Paul Telfer",
+                "nationality": "Scotland"
+            },
+            "13": {
+                "age": 26,
+                "appearances": 31,
+                "minutes": "2.625'",
+                "name": "Gary Breen",
+                "nationality": "Ireland"
+            },
+            "14": {
+                "age": 24,
+                "appearances": 21,
+                "minutes": "1.868'",
+                "name": "Marcus Hall",
+                "nationality": "England"
+            },
+            "15": {
+                "age": 34,
+                "appearances": 2,
+                "minutes": "98'",
+                "name": "Colin Hendry",
+                "nationality": "Scotland"
+            },
+            "16": {
+                "age": 18,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Craig Pead",
+                "nationality": "England"
+            },
+            "17": {
+                "age": 17,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Lee Fowler",
+                "nationality": "Wales"
+            },
+            "18": {
+                "age": 21,
+                "appearances": 2,
+                "minutes": "172'",
+                "name": "Gavin Strachan",
+                "nationality": "Scotland"
+            },
+            "19": {
+                "age": 22,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Runar Normann",
+                "nationality": "Norway"
+            },
+            "20": {
+                "age": 27,
+                "appearances": 32,
+                "minutes": "1.709'",
+                "name": "Youssef Chippo",
+                "nationality": "Morocco"
+            },
+            "21": {
+                "age": 20,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Laurent Delorge",
+                "nationality": "Belgium"
+            },
+            "22": {
+                "age": 22,
+                "appearances": 25,
+                "minutes": "1.866'",
+                "name": "David Thompson",
+                "nationality": "England"
+            },
+            "23": {
+                "age": 28,
+                "appearances": 29,
+                "minutes": "2.532'",
+                "name": "Mustapha Hadji",
+                "nationality": "Morocco"
+            },
+            "24": {
+                "age": 20,
+                "appearances": 32,
+                "minutes": "2.110'",
+                "name": "John Eustace",
+                "nationality": "England"
+            },
+            "25": {
+                "age": 21,
+                "appearances": 25,
+                "minutes": "2.120'",
+                "name": "Barry Quinn",
+                "nationality": "Ireland"
+            },
+            "26": {
+                "age": 26,
+                "appearances": 21,
+                "minutes": "1.805'",
+                "name": "Lee Carsley",
+                "nationality": "Ireland"
+            },
+            "27": {
+                "age": 18,
+                "appearances": 1,
+                "minutes": "2'",
+                "name": "Robert Betts",
+                "nationality": "England"
+            },
+            "28": {
+                "age": 34,
+                "appearances": 15,
+                "minutes": "1.154'",
+                "name": "Carlton Palmer",
+                "nationality": "England"
+            },
+            "29": {
+                "age": 18,
+                "appearances": 8,
+                "minutes": "243'",
+                "name": "Jay Bothroyd",
+                "nationality": "England"
+            },
+            "30": {
+                "age": 17,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Gary McSheffrey",
+                "nationality": "England"
+            },
+            "31": {
+                "age": 23,
+                "appearances": 15,
+                "minutes": "672'",
+                "name": "Ysrael Z\u00fa\u00f1iga",
+                "nationality": "Peru"
+            },
+            "32": {
+                "age": 25,
+                "appearances": 12,
+                "minutes": "1.080'",
+                "name": "John Hartson",
+                "nationality": "Wales"
+            },
+            "33": {
+                "age": 22,
+                "appearances": 16,
+                "minutes": "943'",
+                "name": "C\u00e9dric Roussel",
+                "nationality": "Belgium"
+            },
+            "34": {
+                "age": 20,
+                "appearances": 34,
+                "minutes": "2.785'",
+                "name": "Craig Bellamy",
+                "nationality": "Wales"
+            },
+            "35": {
+                "age": 24,
+                "appearances": 18,
+                "minutes": "799'",
+                "name": "John Aloisi",
+                "nationality": "Australia"
+            },
+            "36": {
+                "age": 22,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Jairo Mart\u00ednez",
+                "nationality": "Honduras"
+            }
+        },
+        "derby-county": {
+            "0": {
+                "age": 17,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Lee Grant",
+                "nationality": "England"
+            },
+            "1": {
+                "age": 23,
+                "appearances": 6,
+                "minutes": "459'",
+                "name": "Andy Oakes",
+                "nationality": "England"
+            },
+            "2": {
+                "age": 28,
+                "appearances": 32,
+                "minutes": "2.871'",
+                "name": "Mart Poom",
+                "nationality": "Estonia"
+            },
+            "3": {
+                "age": 18,
+                "appearances": 1,
+                "minutes": "12'",
+                "name": "Ian Evatt",
+                "nationality": "England"
+            },
+            "4": {
+                "age": 22,
+                "appearances": 2,
+                "minutes": "175'",
+                "name": "Con Blatsis",
+                "nationality": "Australia"
+            },
+            "5": {
+                "age": 29,
+                "appearances": 12,
+                "minutes": "980'",
+                "name": "Bj\u00f8rn Otto Bragstad",
+                "nationality": "Norway"
+            },
+            "6": {
+                "age": 21,
+                "appearances": 6,
+                "minutes": "444'",
+                "name": "Steve Elliott",
+                "nationality": "England"
+            },
+            "7": {
+                "age": 20,
+                "appearances": 2,
+                "minutes": "90'",
+                "name": "Richard Jackson",
+                "nationality": "England"
+            },
+            "8": {
+                "age": 29,
+                "appearances": 8,
+                "minutes": "560'",
+                "name": "Stefan Schnoor",
+                "nationality": "Germany"
+            },
+            "9": {
+                "age": 29,
+                "appearances": 27,
+                "minutes": "2.300'",
+                "name": "Horacio \u00c1ngel Carbonari",
+                "nationality": "Argentina"
+            },
+            "10": {
+                "age": 27,
+                "appearances": 4,
+                "minutes": "179'",
+                "name": "Brian O'Neil",
+                "nationality": "Scotland"
+            },
+            "11": {
+                "age": 28,
+                "appearances": 28,
+                "minutes": "2.326'",
+                "name": "Darryl Powell",
+                "nationality": "Jamaica"
+            },
+            "12": {
+                "age": 21,
+                "appearances": 26,
+                "minutes": "2.062'",
+                "name": "Danny Higginbotham",
+                "nationality": "Gibraltar"
+            },
+            "13": {
+                "age": 20,
+                "appearances": 8,
+                "minutes": "577'",
+                "name": "Youl Maw\u00e9n\u00e9",
+                "nationality": "France"
+            },
+            "14": {
+                "age": 19,
+                "appearances": 30,
+                "minutes": "2.534'",
+                "name": "Chris Riggott",
+                "nationality": "England"
+            },
+            "15": {
+                "age": 21,
+                "appearances": 8,
+                "minutes": "650'",
+                "name": "Paul Boertien",
+                "nationality": "England"
+            },
+            "16": {
+                "age": 26,
+                "appearances": 18,
+                "minutes": "1.620'",
+                "name": "Taribo West",
+                "nationality": "Nigeria"
+            },
+            "17": {
+                "age": 29,
+                "appearances": 9,
+                "minutes": "547'",
+                "name": "Lilian Martin",
+                "nationality": "France"
+            },
+            "18": {
+                "age": 26,
+                "appearances": 24,
+                "minutes": "1.346'",
+                "name": "Giorgi Kinkladze",
+                "nationality": "Georgia"
+            },
+            "19": {
+                "age": 27,
+                "appearances": 11,
+                "minutes": "851'",
+                "name": "Simo Valakari",
+                "nationality": "Finland"
+            },
+            "20": {
+                "age": 17,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Kristoffer Weckstr\u00f6m",
+                "nationality": "Finland"
+            },
+            "21": {
+                "age": 19,
+                "appearances": 2,
+                "minutes": "5'",
+                "name": "Adam Bolder",
+                "nationality": "England"
+            },
+            "22": {
+                "age": 23,
+                "appearances": 33,
+                "minutes": "2.884'",
+                "name": "Rory Delap",
+                "nationality": "Ireland"
+            },
+            "23": {
+                "age": 28,
+                "appearances": 24,
+                "minutes": "2.071'",
+                "name": "Craig Burley",
+                "nationality": "Scotland"
+            },
+            "24": {
+                "age": 21,
+                "appearances": 30,
+                "minutes": "2.660'",
+                "name": "Seth Johnson",
+                "nationality": "England"
+            },
+            "25": {
+                "age": 33,
+                "appearances": 28,
+                "minutes": "1.857'",
+                "name": "Stefano Eranio",
+                "nationality": "Italy"
+            },
+            "26": {
+                "age": 18,
+                "appearances": 13,
+                "minutes": "507'",
+                "name": "Adam Murray",
+                "nationality": "England"
+            },
+            "27": {
+                "age": 30,
+                "appearances": 2,
+                "minutes": "81'",
+                "name": "Lars Bohinen",
+                "nationality": "Norway"
+            },
+            "28": {
+                "age": 26,
+                "appearances": 10,
+                "minutes": "289'",
+                "name": "Th\u00f3rdur Gudj\u00f3nsson",
+                "nationality": "Iceland"
+            },
+            "29": {
+                "age": 20,
+                "appearances": 20,
+                "minutes": "588'",
+                "name": "Lee Morris",
+                "nationality": "England"
+            },
+            "30": {
+                "age": 16,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Gary Twigg",
+                "nationality": "Scotland"
+            },
+            "31": {
+                "age": 20,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Marvin Robinson",
+                "nationality": "England"
+            },
+            "32": {
+                "age": 30,
+                "appearances": 9,
+                "minutes": "653'",
+                "name": "Branko Strupar",
+                "nationality": "Belgium"
+            },
+            "33": {
+                "age": 26,
+                "appearances": 13,
+                "minutes": "480'",
+                "name": "Dean Sturridge",
+                "nationality": "England"
+            },
+            "34": {
+                "age": 23,
+                "appearances": 32,
+                "minutes": "2.386'",
+                "name": "Deon Burton",
+                "nationality": "Jamaica"
+            },
+            "35": {
+                "age": 21,
+                "appearances": 34,
+                "minutes": "2.478'",
+                "name": "Malcolm Christie",
+                "nationality": "England"
+            }
+        },
+        "fc-arsenal": {
+            "0": {
+                "age": 19,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Stuart Taylor",
+                "nationality": "England"
+            },
+            "1": {
+                "age": 36,
+                "appearances": 24,
+                "minutes": "2.160'",
+                "name": "David Seaman",
+                "nationality": "England"
+            },
+            "2": {
+                "age": 23,
+                "appearances": 11,
+                "minutes": "990'",
+                "name": "Alexander Manninger",
+                "nationality": "Austria"
+            },
+            "3": {
+                "age": 39,
+                "appearances": 3,
+                "minutes": "270'",
+                "name": "John Lukic",
+                "nationality": "England"
+            },
+            "4": {
+                "age": 19,
+                "appearances": 17,
+                "minutes": "1.299'",
+                "name": "Ashley Cole",
+                "nationality": "England"
+            },
+            "5": {
+                "age": 19,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Guy Demel",
+                "nationality": "Cote d'Ivoire"
+            },
+            "6": {
+                "age": 30,
+                "appearances": 12,
+                "minutes": "422'",
+                "name": "Nelson Vivas",
+                "nationality": "Argentina"
+            },
+            "7": {
+                "age": 17,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Moritz Volz",
+                "nationality": "Germany"
+            },
+            "8": {
+                "age": 36,
+                "appearances": 29,
+                "minutes": "2.377'",
+                "name": "Lee Dixon",
+                "nationality": "England"
+            },
+            "9": {
+                "age": 33,
+                "appearances": 28,
+                "minutes": "2.520'",
+                "name": "Martin Keown",
+                "nationality": "England"
+            },
+            "10": {
+                "age": 33,
+                "appearances": 26,
+                "minutes": "2.340'",
+                "name": "Tony Adams",
+                "nationality": "England"
+            },
+            "11": {
+                "age": 23,
+                "appearances": 18,
+                "minutes": "1.220'",
+                "name": "Laur\u00e9n",
+                "nationality": "Cameroon"
+            },
+            "12": {
+                "age": 26,
+                "appearances": 24,
+                "minutes": "2.012'",
+                "name": "Sylvinho",
+                "nationality": "Brazil"
+            },
+            "13": {
+                "age": 28,
+                "appearances": 1,
+                "minutes": "17'",
+                "name": "Stefan Malz",
+                "nationality": "Germany"
+            },
+            "14": {
+                "age": 21,
+                "appearances": 2,
+                "minutes": "16'",
+                "name": "Matthew Upson",
+                "nationality": "England"
+            },
+            "15": {
+                "age": 31,
+                "appearances": 19,
+                "minutes": "1.373'",
+                "name": "Oleg Luzhny",
+                "nationality": "Ukraine"
+            },
+            "16": {
+                "age": 24,
+                "appearances": 9,
+                "minutes": "810'",
+                "name": "Igors Stepanovs",
+                "nationality": "Latvia"
+            },
+            "17": {
+                "age": 17,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Sebastian Sv\u00e4rd",
+                "nationality": "Denmark"
+            },
+            "18": {
+                "age": 25,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Alberto M\u00e9ndez",
+                "nationality": "Germany"
+            },
+            "19": {
+                "age": 20,
+                "appearances": 2,
+                "minutes": "43'",
+                "name": "Paolo Vernazza",
+                "nationality": "England"
+            },
+            "20": {
+                "age": 24,
+                "appearances": 30,
+                "minutes": "2.532'",
+                "name": "Patrick Vieira",
+                "nationality": "France"
+            },
+            "21": {
+                "age": 26,
+                "appearances": 33,
+                "minutes": "2.474'",
+                "name": "Robert Pir\u00e8s",
+                "nationality": "France"
+            },
+            "22": {
+                "age": 23,
+                "appearances": 30,
+                "minutes": "2.193'",
+                "name": "Freddie Ljungberg",
+                "nationality": "Sweden"
+            },
+            "23": {
+                "age": 27,
+                "appearances": 33,
+                "minutes": "2.500'",
+                "name": "Ray Parlour",
+                "nationality": "England"
+            },
+            "24": {
+                "age": 22,
+                "appearances": 5,
+                "minutes": "198'",
+                "name": "Ed\u00fa Gaspar",
+                "nationality": "Brazil"
+            },
+            "25": {
+                "age": 29,
+                "appearances": 30,
+                "minutes": "2.384'",
+                "name": "Gilles Grimandi",
+                "nationality": "France"
+            },
+            "26": {
+                "age": 17,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Jermaine Pennant",
+                "nationality": "England"
+            },
+            "27": {
+                "age": 21,
+                "appearances": 2,
+                "minutes": "37'",
+                "name": "Tomas Danilevicius",
+                "nationality": "Lithuania"
+            },
+            "28": {
+                "age": 25,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Christopher Wreh",
+                "nationality": "Liberia"
+            },
+            "29": {
+                "age": 31,
+                "appearances": 25,
+                "minutes": "1.686'",
+                "name": "Dennis Bergkamp",
+                "nationality": "Netherlands"
+            },
+            "30": {
+                "age": 26,
+                "appearances": 27,
+                "minutes": "1.745'",
+                "name": "Sylvain Wiltord",
+                "nationality": "France"
+            },
+            "31": {
+                "age": 22,
+                "appearances": 35,
+                "minutes": "2.587'",
+                "name": "Thierry Henry",
+                "nationality": "France"
+            },
+            "32": {
+                "age": 23,
+                "appearances": 27,
+                "minutes": "1.324'",
+                "name": "Nwankwo Kanu",
+                "nationality": "Nigeria"
+            }
+        },
+        "fc-chelsea": {
+            "0": {
+                "age": 28,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Mark Bosnich",
+                "nationality": "Australia"
+            },
+            "1": {
+                "age": 33,
+                "appearances": 15,
+                "minutes": "1.305'",
+                "name": "Ed de Goey",
+                "nationality": "Netherlands"
+            },
+            "2": {
+                "age": 26,
+                "appearances": 24,
+                "minutes": "2.114'",
+                "name": "Carlo Cudicini",
+                "nationality": "Italy"
+            },
+            "3": {
+                "age": 19,
+                "appearances": 22,
+                "minutes": "1.765'",
+                "name": "John Terry",
+                "nationality": "England"
+            },
+            "4": {
+                "age": 24,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Pierre Issa",
+                "nationality": "South Africa"
+            },
+            "5": {
+                "age": 28,
+                "appearances": 1,
+                "minutes": "90'",
+                "name": "\u00c9merson Thome",
+                "nationality": "Portugal"
+            },
+            "6": {
+                "age": 27,
+                "appearances": 8,
+                "minutes": "657'",
+                "name": "Christian Panucci",
+                "nationality": "Italy"
+            },
+            "7": {
+                "age": 21,
+                "appearances": 24,
+                "minutes": "1.648'",
+                "name": "Celestine Babayaro",
+                "nationality": "Nigeria"
+            },
+            "8": {
+                "age": 32,
+                "appearances": 25,
+                "minutes": "1.994'",
+                "name": "Frank Leboeuf",
+                "nationality": "France"
+            },
+            "9": {
+                "age": 31,
+                "appearances": 34,
+                "minutes": "2.999'",
+                "name": "Marcel Desailly",
+                "nationality": "France"
+            },
+            "10": {
+                "age": 29,
+                "appearances": 9,
+                "minutes": "316'",
+                "name": "Winston Bogarde",
+                "nationality": "Netherlands"
+            },
+            "11": {
+                "age": 31,
+                "appearances": 20,
+                "minutes": "1.536'",
+                "name": "Graeme Le Saux",
+                "nationality": "England"
+            },
+            "12": {
+                "age": 23,
+                "appearances": 30,
+                "minutes": "2.422'",
+                "name": "Mario Melchiot",
+                "nationality": "Netherlands"
+            },
+            "13": {
+                "age": 30,
+                "appearances": 14,
+                "minutes": "996'",
+                "name": "Albert Ferrer",
+                "nationality": "Spain"
+            },
+            "14": {
+                "age": 28,
+                "appearances": 1,
+                "minutes": "3'",
+                "name": "Bernard Lambourde",
+                "nationality": "France"
+            },
+            "15": {
+                "age": 20,
+                "appearances": 10,
+                "minutes": "515'",
+                "name": "Jon Harley",
+                "nationality": "England"
+            },
+            "16": {
+                "age": 34,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Jes H\u00f6gh",
+                "nationality": "Denmark"
+            },
+            "17": {
+                "age": 20,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Robert Wolleaston",
+                "nationality": "England"
+            },
+            "18": {
+                "age": 18,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Neil Barrett",
+                "nationality": "England"
+            },
+            "19": {
+                "age": 32,
+                "appearances": 29,
+                "minutes": "2.006'",
+                "name": "Gustavo Poyet",
+                "nationality": "Uruguay"
+            },
+            "20": {
+                "age": 33,
+                "appearances": 36,
+                "minutes": "3.151'",
+                "name": "Dennis Wise",
+                "nationality": "England"
+            },
+            "21": {
+                "age": 21,
+                "appearances": 21,
+                "minutes": "1.326'",
+                "name": "Jody Morris",
+                "nationality": "England"
+            },
+            "22": {
+                "age": 19,
+                "appearances": 29,
+                "minutes": "2.251'",
+                "name": "Samuele Dalla Bona",
+                "nationality": "Italy"
+            },
+            "23": {
+                "age": 19,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Danny Slatter",
+                "nationality": "Wales"
+            },
+            "24": {
+                "age": 31,
+                "appearances": 18,
+                "minutes": "756'",
+                "name": "Slavisa Jokanovic",
+                "nationality": "Serbia"
+            },
+            "25": {
+                "age": 30,
+                "appearances": 7,
+                "minutes": "630'",
+                "name": "Roberto Di Matteo",
+                "nationality": "Italy"
+            },
+            "26": {
+                "age": 19,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Sam Parkin",
+                "nationality": "Scotland"
+            },
+            "27": {
+                "age": 27,
+                "appearances": 14,
+                "minutes": "704'",
+                "name": "Tore Andr\u00e9 Flo",
+                "nationality": "Norway"
+            },
+            "28": {
+                "age": 28,
+                "appearances": 35,
+                "minutes": "2.912'",
+                "name": "Jimmy Floyd Hasselbaink",
+                "nationality": "Netherlands"
+            },
+            "29": {
+                "age": 28,
+                "appearances": 12,
+                "minutes": "560'",
+                "name": "Mario Stanic",
+                "nationality": "Croatia"
+            },
+            "30": {
+                "age": 21,
+                "appearances": 29,
+                "minutes": "1.553'",
+                "name": "Eidur Gudjohnsen",
+                "nationality": "Iceland"
+            },
+            "31": {
+                "age": 33,
+                "appearances": 36,
+                "minutes": "2.597'",
+                "name": "Gianfranco Zola",
+                "nationality": "Italy"
+            },
+            "32": {
+                "age": 21,
+                "appearances": 2,
+                "minutes": "18'",
+                "name": "Rati Aleksidze",
+                "nationality": "Georgia"
+            },
+            "33": {
+                "age": 22,
+                "appearances": 14,
+                "minutes": "653'",
+                "name": "Jesper Gr\u00f6nkjaer",
+                "nationality": "Denmark"
+            },
+            "34": {
+                "age": 31,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Pierluigi Casiraghi",
+                "nationality": "Italy"
+            }
+        },
+        "fc-everton": {
+            "0": {
+                "age": 27,
+                "appearances": 32,
+                "minutes": "2.879'",
+                "name": "Paul Gerrard",
+                "nationality": "England"
+            },
+            "1": {
+                "age": 21,
+                "appearances": 1,
+                "minutes": "-",
+                "name": "Steve Simonsen",
+                "nationality": "England"
+            },
+            "2": {
+                "age": 26,
+                "appearances": 6,
+                "minutes": "540'",
+                "name": "Thomas Myhre",
+                "nationality": "Norway"
+            },
+            "3": {
+                "age": 18,
+                "appearances": 1,
+                "minutes": "58'",
+                "name": "Peter Clarke",
+                "nationality": "England"
+            },
+            "4": {
+                "age": 24,
+                "appearances": 7,
+                "minutes": "436'",
+                "name": "Alessandro Pistone",
+                "nationality": "Italy"
+            },
+            "5": {
+                "age": 30,
+                "appearances": 37,
+                "minutes": "3.248'",
+                "name": "David Weir",
+                "nationality": "Scotland"
+            },
+            "6": {
+                "age": 26,
+                "appearances": 29,
+                "minutes": "1.769'",
+                "name": "David Unsworth",
+                "nationality": "England"
+            },
+            "7": {
+                "age": 26,
+                "appearances": 22,
+                "minutes": "1.642'",
+                "name": "Alex Nyarko",
+                "nationality": "Ghana"
+            },
+            "8": {
+                "age": 20,
+                "appearances": 29,
+                "minutes": "2.573'",
+                "name": "Michael Ball",
+                "nationality": "England"
+            },
+            "9": {
+                "age": 21,
+                "appearances": 20,
+                "minutes": "1.549'",
+                "name": "Gary Naysmith",
+                "nationality": "Scotland"
+            },
+            "10": {
+                "age": 20,
+                "appearances": 3,
+                "minutes": "270'",
+                "name": "Richard Dunne",
+                "nationality": "Ireland"
+            },
+            "11": {
+                "age": 27,
+                "appearances": 11,
+                "minutes": "872'",
+                "name": "Abel Xavier",
+                "nationality": "Portugal"
+            },
+            "12": {
+                "age": 19,
+                "appearances": 3,
+                "minutes": "143'",
+                "name": "Tony Hibbert",
+                "nationality": "England"
+            },
+            "13": {
+                "age": 38,
+                "appearances": 9,
+                "minutes": "661'",
+                "name": "Richard Gough",
+                "nationality": "Scotland"
+            },
+            "14": {
+                "age": 29,
+                "appearances": 5,
+                "minutes": "220'",
+                "name": "Alec Cleland",
+                "nationality": "Scotland"
+            },
+            "15": {
+                "age": 38,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Dave Watson",
+                "nationality": "England"
+            },
+            "16": {
+                "age": 26,
+                "appearances": 34,
+                "minutes": "3.002'",
+                "name": "Steve Watson",
+                "nationality": "England"
+            },
+            "17": {
+                "age": 28,
+                "appearances": 20,
+                "minutes": "1.337'",
+                "name": "Niclas Alexandersson",
+                "nationality": "Sweden"
+            },
+            "18": {
+                "age": 23,
+                "appearances": 18,
+                "minutes": "1.346'",
+                "name": "Stephen Hughes",
+                "nationality": "England"
+            },
+            "19": {
+                "age": 29,
+                "appearances": 21,
+                "minutes": "1.698'",
+                "name": "Mark Pembridge",
+                "nationality": "Wales"
+            },
+            "20": {
+                "age": 24,
+                "appearances": 32,
+                "minutes": "2.634'",
+                "name": "Thomas Gravesen",
+                "nationality": "Denmark"
+            },
+            "21": {
+                "age": 29,
+                "appearances": 28,
+                "minutes": "2.280'",
+                "name": "Scot Gemmill",
+                "nationality": "Scotland"
+            },
+            "22": {
+                "age": 33,
+                "appearances": 14,
+                "minutes": "885'",
+                "name": "Paul Gascoigne",
+                "nationality": "England"
+            },
+            "23": {
+                "age": 23,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Peter Degn",
+                "nationality": "Denmark"
+            },
+            "24": {
+                "age": 19,
+                "appearances": 4,
+                "minutes": "57'",
+                "name": "Kevin McLeod",
+                "nationality": "Scotland"
+            },
+            "25": {
+                "age": 19,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Leon Osman",
+                "nationality": "England"
+            },
+            "26": {
+                "age": 24,
+                "appearances": 22,
+                "minutes": "1.109'",
+                "name": "Idan Tal",
+                "nationality": "Israel"
+            },
+            "27": {
+                "age": 16,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "David Carney",
+                "nationality": "Australia"
+            },
+            "28": {
+                "age": 30,
+                "appearances": 29,
+                "minutes": "2.453'",
+                "name": "Kevin Campbell",
+                "nationality": "England"
+            },
+            "29": {
+                "age": 19,
+                "appearances": 12,
+                "minutes": "906'",
+                "name": "Francis Jeffers",
+                "nationality": "England"
+            },
+            "30": {
+                "age": 29,
+                "appearances": 21,
+                "minutes": "849'",
+                "name": "Joe-Max Moore",
+                "nationality": "United States"
+            },
+            "31": {
+                "age": 20,
+                "appearances": 16,
+                "minutes": "722'",
+                "name": "Danny Cadamarteri",
+                "nationality": "England"
+            },
+            "32": {
+                "age": 28,
+                "appearances": 12,
+                "minutes": "793'",
+                "name": "Duncan Ferguson",
+                "nationality": "Scotland"
+            },
+            "33": {
+                "age": 20,
+                "appearances": 4,
+                "minutes": "107'",
+                "name": "Phil Jevons",
+                "nationality": "England"
+            },
+            "34": {
+                "age": 36,
+                "appearances": 9,
+                "minutes": "445'",
+                "name": "Mark Hughes",
+                "nationality": "Wales"
+            }
+        },
+        "fc-liverpool": {
+            "0": {
+                "age": 25,
+                "appearances": 38,
+                "minutes": "3.420'",
+                "name": "Sander Westerveld",
+                "nationality": "Netherlands"
+            },
+            "1": {
+                "age": 27,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Pegguy Arphexad",
+                "nationality": "France"
+            },
+            "2": {
+                "age": 22,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Frode Kippe",
+                "nationality": "Norway"
+            },
+            "3": {
+                "age": 24,
+                "appearances": 3,
+                "minutes": "270'",
+                "name": "Rigobert Song",
+                "nationality": "Cameroon"
+            },
+            "4": {
+                "age": 20,
+                "appearances": 8,
+                "minutes": "694'",
+                "name": "Djimi Traor\u00e9",
+                "nationality": "Mali"
+            },
+            "5": {
+                "age": 31,
+                "appearances": 1,
+                "minutes": "9'",
+                "name": "Steve Staunton",
+                "nationality": "Ireland"
+            },
+            "6": {
+                "age": 25,
+                "appearances": 32,
+                "minutes": "2.850'",
+                "name": "St\u00e9phane Henchoz",
+                "nationality": "Switzerland"
+            },
+            "7": {
+                "age": 26,
+                "appearances": 35,
+                "minutes": "3.150'",
+                "name": "Sami Hyypi\u00e4",
+                "nationality": "Finland"
+            },
+            "8": {
+                "age": 27,
+                "appearances": 38,
+                "minutes": "3.352'",
+                "name": "Markus Babbel",
+                "nationality": "Germany"
+            },
+            "9": {
+                "age": 24,
+                "appearances": 3,
+                "minutes": "37'",
+                "name": "Vegard Heggem",
+                "nationality": "Norway"
+            },
+            "10": {
+                "age": 22,
+                "appearances": 34,
+                "minutes": "2.698'",
+                "name": "Jamie Carragher",
+                "nationality": "England"
+            },
+            "11": {
+                "age": 22,
+                "appearances": 13,
+                "minutes": "641'",
+                "name": "Igor Biscan",
+                "nationality": "Croatia"
+            },
+            "12": {
+                "age": 18,
+                "appearances": 6,
+                "minutes": "392'",
+                "name": "Gr\u00e9gory Vignal",
+                "nationality": "France"
+            },
+            "13": {
+                "age": 20,
+                "appearances": 2,
+                "minutes": "61'",
+                "name": "Stephen Wright",
+                "nationality": "England"
+            },
+            "14": {
+                "age": 17,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Daniel Sj\u00f6lund",
+                "nationality": "Finland"
+            },
+            "15": {
+                "age": 20,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Leyton Maxwell",
+                "nationality": "Wales"
+            },
+            "16": {
+                "age": 28,
+                "appearances": 16,
+                "minutes": "980'",
+                "name": "Christian Ziege",
+                "nationality": "Germany"
+            },
+            "17": {
+                "age": 27,
+                "appearances": 27,
+                "minutes": "1.497'",
+                "name": "Vladimir Smicer",
+                "nationality": "Czech Republic"
+            },
+            "18": {
+                "age": 27,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Jamie Redknapp",
+                "nationality": "England"
+            },
+            "19": {
+                "age": 23,
+                "appearances": 26,
+                "minutes": "1.356'",
+                "name": "Danny Murphy",
+                "nationality": "England"
+            },
+            "20": {
+                "age": 26,
+                "appearances": 14,
+                "minutes": "893'",
+                "name": "Patrik Berger",
+                "nationality": "Czech Republic"
+            },
+            "21": {
+                "age": 26,
+                "appearances": 30,
+                "minutes": "2.343'",
+                "name": "Dietmar Hamann",
+                "nationality": "Germany"
+            },
+            "22": {
+                "age": 20,
+                "appearances": 33,
+                "minutes": "2.521'",
+                "name": "Steven Gerrard",
+                "nationality": "England"
+            },
+            "23": {
+                "age": 26,
+                "appearances": 26,
+                "minutes": "1.882'",
+                "name": "Nick Barmby",
+                "nationality": "England"
+            },
+            "24": {
+                "age": 35,
+                "appearances": 30,
+                "minutes": "1.920'",
+                "name": "Gary McAllister",
+                "nationality": "Scotland"
+            },
+            "25": {
+                "age": 29,
+                "appearances": 5,
+                "minutes": "332'",
+                "name": "Jari Litmanen",
+                "nationality": "Finland"
+            },
+            "26": {
+                "age": 30,
+                "appearances": 3,
+                "minutes": "40'",
+                "name": "Erik Meijer",
+                "nationality": "Netherlands"
+            },
+            "27": {
+                "age": 22,
+                "appearances": 36,
+                "minutes": "2.683'",
+                "name": "Emile Heskey",
+                "nationality": "England"
+            },
+            "28": {
+                "age": 25,
+                "appearances": 27,
+                "minutes": "1.539'",
+                "name": "Robbie Fowler",
+                "nationality": "England"
+            },
+            "29": {
+                "age": 20,
+                "appearances": 28,
+                "minutes": "1.780'",
+                "name": "Michael Owen",
+                "nationality": "England"
+            },
+            "30": {
+                "age": 26,
+                "appearances": 2,
+                "minutes": "107'",
+                "name": "Bernard Diom\u00e8de",
+                "nationality": "France"
+            }
+        },
+        "fc-middlesbrough": {
+            "0": {
+                "age": 18,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Brad Jones",
+                "nationality": "Australia"
+            },
+            "1": {
+                "age": 17,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Sam Russell",
+                "nationality": "England"
+            },
+            "2": {
+                "age": 31,
+                "appearances": 5,
+                "minutes": "300'",
+                "name": "Mark Crossley",
+                "nationality": "Wales"
+            },
+            "3": {
+                "age": 30,
+                "appearances": 1,
+                "minutes": "66'",
+                "name": "Marlon Beresford",
+                "nationality": "England"
+            },
+            "4": {
+                "age": 32,
+                "appearances": 3,
+                "minutes": "262'",
+                "name": "Gary Walsh",
+                "nationality": "England"
+            },
+            "5": {
+                "age": 27,
+                "appearances": 31,
+                "minutes": "2.790'",
+                "name": "Mark Schwarzer",
+                "nationality": "Australia"
+            },
+            "6": {
+                "age": 20,
+                "appearances": 14,
+                "minutes": "1.033'",
+                "name": "Jason Gavin",
+                "nationality": "Ireland"
+            },
+            "7": {
+                "age": 18,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Luke Wilkshire",
+                "nationality": "Australia"
+            },
+            "8": {
+                "age": 31,
+                "appearances": 30,
+                "minutes": "2.502'",
+                "name": "Curtis Fleming",
+                "nationality": "Ireland"
+            },
+            "9": {
+                "age": 27,
+                "appearances": 19,
+                "minutes": "1.264'",
+                "name": "Dean Gordon",
+                "nationality": "England"
+            },
+            "10": {
+                "age": 32,
+                "appearances": 30,
+                "minutes": "2.510'",
+                "name": "Steve Vickers",
+                "nationality": "England"
+            },
+            "11": {
+                "age": 31,
+                "appearances": 25,
+                "minutes": "1.896'",
+                "name": "Gianluca Festa",
+                "nationality": "Italy"
+            },
+            "12": {
+                "age": 27,
+                "appearances": 21,
+                "minutes": "1.803'",
+                "name": "Ugo Ehiogu",
+                "nationality": "England"
+            },
+            "13": {
+                "age": 20,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Robbie Stockdale",
+                "nationality": "Scotland"
+            },
+            "14": {
+                "age": 33,
+                "appearances": 27,
+                "minutes": "2.198'",
+                "name": "Colin Cooper",
+                "nationality": "England"
+            },
+            "15": {
+                "age": 35,
+                "appearances": 8,
+                "minutes": "676'",
+                "name": "Gary Pallister",
+                "nationality": "England"
+            },
+            "16": {
+                "age": 19,
+                "appearances": 3,
+                "minutes": "47'",
+                "name": "Mark Hudson",
+                "nationality": "England"
+            },
+            "17": {
+                "age": 18,
+                "appearances": 13,
+                "minutes": "303'",
+                "name": "Carlos Marinelli",
+                "nationality": "Argentina"
+            },
+            "18": {
+                "age": 31,
+                "appearances": 25,
+                "minutes": "1.343'",
+                "name": "Robbie Mustoe",
+                "nationality": "England"
+            },
+            "19": {
+                "age": 24,
+                "appearances": 19,
+                "minutes": "1.022'",
+                "name": "Phil Stamp",
+                "nationality": "England"
+            },
+            "20": {
+                "age": 18,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Sean Kilgannon",
+                "nationality": "Scotland"
+            },
+            "21": {
+                "age": 29,
+                "appearances": 33,
+                "minutes": "2.562'",
+                "name": "Christian Karembeu",
+                "nationality": "France"
+            },
+            "22": {
+                "age": 32,
+                "appearances": 30,
+                "minutes": "2.684'",
+                "name": "Paul Ince",
+                "nationality": "England"
+            },
+            "23": {
+                "age": 28,
+                "appearances": 24,
+                "minutes": "1.965'",
+                "name": "Paul Okon",
+                "nationality": "Australia"
+            },
+            "24": {
+                "age": 23,
+                "appearances": 7,
+                "minutes": "483'",
+                "name": "Mark Summerbell",
+                "nationality": "England"
+            },
+            "25": {
+                "age": 21,
+                "appearances": 7,
+                "minutes": "396'",
+                "name": "Andy Campbell",
+                "nationality": "England"
+            },
+            "26": {
+                "age": 24,
+                "appearances": 15,
+                "minutes": "1.243'",
+                "name": "Keith O'Neill",
+                "nationality": "Ireland"
+            },
+            "27": {
+                "age": 32,
+                "appearances": 24,
+                "minutes": "1.437'",
+                "name": "Brian Deane",
+                "nationality": "England"
+            },
+            "28": {
+                "age": 22,
+                "appearances": 12,
+                "minutes": "671'",
+                "name": "Joseph-D\u00e9sir\u00e9 Job",
+                "nationality": "Cameroon"
+            },
+            "29": {
+                "age": 31,
+                "appearances": 8,
+                "minutes": "685'",
+                "name": "Dean Windass",
+                "nationality": "England"
+            },
+            "30": {
+                "age": 30,
+                "appearances": 28,
+                "minutes": "2.166'",
+                "name": "Alen Boksic",
+                "nationality": "Croatia"
+            },
+            "31": {
+                "age": 26,
+                "appearances": 27,
+                "minutes": "1.766'",
+                "name": "H\u00e1milton Ricard",
+                "nationality": "Colombia"
+            },
+            "32": {
+                "age": 25,
+                "appearances": 27,
+                "minutes": "1.340'",
+                "name": "Noel Whelan",
+                "nationality": "England"
+            },
+            "33": {
+                "age": 21,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Anthony Ormerod",
+                "nationality": "England"
+            }
+        },
+        "fc-southampton": {
+            "0": {
+                "age": 18,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Chris Sharpe",
+                "nationality": "Australia"
+            },
+            "1": {
+                "age": 33,
+                "appearances": 34,
+                "minutes": "3.060'",
+                "name": "Paul Jones",
+                "nationality": "Wales"
+            },
+            "2": {
+                "age": 25,
+                "appearances": 3,
+                "minutes": "270'",
+                "name": "Neil Moss",
+                "nationality": "England"
+            },
+            "3": {
+                "age": 32,
+                "appearances": 32,
+                "minutes": "2.320'",
+                "name": "Tahar El Khalej",
+                "nationality": "Morocco"
+            },
+            "4": {
+                "age": 21,
+                "appearances": 2,
+                "minutes": "154'",
+                "name": "Garry Monk",
+                "nationality": "England"
+            },
+            "5": {
+                "age": 32,
+                "appearances": 9,
+                "minutes": "677'",
+                "name": "Dan Petrescu",
+                "nationality": "Romania"
+            },
+            "6": {
+                "age": 26,
+                "appearances": 28,
+                "minutes": "2.493'",
+                "name": "Dean Richards \u2020",
+                "nationality": "England"
+            },
+            "7": {
+                "age": 29,
+                "appearances": 31,
+                "minutes": "2.584'",
+                "name": "Jason Dodd",
+                "nationality": "England"
+            },
+            "8": {
+                "age": 27,
+                "appearances": 38,
+                "minutes": "3.349'",
+                "name": "Claus Lundekvam",
+                "nationality": "Norway"
+            },
+            "9": {
+                "age": 31,
+                "appearances": 4,
+                "minutes": "63'",
+                "name": "Francis Benali",
+                "nationality": "England"
+            },
+            "10": {
+                "age": 19,
+                "appearances": 38,
+                "minutes": "3.420'",
+                "name": "Wayne Bridge",
+                "nationality": "England"
+            },
+            "11": {
+                "age": 22,
+                "appearances": 1,
+                "minutes": "90'",
+                "name": "Paul Jones",
+                "nationality": "England"
+            },
+            "12": {
+                "age": 24,
+                "appearances": 1,
+                "minutes": "7'",
+                "name": "Imants Bleidelis",
+                "nationality": "Latvia"
+            },
+            "13": {
+                "age": 18,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Adri\u00e1n C\u00e1ceres",
+                "nationality": "Australia"
+            },
+            "14": {
+                "age": 27,
+                "appearances": 32,
+                "minutes": "2.294'",
+                "name": "Hassan Kachloul",
+                "nationality": "Morocco"
+            },
+            "15": {
+                "age": 31,
+                "appearances": 23,
+                "minutes": "1.604'",
+                "name": "Chris Marsden",
+                "nationality": "England"
+            },
+            "16": {
+                "age": 31,
+                "appearances": 8,
+                "minutes": "234'",
+                "name": "Matt Le Tissier",
+                "nationality": "England"
+            },
+            "17": {
+                "age": 22,
+                "appearances": 35,
+                "minutes": "2.962'",
+                "name": "Matt Oakley",
+                "nationality": "England"
+            },
+            "18": {
+                "age": 29,
+                "appearances": 22,
+                "minutes": "1.555'",
+                "name": "Mark Draper",
+                "nationality": "England"
+            },
+            "19": {
+                "age": 28,
+                "appearances": 33,
+                "minutes": "2.462'",
+                "name": "Jo Tessem",
+                "nationality": "Norway"
+            },
+            "20": {
+                "age": 29,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Cl\u00e9ber Chal\u00e1",
+                "nationality": "Ecuador"
+            },
+            "21": {
+                "age": 20,
+                "appearances": 3,
+                "minutes": "72'",
+                "name": "Kevin Gibbens",
+                "nationality": "England"
+            },
+            "22": {
+                "age": 32,
+                "appearances": 3,
+                "minutes": "102'",
+                "name": "Stuart Ripley",
+                "nationality": "England"
+            },
+            "23": {
+                "age": 33,
+                "appearances": 6,
+                "minutes": "366'",
+                "name": "Trond Soltvedt",
+                "nationality": "Norway"
+            },
+            "24": {
+                "age": 16,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Scott McDonald",
+                "nationality": "Australia"
+            },
+            "25": {
+                "age": 20,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Dani Rodrigues",
+                "nationality": "Portugal"
+            },
+            "26": {
+                "age": 23,
+                "appearances": 27,
+                "minutes": "1.799'",
+                "name": "Kevin Davies",
+                "nationality": "England"
+            },
+            "27": {
+                "age": 31,
+                "appearances": 19,
+                "minutes": "675'",
+                "name": "Uwe R\u00f6sler",
+                "nationality": "Germany"
+            },
+            "28": {
+                "age": 22,
+                "appearances": 36,
+                "minutes": "2.596'",
+                "name": "James Beattie",
+                "nationality": "England"
+            },
+            "29": {
+                "age": 23,
+                "appearances": 31,
+                "minutes": "2.332'",
+                "name": "Marians Pahars",
+                "nationality": "Latvia"
+            }
+        },
+        "ipswich-town": {
+            "0": {
+                "age": 22,
+                "appearances": 36,
+                "minutes": "3.192'",
+                "name": "Richard Wright",
+                "nationality": "England"
+            },
+            "1": {
+                "age": 18,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "James Pullen",
+                "nationality": "England"
+            },
+            "2": {
+                "age": 33,
+                "appearances": 2,
+                "minutes": "180'",
+                "name": "Keith Branagan",
+                "nationality": "Ireland"
+            },
+            "3": {
+                "age": 29,
+                "appearances": 29,
+                "minutes": "2.267'",
+                "name": "Fabian Wilnis",
+                "nationality": "Netherlands"
+            },
+            "4": {
+                "age": 24,
+                "appearances": 35,
+                "minutes": "2.565'",
+                "name": "Jamie Clapham",
+                "nationality": "England"
+            },
+            "5": {
+                "age": 28,
+                "appearances": 28,
+                "minutes": "2.256'",
+                "name": "John McGreal",
+                "nationality": "England"
+            },
+            "6": {
+                "age": 33,
+                "appearances": 25,
+                "minutes": "2.057'",
+                "name": "Mark Venus",
+                "nationality": "England"
+            },
+            "7": {
+                "age": 23,
+                "appearances": 13,
+                "minutes": "540'",
+                "name": "Richard Naylor",
+                "nationality": "England"
+            },
+            "8": {
+                "age": 26,
+                "appearances": 8,
+                "minutes": "481'",
+                "name": "Gary Croft",
+                "nationality": "England"
+            },
+            "9": {
+                "age": 22,
+                "appearances": 4,
+                "minutes": "84'",
+                "name": "Wayne Brown",
+                "nationality": "England"
+            },
+            "10": {
+                "age": 18,
+                "appearances": 26,
+                "minutes": "2.131'",
+                "name": "Titus Bramble",
+                "nationality": "England"
+            },
+            "11": {
+                "age": 25,
+                "appearances": 36,
+                "minutes": "3.104'",
+                "name": "Hermann Hreidarsson",
+                "nationality": "Iceland"
+            },
+            "12": {
+                "age": 26,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Amir Karic",
+                "nationality": "Slovenia"
+            },
+            "13": {
+                "age": 27,
+                "appearances": 11,
+                "minutes": "973'",
+                "name": "Chris Makin",
+                "nationality": "England"
+            },
+            "14": {
+                "age": 33,
+                "appearances": 2,
+                "minutes": "180'",
+                "name": "John Scales",
+                "nationality": "England"
+            },
+            "15": {
+                "age": 31,
+                "appearances": 33,
+                "minutes": "2.826'",
+                "name": "Jim Magilton",
+                "nationality": "Northern Ireland"
+            },
+            "16": {
+                "age": 26,
+                "appearances": 38,
+                "minutes": "3.378'",
+                "name": "Matt Holland",
+                "nationality": "Ireland"
+            },
+            "17": {
+                "age": 24,
+                "appearances": 37,
+                "minutes": "2.913'",
+                "name": "Jermaine Wright",
+                "nationality": "England"
+            },
+            "18": {
+                "age": 17,
+                "appearances": 2,
+                "minutes": "14'",
+                "name": "Nabil Abidallah",
+                "nationality": "Netherlands"
+            },
+            "19": {
+                "age": 25,
+                "appearances": 26,
+                "minutes": "1.270'",
+                "name": "Martijn Reuser",
+                "nationality": "Netherlands"
+            },
+            "20": {
+                "age": 18,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Richard Logan",
+                "nationality": "England"
+            },
+            "21": {
+                "age": 24,
+                "appearances": 33,
+                "minutes": "2.169'",
+                "name": "James Scowcroft",
+                "nationality": "England"
+            },
+            "22": {
+                "age": 23,
+                "appearances": 13,
+                "minutes": "605'",
+                "name": "David Johnson",
+                "nationality": "Jamaica"
+            },
+            "23": {
+                "age": 27,
+                "appearances": 34,
+                "minutes": "2.719'",
+                "name": "Marcus Stewart",
+                "nationality": "England"
+            },
+            "24": {
+                "age": 25,
+                "appearances": 21,
+                "minutes": "1.478'",
+                "name": "Alun Armstrong",
+                "nationality": "England"
+            },
+            "25": {
+                "age": 19,
+                "appearances": 7,
+                "minutes": "214'",
+                "name": "Mark Burchill",
+                "nationality": "Scotland"
+            },
+            "26": {
+                "age": 21,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Sean Friars",
+                "nationality": "Northern Ireland"
+            }
+        },
+        "leeds-united": {
+            "0": {
+                "age": 22,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Dejan Milosevic",
+                "nationality": "Australia"
+            },
+            "1": {
+                "age": 17,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Chad Harpur",
+                "nationality": "South Africa"
+            },
+            "2": {
+                "age": 15,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Paul Murphy",
+                "nationality": "Ireland"
+            },
+            "3": {
+                "age": 33,
+                "appearances": 22,
+                "minutes": "1.960'",
+                "name": "Nigel Martyn",
+                "nationality": "England"
+            },
+            "4": {
+                "age": 20,
+                "appearances": 16,
+                "minutes": "1.369'",
+                "name": "Paul Robinson",
+                "nationality": "England"
+            },
+            "5": {
+                "age": 17,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Shane Cansdell-Sherriff",
+                "nationality": "Australia"
+            },
+            "6": {
+                "age": 21,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Alan Maybury",
+                "nationality": "Ireland"
+            },
+            "7": {
+                "age": 31,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Robert Molenaar",
+                "nationality": "Netherlands"
+            },
+            "8": {
+                "age": 25,
+                "appearances": 24,
+                "minutes": "2.027'",
+                "name": "Gary Kelly",
+                "nationality": "Ireland"
+            },
+            "9": {
+                "age": 22,
+                "appearances": 29,
+                "minutes": "2.610'",
+                "name": "Ian Harte",
+                "nationality": "Ireland"
+            },
+            "10": {
+                "age": 31,
+                "appearances": 20,
+                "minutes": "1.640'",
+                "name": "Lucas Radebe",
+                "nationality": "South Africa"
+            },
+            "11": {
+                "age": 20,
+                "appearances": 14,
+                "minutes": "1.064'",
+                "name": "Jonathan Woodgate",
+                "nationality": "England"
+            },
+            "12": {
+                "age": 23,
+                "appearances": 23,
+                "minutes": "1.905'",
+                "name": "Danny Mills",
+                "nationality": "England"
+            },
+            "13": {
+                "age": 26,
+                "appearances": 30,
+                "minutes": "2.596'",
+                "name": "Dominic Matteo",
+                "nationality": "Scotland"
+            },
+            "14": {
+                "age": 24,
+                "appearances": 4,
+                "minutes": "360'",
+                "name": "Michael Duberry",
+                "nationality": "England"
+            },
+            "15": {
+                "age": 25,
+                "appearances": 4,
+                "minutes": "298'",
+                "name": "Danny Hay",
+                "nationality": "New Zealand"
+            },
+            "16": {
+                "age": 21,
+                "appearances": 23,
+                "minutes": "2.070'",
+                "name": "Rio Ferdinand",
+                "nationality": "England"
+            },
+            "17": {
+                "age": 19,
+                "appearances": 1,
+                "minutes": "33'",
+                "name": "Gareth Evans",
+                "nationality": "England"
+            },
+            "18": {
+                "age": 19,
+                "appearances": 33,
+                "minutes": "2.406'",
+                "name": "Alan Smith",
+                "nationality": "England"
+            },
+            "19": {
+                "age": 20,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Tony Hackworth",
+                "nationality": "England"
+            },
+            "20": {
+                "age": 23,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Steven Ferguson",
+                "nationality": "Scotland"
+            },
+            "21": {
+                "age": 25,
+                "appearances": 33,
+                "minutes": "2.763'",
+                "name": "Olivier Dacourt",
+                "nationality": "France"
+            },
+            "22": {
+                "age": 23,
+                "appearances": 38,
+                "minutes": "3.341'",
+                "name": "Lee Bowyer",
+                "nationality": "England"
+            },
+            "23": {
+                "age": 20,
+                "appearances": 7,
+                "minutes": "356'",
+                "name": "Stephen McPhail",
+                "nationality": "Ireland"
+            },
+            "24": {
+                "age": 22,
+                "appearances": 29,
+                "minutes": "2.082'",
+                "name": "Eirik Bakke",
+                "nationality": "Norway"
+            },
+            "25": {
+                "age": 19,
+                "appearances": 4,
+                "minutes": "278'",
+                "name": "Matthew Jones",
+                "nationality": "Wales"
+            },
+            "26": {
+                "age": 31,
+                "appearances": 16,
+                "minutes": "1.179'",
+                "name": "David Batty",
+                "nationality": "England"
+            },
+            "27": {
+                "age": 22,
+                "appearances": 4,
+                "minutes": "297'",
+                "name": "Jacob Burns",
+                "nationality": "Australia"
+            },
+            "28": {
+                "age": 17,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Jamie McMaster",
+                "nationality": "Australia"
+            },
+            "29": {
+                "age": 21,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Wesley Boyle",
+                "nationality": "Northern Ireland"
+            },
+            "30": {
+                "age": 19,
+                "appearances": 18,
+                "minutes": "1.032'",
+                "name": "Robbie Keane",
+                "nationality": "Ireland"
+            },
+            "31": {
+                "age": 24,
+                "appearances": 7,
+                "minutes": "246'",
+                "name": "Darren Huckerby",
+                "nationality": "England"
+            },
+            "32": {
+                "age": 21,
+                "appearances": 7,
+                "minutes": "538'",
+                "name": "Michael Bridges",
+                "nationality": "England"
+            },
+            "33": {
+                "age": 24,
+                "appearances": 34,
+                "minutes": "3.008'",
+                "name": "Mark Viduka",
+                "nationality": "Australia"
+            },
+            "34": {
+                "age": 21,
+                "appearances": 17,
+                "minutes": "1.153'",
+                "name": "Harry Kewell",
+                "nationality": "Australia"
+            },
+            "35": {
+                "age": 28,
+                "appearances": 17,
+                "minutes": "792'",
+                "name": "Jason Wilcox",
+                "nationality": "England"
+            }
+        },
+        "leicester-city": {
+            "0": {
+                "age": 33,
+                "appearances": 22,
+                "minutes": "1.875'",
+                "name": "Tim Flowers",
+                "nationality": "England"
+            },
+            "1": {
+                "age": 28,
+                "appearances": 19,
+                "minutes": "1.542'",
+                "name": "Simon Royce",
+                "nationality": "England"
+            },
+            "2": {
+                "age": 35,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Ian Andrews",
+                "nationality": "England"
+            },
+            "3": {
+                "age": 18,
+                "appearances": 5,
+                "minutes": "291'",
+                "name": "Damien Delaney",
+                "nationality": "Ireland"
+            },
+            "4": {
+                "age": 18,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Jordan Stewart",
+                "nationality": "England"
+            },
+            "5": {
+                "age": 19,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Danny Thomas",
+                "nationality": "England"
+            },
+            "6": {
+                "age": 17,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Jon Ashton",
+                "nationality": "England"
+            },
+            "7": {
+                "age": 26,
+                "appearances": 38,
+                "minutes": "3.401'",
+                "name": "Gary Rowett",
+                "nationality": "England"
+            },
+            "8": {
+                "age": 26,
+                "appearances": 11,
+                "minutes": "630'",
+                "name": "Phil Gilchrist",
+                "nationality": "England"
+            },
+            "9": {
+                "age": 28,
+                "appearances": 17,
+                "minutes": "1.193'",
+                "name": "Frank Sinclair",
+                "nationality": "Jamaica"
+            },
+            "10": {
+                "age": 29,
+                "appearances": 24,
+                "minutes": "2.017'",
+                "name": "Gerry Taggart",
+                "nationality": "Northern Ireland"
+            },
+            "11": {
+                "age": 24,
+                "appearances": 28,
+                "minutes": "2.057'",
+                "name": "Callum Davidson",
+                "nationality": "Scotland"
+            },
+            "12": {
+                "age": 35,
+                "appearances": 1,
+                "minutes": "8'",
+                "name": "Steve Walsh",
+                "nationality": "England"
+            },
+            "13": {
+                "age": 31,
+                "appearances": 34,
+                "minutes": "2.969'",
+                "name": "Matt Elliott",
+                "nationality": "Scotland"
+            },
+            "14": {
+                "age": 18,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Matt Piper",
+                "nationality": "England"
+            },
+            "15": {
+                "age": 17,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Jon Stevenson",
+                "nationality": "England"
+            },
+            "16": {
+                "age": 21,
+                "appearances": 9,
+                "minutes": "689'",
+                "name": "Lee Marshall",
+                "nationality": "England"
+            },
+            "17": {
+                "age": 28,
+                "appearances": 33,
+                "minutes": "2.603'",
+                "name": "Andy Impey",
+                "nationality": "England"
+            },
+            "18": {
+                "age": 25,
+                "appearances": 27,
+                "minutes": "2.233'",
+                "name": "Muzzy Izzet",
+                "nationality": "Turkey"
+            },
+            "19": {
+                "age": 29,
+                "appearances": 15,
+                "minutes": "1.305'",
+                "name": "Neil Lennon",
+                "nationality": "Northern Ireland"
+            },
+            "20": {
+                "age": 25,
+                "appearances": 33,
+                "minutes": "2.921'",
+                "name": "Robbie Savage",
+                "nationality": "Wales"
+            },
+            "21": {
+                "age": 19,
+                "appearances": 11,
+                "minutes": "738'",
+                "name": "Matthew Jones",
+                "nationality": "Wales"
+            },
+            "22": {
+                "age": 21,
+                "appearances": 13,
+                "minutes": "628'",
+                "name": "Stefan Oakes",
+                "nationality": "England"
+            },
+            "23": {
+                "age": 21,
+                "appearances": 21,
+                "minutes": "777'",
+                "name": "Trevor Benjamin",
+                "nationality": "Jamaica"
+            },
+            "24": {
+                "age": 21,
+                "appearances": 1,
+                "minutes": "6'",
+                "name": "Kevin Ellison",
+                "nationality": "England"
+            },
+            "25": {
+                "age": 25,
+                "appearances": 37,
+                "minutes": "2.788'",
+                "name": "Ade Akinbiyi",
+                "nationality": "Nigeria"
+            },
+            "26": {
+                "age": 22,
+                "appearances": 8,
+                "minutes": "322'",
+                "name": "Richard Cresswell",
+                "nationality": "England"
+            },
+            "27": {
+                "age": 27,
+                "appearances": 17,
+                "minutes": "568'",
+                "name": "Arnar Gunnlaugsson",
+                "nationality": "Iceland"
+            },
+            "28": {
+                "age": 26,
+                "appearances": 13,
+                "minutes": "880'",
+                "name": "Dean Sturridge",
+                "nationality": "England"
+            },
+            "29": {
+                "age": 25,
+                "appearances": 24,
+                "minutes": "1.447'",
+                "name": "Darren Eadie",
+                "nationality": "England"
+            },
+            "30": {
+                "age": 26,
+                "appearances": 15,
+                "minutes": "1.350'",
+                "name": "Junior Lewis",
+                "nationality": "England"
+            },
+            "31": {
+                "age": 31,
+                "appearances": 28,
+                "minutes": "1.711'",
+                "name": "Steve Guppy",
+                "nationality": "England"
+            },
+            "32": {
+                "age": 35,
+                "appearances": 4,
+                "minutes": "238'",
+                "name": "Roberto Mancini",
+                "nationality": "Italy"
+            },
+            "33": {
+                "age": 34,
+                "appearances": 2,
+                "minutes": "24'",
+                "name": "Anthony Cottee",
+                "nationality": "England"
+            },
+            "34": {
+                "age": 29,
+                "appearances": 5,
+                "minutes": "236'",
+                "name": "Stan Collymore",
+                "nationality": "England"
+            }
+        },
+        "manchester-city": {
+            "0": {
+                "age": 17,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Brian Murphy",
+                "nationality": "Ireland"
+            },
+            "1": {
+                "age": 21,
+                "appearances": 31,
+                "minutes": "2.790'",
+                "name": "Nicky Weaver",
+                "nationality": "England"
+            },
+            "2": {
+                "age": 26,
+                "appearances": 6,
+                "minutes": "540'",
+                "name": "Carlo Nash",
+                "nationality": "England"
+            },
+            "3": {
+                "age": 36,
+                "appearances": 1,
+                "minutes": "90'",
+                "name": "Tommy Wright",
+                "nationality": "Northern Ireland"
+            },
+            "4": {
+                "age": 24,
+                "appearances": 25,
+                "minutes": "1.475'",
+                "name": "Mark Kennedy",
+                "nationality": "Ireland"
+            },
+            "5": {
+                "age": 25,
+                "appearances": 6,
+                "minutes": "499'",
+                "name": "Richard Edghill",
+                "nationality": "England"
+            },
+            "6": {
+                "age": 25,
+                "appearances": 19,
+                "minutes": "1.305'",
+                "name": "Danny Granville",
+                "nationality": "England"
+            },
+            "7": {
+                "age": 17,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Rhys Day",
+                "nationality": "Wales"
+            },
+            "8": {
+                "age": 24,
+                "appearances": 12,
+                "minutes": "936'",
+                "name": "Paul Ritchie",
+                "nationality": "Scotland"
+            },
+            "9": {
+                "age": 27,
+                "appearances": 34,
+                "minutes": "2.530'",
+                "name": "Gerard Wiekens",
+                "nationality": "Netherlands"
+            },
+            "10": {
+                "age": 29,
+                "appearances": 21,
+                "minutes": "1.673'",
+                "name": "Spencer Prior",
+                "nationality": "England"
+            },
+            "11": {
+                "age": 27,
+                "appearances": 33,
+                "minutes": "2.730'",
+                "name": "Danny Tiatto",
+                "nationality": "Australia"
+            },
+            "12": {
+                "age": 20,
+                "appearances": 25,
+                "minutes": "2.138'",
+                "name": "Richard Dunne",
+                "nationality": "Ireland"
+            },
+            "13": {
+                "age": 28,
+                "appearances": 36,
+                "minutes": "3.145'",
+                "name": "Steve Howey",
+                "nationality": "England"
+            },
+            "14": {
+                "age": 27,
+                "appearances": 20,
+                "minutes": "1.442'",
+                "name": "Laurent Charvet",
+                "nationality": "France"
+            },
+            "15": {
+                "age": 29,
+                "appearances": 3,
+                "minutes": "215'",
+                "name": "Andy Morrison",
+                "nationality": "Scotland"
+            },
+            "16": {
+                "age": 18,
+                "appearances": 1,
+                "minutes": "58'",
+                "name": "Terry Dunfield",
+                "nationality": "Canada"
+            },
+            "17": {
+                "age": 18,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Dickson Etuhu",
+                "nationality": "Nigeria"
+            },
+            "18": {
+                "age": 22,
+                "appearances": 2,
+                "minutes": "83'",
+                "name": "Lee Crooks",
+                "nationality": "England"
+            },
+            "19": {
+                "age": 25,
+                "appearances": 10,
+                "minutes": "466'",
+                "name": "Tony Grant",
+                "nationality": "England"
+            },
+            "20": {
+                "age": 19,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Shaun Holmes",
+                "nationality": "Northern Ireland"
+            },
+            "21": {
+                "age": 23,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Terry Cooke",
+                "nationality": "England"
+            },
+            "22": {
+                "age": 27,
+                "appearances": 14,
+                "minutes": "1.020'",
+                "name": "Kevin Horlock",
+                "nationality": "Northern Ireland"
+            },
+            "23": {
+                "age": 31,
+                "appearances": 10,
+                "minutes": "678'",
+                "name": "Andrey Kanchelskis",
+                "nationality": "Russia"
+            },
+            "24": {
+                "age": 21,
+                "appearances": 31,
+                "minutes": "2.474'",
+                "name": "Jeff Whitley",
+                "nationality": "Northern Ireland"
+            },
+            "25": {
+                "age": 35,
+                "appearances": 10,
+                "minutes": "523'",
+                "name": "Ian Bishop",
+                "nationality": "England"
+            },
+            "26": {
+                "age": 27,
+                "appearances": 35,
+                "minutes": "3.039'",
+                "name": "Alf-Inge Haland",
+                "nationality": "Norway"
+            },
+            "27": {
+                "age": 18,
+                "appearances": 15,
+                "minutes": "907'",
+                "name": "Shaun Wright-Phillips",
+                "nationality": "England"
+            },
+            "28": {
+                "age": 21,
+                "appearances": 1,
+                "minutes": "15'",
+                "name": "Daniel Allsopp",
+                "nationality": "Australia"
+            },
+            "29": {
+                "age": 19,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Dino Toppm\u00f6ller",
+                "nationality": "Germany"
+            },
+            "30": {
+                "age": 27,
+                "appearances": 21,
+                "minutes": "1.428'",
+                "name": "Paul Dickov",
+                "nationality": "Scotland"
+            },
+            "31": {
+                "age": 30,
+                "appearances": 26,
+                "minutes": "1.756'",
+                "name": "Shaun Goater",
+                "nationality": "Bermuda"
+            },
+            "32": {
+                "age": 28,
+                "appearances": 4,
+                "minutes": "174'",
+                "name": "Egil \u00d6stenstad",
+                "nationality": "Norway"
+            },
+            "33": {
+                "age": 27,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Gareth Taylor",
+                "nationality": "Wales"
+            },
+            "34": {
+                "age": 33,
+                "appearances": 7,
+                "minutes": "473'",
+                "name": "George Weah",
+                "nationality": "Liberia"
+            },
+            "35": {
+                "age": 24,
+                "appearances": 13,
+                "minutes": "699'",
+                "name": "Darren Huckerby",
+                "nationality": "England"
+            },
+            "36": {
+                "age": 23,
+                "appearances": 27,
+                "minutes": "2.200'",
+                "name": "Paulo Wanchope",
+                "nationality": "Costa Rica"
+            }
+        },
+        "manchester-united": {
+            "0": {
+                "age": 19,
+                "appearances": 1,
+                "minutes": "90'",
+                "name": "Paul Rachubka",
+                "nationality": "England"
+            },
+            "1": {
+                "age": 29,
+                "appearances": 30,
+                "minutes": "2.675'",
+                "name": "Fabien Barthez",
+                "nationality": "France"
+            },
+            "2": {
+                "age": 37,
+                "appearances": 10,
+                "minutes": "532'",
+                "name": "Raymond van der Gouw",
+                "nationality": "Netherlands"
+            },
+            "3": {
+                "age": 36,
+                "appearances": 2,
+                "minutes": "123'",
+                "name": "Andy Goram",
+                "nationality": "Scotland"
+            },
+            "4": {
+                "age": 20,
+                "appearances": 28,
+                "minutes": "2.262'",
+                "name": "Wes Brown",
+                "nationality": "England"
+            },
+            "5": {
+                "age": 30,
+                "appearances": 1,
+                "minutes": "44'",
+                "name": "Henning Berg",
+                "nationality": "Norway"
+            },
+            "6": {
+                "age": 18,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Mark Lynch",
+                "nationality": "England"
+            },
+            "7": {
+                "age": 17,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Paul Tierney",
+                "nationality": "Ireland"
+            },
+            "8": {
+                "age": 25,
+                "appearances": 32,
+                "minutes": "2.849'",
+                "name": "Gary Neville",
+                "nationality": "England"
+            },
+            "9": {
+                "age": 34,
+                "appearances": 21,
+                "minutes": "1.762'",
+                "name": "Denis Irwin",
+                "nationality": "Ireland"
+            },
+            "10": {
+                "age": 30,
+                "appearances": 2,
+                "minutes": "109'",
+                "name": "David May",
+                "nationality": "England"
+            },
+            "11": {
+                "age": 31,
+                "appearances": 11,
+                "minutes": "895'",
+                "name": "Ronny Johnsen",
+                "nationality": "Norway"
+            },
+            "12": {
+                "age": 27,
+                "appearances": 15,
+                "minutes": "1.235'",
+                "name": "Jaap Stam",
+                "nationality": "Netherlands"
+            },
+            "13": {
+                "age": 23,
+                "appearances": 29,
+                "minutes": "2.185'",
+                "name": "Phil Neville",
+                "nationality": "England"
+            },
+            "14": {
+                "age": 22,
+                "appearances": 30,
+                "minutes": "2.250'",
+                "name": "Mika\u00ebl Silvestre",
+                "nationality": "France"
+            },
+            "15": {
+                "age": 22,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Mike Clegg",
+                "nationality": "England"
+            },
+            "16": {
+                "age": 21,
+                "appearances": 7,
+                "minutes": "273'",
+                "name": "Jonathan Greening",
+                "nationality": "England"
+            },
+            "17": {
+                "age": 22,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Michael Twiss",
+                "nationality": "England"
+            },
+            "18": {
+                "age": 25,
+                "appearances": 31,
+                "minutes": "2.648'",
+                "name": "David Beckham",
+                "nationality": "England"
+            },
+            "19": {
+                "age": 25,
+                "appearances": 28,
+                "minutes": "2.040'",
+                "name": "Nicky Butt",
+                "nationality": "England"
+            },
+            "20": {
+                "age": 26,
+                "appearances": 31,
+                "minutes": "2.217'",
+                "name": "Ryan Giggs",
+                "nationality": "Wales"
+            },
+            "21": {
+                "age": 26,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Jesper Blomqvist",
+                "nationality": "Sweden"
+            },
+            "22": {
+                "age": 28,
+                "appearances": 28,
+                "minutes": "2.385'",
+                "name": "Roy Keane",
+                "nationality": "Ireland"
+            },
+            "23": {
+                "age": 25,
+                "appearances": 32,
+                "minutes": "2.449'",
+                "name": "Paul Scholes",
+                "nationality": "England"
+            },
+            "24": {
+                "age": 22,
+                "appearances": 12,
+                "minutes": "555'",
+                "name": "Ronnie Wallwork",
+                "nationality": "England"
+            },
+            "25": {
+                "age": 23,
+                "appearances": 7,
+                "minutes": "537'",
+                "name": "Quinton Fortune",
+                "nationality": "South Africa"
+            },
+            "26": {
+                "age": 21,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Mark Wilson",
+                "nationality": "England"
+            },
+            "27": {
+                "age": 19,
+                "appearances": 3,
+                "minutes": "239'",
+                "name": "Michael Stewart",
+                "nationality": "Scotland"
+            },
+            "28": {
+                "age": 19,
+                "appearances": 15,
+                "minutes": "622'",
+                "name": "Luke Chadwick",
+                "nationality": "England"
+            },
+            "29": {
+                "age": 18,
+                "appearances": 1,
+                "minutes": "14'",
+                "name": "Bojan Djordjic",
+                "nationality": "Sweden"
+            },
+            "30": {
+                "age": 28,
+                "appearances": 19,
+                "minutes": "1.317'",
+                "name": "Andrew Cole",
+                "nationality": "England"
+            },
+            "31": {
+                "age": 34,
+                "appearances": 29,
+                "minutes": "2.007'",
+                "name": "Teddy Sheringham",
+                "nationality": "England"
+            },
+            "32": {
+                "age": 28,
+                "appearances": 22,
+                "minutes": "1.472'",
+                "name": "Dwight Yorke",
+                "nationality": "Trinidad and Tobago"
+            },
+            "33": {
+                "age": 27,
+                "appearances": 31,
+                "minutes": "1.755'",
+                "name": "Ole Gunnar Solskjaer",
+                "nationality": "Norway"
+            },
+            "34": {
+                "age": 20,
+                "appearances": 1,
+                "minutes": "31'",
+                "name": "David Healy",
+                "nationality": "Northern Ireland"
+            }
+        },
+        "newcastle-united": {
+            "0": {
+                "age": 17,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Jonny Brain",
+                "nationality": "England"
+            },
+            "1": {
+                "age": 24,
+                "appearances": 34,
+                "minutes": "3.015'",
+                "name": "Shay Given",
+                "nationality": "Ireland"
+            },
+            "2": {
+                "age": 25,
+                "appearances": 5,
+                "minutes": "404'",
+                "name": "Steve Harper",
+                "nationality": "England"
+            },
+            "3": {
+                "age": 30,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "John Karelse",
+                "nationality": "Netherlands"
+            },
+            "4": {
+                "age": 20,
+                "appearances": 35,
+                "minutes": "2.993'",
+                "name": "Aaron Hughes",
+                "nationality": "Northern Ireland"
+            },
+            "5": {
+                "age": 18,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Gary Caldwell",
+                "nationality": "Scotland"
+            },
+            "6": {
+                "age": 19,
+                "appearances": 9,
+                "minutes": "667'",
+                "name": "Steven Caldwell",
+                "nationality": "Scotland"
+            },
+            "7": {
+                "age": 22,
+                "appearances": 14,
+                "minutes": "1.016'",
+                "name": "Didier Domi",
+                "nationality": "France"
+            },
+            "8": {
+                "age": 31,
+                "appearances": 29,
+                "minutes": "2.296'",
+                "name": "Warren Barton",
+                "nationality": "England"
+            },
+            "9": {
+                "age": 27,
+                "appearances": 19,
+                "minutes": "1.565'",
+                "name": "Alain Goma",
+                "nationality": "France"
+            },
+            "10": {
+                "age": 21,
+                "appearances": 9,
+                "minutes": "810'",
+                "name": "Andrew O'Brien",
+                "nationality": "Ireland"
+            },
+            "11": {
+                "age": 21,
+                "appearances": 19,
+                "minutes": "1.280'",
+                "name": "Andy Griffin",
+                "nationality": "England"
+            },
+            "12": {
+                "age": 23,
+                "appearances": 15,
+                "minutes": "1.272'",
+                "name": "Wayne Quinn",
+                "nationality": "England"
+            },
+            "13": {
+                "age": 26,
+                "appearances": 9,
+                "minutes": "765'",
+                "name": "Nikolaos Dabizas",
+                "nationality": "Greece"
+            },
+            "14": {
+                "age": 20,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Olivier Bernard",
+                "nationality": "France"
+            },
+            "15": {
+                "age": 27,
+                "appearances": 7,
+                "minutes": "524'",
+                "name": "Laurent Charvet",
+                "nationality": "France"
+            },
+            "16": {
+                "age": 28,
+                "appearances": 6,
+                "minutes": "451'",
+                "name": "Marcelino",
+                "nationality": "Spain"
+            },
+            "17": {
+                "age": 19,
+                "appearances": 1,
+                "minutes": "11'",
+                "name": "James Coppinger",
+                "nationality": "England"
+            },
+            "18": {
+                "age": 24,
+                "appearances": 14,
+                "minutes": "565'",
+                "name": "Stephen Glass",
+                "nationality": "Scotland"
+            },
+            "19": {
+                "age": 25,
+                "appearances": 33,
+                "minutes": "2.628'",
+                "name": "Nolberto Solano",
+                "nationality": "Peru"
+            },
+            "20": {
+                "age": 25,
+                "appearances": 26,
+                "minutes": "1.974'",
+                "name": "Clarence Acu\u00f1a",
+                "nationality": "Chile"
+            },
+            "21": {
+                "age": 34,
+                "appearances": 22,
+                "minutes": "1.748'",
+                "name": "Rob Lee",
+                "nationality": "England"
+            },
+            "22": {
+                "age": 21,
+                "appearances": 26,
+                "minutes": "2.214'",
+                "name": "Kieron Dyer",
+                "nationality": "England"
+            },
+            "23": {
+                "age": 27,
+                "appearances": 22,
+                "minutes": "1.490'",
+                "name": "Christian Bassedas",
+                "nationality": "Argentina"
+            },
+            "24": {
+                "age": 30,
+                "appearances": 35,
+                "minutes": "3.144'",
+                "name": "Gary Speed \u2020",
+                "nationality": "Wales"
+            },
+            "25": {
+                "age": 20,
+                "appearances": 1,
+                "minutes": "5'",
+                "name": "Diego Gavil\u00e1n",
+                "nationality": "Paraguay"
+            },
+            "26": {
+                "age": 21,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Jamie McClen",
+                "nationality": "England"
+            },
+            "27": {
+                "age": 18,
+                "appearances": 1,
+                "minutes": "1'",
+                "name": "Brian Kerr",
+                "nationality": "Scotland"
+            },
+            "28": {
+                "age": 23,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Derrick Hamilton",
+                "nationality": "England"
+            },
+            "29": {
+                "age": 14,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Steve Istead",
+                "nationality": "England"
+            },
+            "30": {
+                "age": 18,
+                "appearances": 20,
+                "minutes": "1.087'",
+                "name": "Shola Ameobi",
+                "nationality": "Nigeria"
+            },
+            "31": {
+                "age": 26,
+                "appearances": 21,
+                "minutes": "1.041'",
+                "name": "Carlos Daniel Cordone",
+                "nationality": "Argentina"
+            },
+            "32": {
+                "age": 19,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Pablo Bonv\u00edn",
+                "nationality": "Argentina"
+            },
+            "33": {
+                "age": 29,
+                "appearances": 19,
+                "minutes": "1.710'",
+                "name": "Alan Shearer",
+                "nationality": "England"
+            },
+            "34": {
+                "age": 22,
+                "appearances": 13,
+                "minutes": "1.098'",
+                "name": "Carl Cort",
+                "nationality": "Guyana"
+            },
+            "35": {
+                "age": 19,
+                "appearances": 21,
+                "minutes": "582'",
+                "name": "Lomana LuaLua",
+                "nationality": "DR Congo"
+            },
+            "36": {
+                "age": 33,
+                "appearances": 19,
+                "minutes": "1.106'",
+                "name": "Kevin Gallacher",
+                "nationality": "Scotland"
+            }
+        },
+        "tottenham-hotspur": {
+            "0": {
+                "age": 28,
+                "appearances": 4,
+                "minutes": "312'",
+                "name": "Ian Walker",
+                "nationality": "England"
+            },
+            "1": {
+                "age": 30,
+                "appearances": 35,
+                "minutes": "3.108'",
+                "name": "Neil Sullivan",
+                "nationality": "Scotland"
+            },
+            "2": {
+                "age": 19,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Gavin Kelly",
+                "nationality": "England"
+            },
+            "3": {
+                "age": 38,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Hans Segers",
+                "nationality": "Netherlands"
+            },
+            "4": {
+                "age": 16,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Jon J\u00f6nsson",
+                "nationality": "Sweden"
+            },
+            "5": {
+                "age": 24,
+                "appearances": 12,
+                "minutes": "901'",
+                "name": "Ben Thatcher",
+                "nationality": "Wales"
+            },
+            "6": {
+                "age": 19,
+                "appearances": 16,
+                "minutes": "1.199'",
+                "name": "Alton Thelwell",
+                "nationality": "England"
+            },
+            "7": {
+                "age": 20,
+                "appearances": 23,
+                "minutes": "1.706'",
+                "name": "Luke Young",
+                "nationality": "England"
+            },
+            "8": {
+                "age": 23,
+                "appearances": 28,
+                "minutes": "2.405'",
+                "name": "Stephen Carr",
+                "nationality": "Ireland"
+            },
+            "9": {
+                "age": 27,
+                "appearances": 5,
+                "minutes": "235'",
+                "name": "Mauricio Taricco",
+                "nationality": "Argentina"
+            },
+            "10": {
+                "age": 27,
+                "appearances": 32,
+                "minutes": "2.634'",
+                "name": "Chris Perry",
+                "nationality": "England"
+            },
+            "11": {
+                "age": 20,
+                "appearances": 22,
+                "minutes": "1.675'",
+                "name": "Gary Doherty",
+                "nationality": "Ireland"
+            },
+            "12": {
+                "age": 25,
+                "appearances": 21,
+                "minutes": "1.890'",
+                "name": "Sol Campbell",
+                "nationality": "England"
+            },
+            "13": {
+                "age": 19,
+                "appearances": 18,
+                "minutes": "1.525'",
+                "name": "Ledley King",
+                "nationality": "England"
+            },
+            "14": {
+                "age": 18,
+                "appearances": 8,
+                "minutes": "542'",
+                "name": "Anthony Gardner",
+                "nationality": "England"
+            },
+            "15": {
+                "age": 29,
+                "appearances": 9,
+                "minutes": "760'",
+                "name": "Ramon Vega",
+                "nationality": "Switzerland"
+            },
+            "16": {
+                "age": 20,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Ian Hillier",
+                "nationality": "Wales"
+            },
+            "17": {
+                "age": 31,
+                "appearances": 33,
+                "minutes": "2.825'",
+                "name": "Tim Sherwood",
+                "nationality": "England"
+            },
+            "18": {
+                "age": 22,
+                "appearances": 29,
+                "minutes": "2.451'",
+                "name": "Stephen Clemence",
+                "nationality": "England"
+            },
+            "19": {
+                "age": 18,
+                "appearances": 6,
+                "minutes": "154'",
+                "name": "Matthew Etherington",
+                "nationality": "England"
+            },
+            "20": {
+                "age": 29,
+                "appearances": 25,
+                "minutes": "1.908'",
+                "name": "\u00d6yvind Leonhardsen",
+                "nationality": "Norway"
+            },
+            "21": {
+                "age": 26,
+                "appearances": 2,
+                "minutes": "25'",
+                "name": "Jos\u00e9 Dominguez",
+                "nationality": "Portugal"
+            },
+            "22": {
+                "age": 30,
+                "appearances": 21,
+                "minutes": "1.689'",
+                "name": "Steffen Freund",
+                "nationality": "Germany"
+            },
+            "23": {
+                "age": 20,
+                "appearances": 12,
+                "minutes": "753'",
+                "name": "Simon Davies",
+                "nationality": "Wales"
+            },
+            "24": {
+                "age": 20,
+                "appearances": 5,
+                "minutes": "62'",
+                "name": "John Piercy",
+                "nationality": "England"
+            },
+            "25": {
+                "age": 29,
+                "appearances": 9,
+                "minutes": "362'",
+                "name": "Chris Armstrong",
+                "nationality": "England"
+            },
+            "26": {
+                "age": 33,
+                "appearances": 28,
+                "minutes": "2.107'",
+                "name": "Les Ferdinand",
+                "nationality": "England"
+            },
+            "27": {
+                "age": 23,
+                "appearances": 14,
+                "minutes": "861'",
+                "name": "Steffen Iversen",
+                "nationality": "Norway"
+            },
+            "28": {
+                "age": 17,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Yannick Kamanan",
+                "nationality": "France"
+            },
+            "29": {
+                "age": 26,
+                "appearances": 29,
+                "minutes": "2.436'",
+                "name": "Sergiy Rebrov",
+                "nationality": "Ukraine"
+            },
+            "30": {
+                "age": 28,
+                "appearances": 23,
+                "minutes": "1.931'",
+                "name": "Darren Anderton",
+                "nationality": "England"
+            },
+            "31": {
+                "age": 25,
+                "appearances": 13,
+                "minutes": "692'",
+                "name": "Willem Korsten",
+                "nationality": "Netherlands"
+            },
+            "32": {
+                "age": 22,
+                "appearances": 2,
+                "minutes": "63'",
+                "name": "Dave McEwen",
+                "nationality": "England"
+            },
+            "33": {
+                "age": 26,
+                "appearances": 4,
+                "minutes": "314'",
+                "name": "Andy Booth",
+                "nationality": "England"
+            }
+        },
+        "west-ham-united": {
+            "0": {
+                "age": 19,
+                "appearances": 1,
+                "minutes": "90'",
+                "name": "Stephen Bywater",
+                "nationality": "England"
+            },
+            "1": {
+                "age": 31,
+                "appearances": 34,
+                "minutes": "3.015'",
+                "name": "Shaka Hislop",
+                "nationality": "Trinidad and Tobago"
+            },
+            "2": {
+                "age": 32,
+                "appearances": 4,
+                "minutes": "315'",
+                "name": "Craig Forrest",
+                "nationality": "Canada"
+            },
+            "3": {
+                "age": 18,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Terrell Forbes",
+                "nationality": "England"
+            },
+            "4": {
+                "age": 24,
+                "appearances": 8,
+                "minutes": "490'",
+                "name": "Hannu Tihinen",
+                "nationality": "Finland"
+            },
+            "5": {
+                "age": 19,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Shaun Byrne",
+                "nationality": "Ireland"
+            },
+            "6": {
+                "age": 23,
+                "appearances": 5,
+                "minutes": "329'",
+                "name": "Hayden Foxe",
+                "nationality": "Australia"
+            },
+            "7": {
+                "age": 25,
+                "appearances": 12,
+                "minutes": "809'",
+                "name": "S\u00e9bastien Schemmel",
+                "nationality": "France"
+            },
+            "8": {
+                "age": 20,
+                "appearances": 5,
+                "minutes": "279'",
+                "name": "Ragnvald Soma",
+                "nationality": "Norway"
+            },
+            "9": {
+                "age": 36,
+                "appearances": 33,
+                "minutes": "2.862'",
+                "name": "Nigel Winterburn",
+                "nationality": "England"
+            },
+            "10": {
+                "age": 22,
+                "appearances": 3,
+                "minutes": "78'",
+                "name": "Christian Bassila",
+                "nationality": "France"
+            },
+            "11": {
+                "age": 21,
+                "appearances": 12,
+                "minutes": "979'",
+                "name": "Rio Ferdinand",
+                "nationality": "England"
+            },
+            "12": {
+                "age": 26,
+                "appearances": 12,
+                "minutes": "1.004'",
+                "name": "Christian Dailly",
+                "nationality": "Scotland"
+            },
+            "13": {
+                "age": 24,
+                "appearances": 18,
+                "minutes": "1.565'",
+                "name": "Rigobert Song",
+                "nationality": "Cameroon"
+            },
+            "14": {
+                "age": 28,
+                "appearances": 1,
+                "minutes": "88'",
+                "name": "Scott Minto",
+                "nationality": "England"
+            },
+            "15": {
+                "age": 26,
+                "appearances": 15,
+                "minutes": "1.147'",
+                "name": "Ian Pearce",
+                "nationality": "England"
+            },
+            "16": {
+                "age": 30,
+                "appearances": 1,
+                "minutes": "44'",
+                "name": "Gary Charles",
+                "nationality": "England"
+            },
+            "17": {
+                "age": 19,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Adam Newton",
+                "nationality": "St. Kitts & Nevis"
+            },
+            "18": {
+                "age": 32,
+                "appearances": 19,
+                "minutes": "1.566'",
+                "name": "Igor Stimac",
+                "nationality": "Croatia"
+            },
+            "19": {
+                "age": 31,
+                "appearances": 3,
+                "minutes": "236'",
+                "name": "Javier Margas",
+                "nationality": "Chile"
+            },
+            "20": {
+                "age": 38,
+                "appearances": 34,
+                "minutes": "2.926'",
+                "name": "Stuart Pearce",
+                "nationality": "England"
+            },
+            "21": {
+                "age": 33,
+                "appearances": 7,
+                "minutes": "255'",
+                "name": "Steve Potts",
+                "nationality": "England"
+            },
+            "22": {
+                "age": 18,
+                "appearances": 33,
+                "minutes": "2.952'",
+                "name": "Michael Carrick",
+                "nationality": "England"
+            },
+            "23": {
+                "age": 18,
+                "appearances": 30,
+                "minutes": "2.206'",
+                "name": "Joe Cole",
+                "nationality": "England"
+            },
+            "24": {
+                "age": 19,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Michael Ferrante",
+                "nationality": "Australia"
+            },
+            "25": {
+                "age": 20,
+                "appearances": 1,
+                "minutes": "1'",
+                "name": "Grant McCann",
+                "nationality": "Northern Ireland"
+            },
+            "26": {
+                "age": 26,
+                "appearances": 20,
+                "minutes": "1.800'",
+                "name": "Steve Lomas",
+                "nationality": "Northern Ireland"
+            },
+            "27": {
+                "age": 33,
+                "appearances": 16,
+                "minutes": "604'",
+                "name": "John Moncur",
+                "nationality": "England"
+            },
+            "28": {
+                "age": 22,
+                "appearances": 30,
+                "minutes": "2.645'",
+                "name": "Frank Lampard",
+                "nationality": "England"
+            },
+            "29": {
+                "age": 17,
+                "appearances": 1,
+                "minutes": "22'",
+                "name": "Jermain Defoe",
+                "nationality": "England"
+            },
+            "30": {
+                "age": 24,
+                "appearances": 11,
+                "minutes": "622'",
+                "name": "Kaba Diawara",
+                "nationality": "Guinea"
+            },
+            "31": {
+                "age": 18,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Richard Garc\u00eda",
+                "nationality": "Australia"
+            },
+            "32": {
+                "age": 20,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "\u00d6mer Riza",
+                "nationality": "Turkey"
+            },
+            "33": {
+                "age": 32,
+                "appearances": 12,
+                "minutes": "609'",
+                "name": "Davor Suker",
+                "nationality": "Croatia"
+            },
+            "34": {
+                "age": 21,
+                "appearances": 8,
+                "minutes": "413'",
+                "name": "Svetoslav Todorov",
+                "nationality": "Bulgaria"
+            },
+            "35": {
+                "age": 27,
+                "appearances": 19,
+                "minutes": "1.686'",
+                "name": "Trevor Sinclair",
+                "nationality": "England"
+            },
+            "36": {
+                "age": 31,
+                "appearances": 31,
+                "minutes": "2.783'",
+                "name": "Paolo Di Canio",
+                "nationality": "Italy"
+            },
+            "37": {
+                "age": 22,
+                "appearances": 32,
+                "minutes": "2.661'",
+                "name": "Fr\u00e9d\u00e9ric Kanout\u00e9",
+                "nationality": "Mali"
+            },
+            "38": {
+                "age": 27,
+                "appearances": 6,
+                "minutes": "389'",
+                "name": "Titi Camara",
+                "nationality": "Guinea"
+            },
+            "39": {
+                "age": 29,
+                "appearances": 2,
+                "minutes": "35'",
+                "name": "Paul Kitson",
+                "nationality": "England"
+            }
+        }
+    }
+}

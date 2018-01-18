@@ -6,6 +6,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 import math
+from gini import gini
 
 def plot_time_series(df, title):
     #plot graph
@@ -22,9 +23,9 @@ def plot_time_series(df, title):
     #colors_mapping = dict(zip(seasons,colors))
     
     #remove x label
-    ax.set_ylabel('Percentages')
+    ax.set_ylabel('Diversity Scores')
        
-    ax.set_ylim(top=100)
+    ax.set_ylim(top=3)
     ax.set_ylim(bottom=0)
 
     plt.show()
@@ -35,7 +36,7 @@ def minutes_parser(minutes_string):
 	return int(minutes_string.replace('\'','').replace('.',''))
 
 country = 'Spain'
-team = 'real-madrid'
+team = 'athletic-bilbao'
 
 data_file = '../data/Leistungsdaten/' + str(country) + '/2016.json'
 years = [str(year) for year in range(2000, 2017)]
@@ -49,24 +50,25 @@ L_foreign_minutes = []
 L_local_apps = []
 L_foreign_apps = []
 
-
+L_diversity_values = []
 
 years_copy = [str(year) for year in range(2000, 2017)]
 
 with open(data_file) as datafile:
 	data = json.load(datafile)
 	for year in years:
+		L_countries = {}
 		local = 0
 		foreign = 0
 		local_minutes = 0
 		foreign_minutes = 0
 		local_apps = 0
 		foreign_apps = 0
-		L_countries = {}
 		#data for a particular year
 		try:
 			year_data = data[year][team]
 
+			#go through each player
 			for key in year_data:
 				player = year_data[key]
 				player_country = player['nationality']
@@ -93,16 +95,18 @@ with open(data_file) as datafile:
 			total = local_minutes + foreign_minutes
 			L_local_minutes.append((local_minutes/total)*100)
 			L_foreign_minutes.append((foreign_minutes/total)*100)
+
+			gini_value = gini(np.asarray(list(L_countries.values()), dtype=np.float))
+			diversity = 1/gini_value
+			pprint(diversity)
+			L_diversity_values.append(diversity)
+
 		except:
 			years_copy.remove(year)
 			pass
-		pprint(L_countries)
 
-df = pd.DataFrame({#'Local': L_local,
-					'Foreign': L_foreign,
-					#'Local minutes': L_local_minutes,
-					'Foreign minutes': L_foreign_minutes,
-					'Foreign appearances': L_foreign_apps,
+
+df = pd.DataFrame({'Diversity score': L_diversity_values,
 					'Year': years_copy			})
 df = df.set_index('Year')
 #pprint(df)

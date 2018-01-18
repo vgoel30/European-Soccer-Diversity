@@ -104,7 +104,7 @@ for country in countries:
 
 		L_all_data.append(L_foreign_minutes)
 
-pprint(len(L_all_data))
+#pprint(len(L_all_data))
 # L_all_data = np.asarray(L_all_data).T.tolist()
 
 #pprint(L_countries)

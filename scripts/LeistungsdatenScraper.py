@@ -3,12 +3,13 @@ from pprint import pprint
 import requests
 import json
 
+
 headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36'}
 main_url = "https://www.transfermarkt.com/"
 '''
 https://www.transfermarkt.com/paris-saint-germain/leistungsdaten/verein/583/plus/0?reldata=FR1%262016
 '''
-country = 'Spain'
+country = 'England'
 directory = '../data/Leistungsdaten/' + country + '/'
 file_name = '../data/Yearly teams/' + country + '.json'
 

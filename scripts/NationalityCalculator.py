@@ -24,7 +24,7 @@ def plot_time_series(df, title):
     #remove x label
     ax.set_ylabel('Percentages')
        
-    ax.set_ylim(top=100)
+    ax.set_ylim(top=20)
     ax.set_ylim(bottom=0)
 
     plt.show()
@@ -43,6 +43,8 @@ final_data = []
 
 for country in countries:
 	final_data.append([])
+	for year in years:
+		final_data[-1].append(0)
 
 for year in years:
 	target = 0
@@ -63,23 +65,31 @@ for year in years:
 				for key in year_data:
 					player = year_data[key]
 					player_country = player['nationality']
-					if(player_country == target_country):
+					if player_country == target_country:
 						target += 1
+					if player_country in countries:
+						final_data[countries.index(player_country)][int(year) - 2000] += 1
 					total += 1
 
 	percent = target/total
+	for country in countries:
+		final_data[countries.index(country)][int(year) - 2000] /= total
+		final_data[countries.index(country)][int(year) - 2000] *= 100
 	percent *= 100
 	print(target)
 	print(total)
 	print("Year " + str(year) + " : " + str(percent))
 	print()
 
-# df = pd.DataFrame({'England': L_all_data[0],
-# 					'France': L_all_data[1],
-# 					'Germany': L_all_data[2],
-# 					'Italy' : L_all_data[3],
-# 					'Spain' : L_all_data[4],
-# 					'Year': years			})
-# df = df.set_index('Year')
-# pprint(df)
-# plot_time_series(df, 'League comparisons of percentage of playing time given to foreigners')
+pprint(final_data)	
+L_all_data = final_data
+
+df = pd.DataFrame({'England': L_all_data[0],
+					'France': L_all_data[1],
+					'Germany': L_all_data[2],
+					'Italy' : L_all_data[3],
+					'Spain' : L_all_data[4],
+					'Year': years			})
+df = df.set_index('Year')
+pprint(df)
+plot_time_series(df, 'Percentage of nationalies')

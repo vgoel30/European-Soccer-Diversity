@@ -34,8 +34,8 @@ def minutes_parser(minutes_string):
 		return 0
 	return int(minutes_string.replace('\'','').replace('.',''))
 
-country = 'Spain'
-team = 'real-madrid'
+country = 'France'
+team = 'fc-paris-saint-germain'
 
 data_file = '../data/Leistungsdaten/' + str(country) + '/2016.json'
 years = [str(year) for year in range(2000, 2017)]

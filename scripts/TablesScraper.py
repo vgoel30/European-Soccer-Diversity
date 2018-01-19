@@ -1,8 +1,7 @@
-from selenium import webdriver
-from selenium.webdriver.common.keys import Keys
 from bs4 import BeautifulSoup
 from pprint import pprint
 import requests
+import json
 import csv
 
 def csv_writer(params, values_lists, path):
@@ -14,44 +13,69 @@ def csv_writer(params, values_lists, path):
         for line in values_lists:
             writer.writerow(line)
 
+country = 'England'
+years = [year for year in range(2000, 2017)]
+column_names = ['Name', 'Matches' ,'Won', 'Lost', 'Draw', 'GF', 'GA', 'Points', 'PPM']
 
-country = 'France'
-seasons = ['{}_{}/'.format(year, year + 1) for year in range(2000, 2017)]
-print(seasons)
-base_url = 'https://www.fctables.com/france/ligue-1/'
 
-for season in seasons:
-	url = base_url + season
-	print(url)
-	request = requests.get(url)
-	data = request.text
-	soup = BeautifulSoup(data, 'lxml')
-	stage_tables = soup.findAll('table', id=lambda x: x and x.startswith('table_stage'))
-	table = stage_tables[0]
-	headers = [header.text for header in table.find_all('th')]
+headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36'}
+base_url = 'https://www.transfermarkt.com/premier-league/tabelle/wettbewerb/GB1/saison_id/'
+
+for year in years:
 	rows = []
-	for row in table.find_all('tr'):
-		rows.append([val.text.encode('utf8') for val in row.find_all('td')])
-	'''
-	0 -> Position
-	1 -> Team name
-	2 -> Games played
-	3 -> Points
-	4 -> Wins
-	5 -> Draws 
-	6 -> Losses
-	7 -> Goals done
-	8 -> Goals against
-	'''
+	url = base_url + str(year)
+	outfile = '../data/Standings/' + country + '/' + str(year) + '.csv'
 
-	column_names = ['Position','Team','Games','Points','Wins','Draws','Losses','GD','GA']
-	values_rows = []
+	request = requests.get(url, headers=headers)
+	html_data = request.text
+	soup = BeautifulSoup(html_data, 'lxml')
 
-	for current_row in rows:
-		if len(current_row) > 8:
-			values_row = [current_row[i].decode("utf-8").strip() for i in range(0,9)]
-			values_rows.append(values_row)
+	table_div = soup.find("div", { "class" : "responsive-table" })
+	table = table_div.find("table").find("tbody")
 
-	out_path = '../data/Tables/' + country + '/' + season.replace("/","") + ".csv"
-	print(out_path)
-	csv_writer(column_names, values_rows, out_path)
+	for row in table.findAll('tr'):
+		row_vals = []
+		cells = row.findAll('td')
+		if len(cells) > 0:
+			#name
+			name_url = (cells[2].find("a", {"class" : "vereinprofil_tooltip"}))['href']
+			name = name_url.split('/')[1]
+			pprint(name)
+
+			#matches played
+			matches = int(cells[3].getText())
+			pprint(matches)
+
+			#matches won
+			won = int(cells[4].getText())
+			pprint(won)
+
+			#matches drawn
+			draw = int(cells[5].getText())
+			pprint(draw)
+
+			#mathces lost
+			lost = int(cells[6].getText())
+			pprint(lost)
+
+			#goals
+			goals = cells[7].getText()
+			goals_for = int(goals.split(':')[0])
+			goals_against = int(goals.split(':')[1])
+			
+			#points
+			points = int(cells[9].getText())
+
+			row_vals.append(name)
+			row_vals.append(matches)
+			row_vals.append(won)
+			row_vals.append(lost)
+			row_vals.append(draw)
+			row_vals.append(goals_for)
+			row_vals.append(goals_against)
+			row_vals.append(points)
+			row_vals.append(points/matches)
+
+			rows.append(row_vals)
+
+	csv_writer(column_names, rows, outfile)

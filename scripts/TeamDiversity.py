@@ -25,8 +25,8 @@ def plot_time_series(df, title):
     #remove x label
     ax.set_ylabel('Diversity Scores')
        
-    ax.set_ylim(top=3)
-    ax.set_ylim(bottom=0)
+    ax.set_ylim(top=1.3)
+    ax.set_ylim(bottom=0.9)
 
     plt.show()
 
@@ -35,11 +35,18 @@ def minutes_parser(minutes_string):
 		return 0
 	return int(minutes_string.replace('\'','').replace('.',''))
 
-country = 'Spain'
-team = 'athletic-bilbao'
+country = 'England'
+team = 'fc-chelsea'
 
 data_file = '../data/Leistungsdaten/' + str(country) + '/2016.json'
 years = [str(year) for year in range(2000, 2017)]
+
+L_countries = {}
+nations_path = '../data/Nations.txt'
+with open(nations_path) as nations_file:
+	for nation in nations_file:
+		L_countries[nation.replace('\n','')] = 0
+#pprint(L_countries)
 
 L_local = []
 L_foreign = []
@@ -57,7 +64,10 @@ years_copy = [str(year) for year in range(2000, 2017)]
 with open(data_file) as datafile:
 	data = json.load(datafile)
 	for year in years:
-		L_countries = {}
+		
+		for country in L_countries:
+			L_countries[country] = 0 
+
 		local = 0
 		foreign = 0
 		local_minutes = 0
@@ -80,9 +90,9 @@ with open(data_file) as datafile:
 					foreign += 1
 					foreign_minutes += minutes_parser(player['minutes'])
 					foreign_apps += player['appearances']
-				if player_country not in L_countries.keys():
-					L_countries[player_country] = 0
-				L_countries[player_country] = L_countries[player_country] + 1
+
+				#increase the country count
+				L_countries[player_country] = L_countries[player_country] + player['appearances']
 
 			total = local + foreign
 			L_local.append((local/total)*100)
@@ -98,6 +108,7 @@ with open(data_file) as datafile:
 
 			gini_value = gini(np.asarray(list(L_countries.values()), dtype=np.float))
 			diversity = 1/gini_value
+			#pprint(L_countries)
 			pprint(diversity)
 			L_diversity_values.append(diversity)
 
@@ -109,5 +120,4 @@ with open(data_file) as datafile:
 df = pd.DataFrame({'Diversity score': L_diversity_values,
 					'Year': years_copy			})
 df = df.set_index('Year')
-#pprint(df)
 plot_time_series(df, team)

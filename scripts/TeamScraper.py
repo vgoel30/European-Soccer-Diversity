@@ -8,7 +8,7 @@ data_path = '../data/URLs/' + country
 main_url = "https://www.transfermarkt.com"
 out_file = '../data/Yearly teams/' + country + '.json'
 
-years = [year for year in range(2000,2017)]
+years = [year for year in range(1995,2017)]
 
 teams_dict = {}
 

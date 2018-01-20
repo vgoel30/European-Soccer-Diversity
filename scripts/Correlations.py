@@ -76,9 +76,7 @@ years = [year for year in range(2000, 2017)]
 rows = []
 params = ['Won', 'Lost', 'Draw', 'GF', 'GA', 'Points', 'PPM', 'Foreign playing time %']
 
-countries = ['England', 'France', 'Germany', 'Italy', 'Spain']
-
-country = 'France'
+country = 'Italy'
 data_file = '../data/Leistungsdaten/' + str(country) + '/2016.json'
 
 for year in years:

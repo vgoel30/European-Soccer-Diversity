@@ -72,41 +72,39 @@ def csv_reader(file_obj):
         print(" ".join(row))
 
 years = [year for year in range(2000, 2017)]
-
-rows = []
 params = ['Won', 'Lost', 'Draw', 'GF', 'GA', 'Points', 'PPM', 'Foreign playing time %']
-
 countries = ['England', 'France', 'Germany', 'Italy', 'Spain']
+rows = []
 
-country = 'France'
-data_file = '../data/Leistungsdaten/' + str(country) + '/2016.json'
+for country in countries:
+	data_file = '../data/Leistungsdaten/' + str(country) + '/2016.json'
 
-for year in years:
-	path = '../data/Standings/' + country + '/' + str(year) + '.csv'
+	for year in years:
+		path = '../data/Standings/' + country + '/' + str(year) + '.csv'
 
-	with open(path, "r") as file_obj:
-		reader = csv.DictReader(file_obj, delimiter=',')
+		with open(path, "r") as file_obj:
+			reader = csv.DictReader(file_obj, delimiter=',')
 
-		with open(data_file) as datafile:
-			data = json.load(datafile)
-			for line in reader:
+			with open(data_file) as datafile:
+				data = json.load(datafile)
+				for line in reader:
 
-				#new row data for each team
-				row = []
-				team_name = line['Name']
-				# pprint(team_name + ':  ' + str(get_team_percentage(data, '2001', team_name)))
-				# pprint(line)
-				row.append(int(line['Won']))
-				row.append(int(line['Lost']))
-				row.append(int(line['Draw']))
-				row.append(int(line['GF']))
-				row.append(int(line['GA']))
-				row.append(int(line['Points']))
-				row.append(float(line['PPM']))
-				row.append(get_team_percentage(data, str(year), team_name))
+					#new row data for each team
+					row = []
+					team_name = line['Name']
+					# pprint(team_name + ':  ' + str(get_team_percentage(data, '2001', team_name)))
+					# pprint(line)
+					row.append(int(line['Won']))
+					row.append(int(line['Lost']))
+					row.append(int(line['Draw']))
+					row.append(int(line['GF']))
+					row.append(int(line['GA']))
+					row.append(int(line['Points']))
+					row.append(float(line['PPM']))
+					row.append(get_team_percentage(data, str(year), team_name))
 
-				rows.append(row)
-	print(year)
+					rows.append(row)
+		print(year)
 pprint(rows)
 
 csv_writer(params, rows, 'lol.csv')

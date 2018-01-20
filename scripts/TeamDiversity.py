@@ -108,7 +108,6 @@ with open(data_file) as datafile:
 
 			gini_value = gini(np.asarray(list(L_countries.values()), dtype=np.float))
 			diversity = 1/gini_value
-			#pprint(L_countries)
 			pprint(diversity)
 			L_diversity_values.append(diversity)
 

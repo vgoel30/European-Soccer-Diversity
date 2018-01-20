@@ -1,6 +1,19 @@
 import json
 import csv
 from pprint import pprint
+import pandas as pd
+import seaborn as sns
+import math
+import numpy as np; np.random.seed(0)
+
+def csv_writer(params, values_lists, path):
+    with open(path, "w") as csv_file:
+        writer = csv.writer(csv_file, delimiter=',')
+              
+        writer.writerow(params)
+        
+        for line in values_lists:
+            writer.writerow(line)
 
 def minutes_parser(minutes_string):
 	if minutes_string == '-':
@@ -58,16 +71,48 @@ def csv_reader(file_obj):
     for row in reader:
         print(" ".join(row))
 
-country = 'England'
+years = [year for year in range(2000, 2017)]
 
-path = '../data/Standings/England/2001.csv'
+country = 'France'
 data_file = '../data/Leistungsdaten/' + str(country) + '/2016.json'
 
-with open(path, "r") as file_obj:
-	reader = csv.DictReader(file_obj, delimiter=',')
+rows = []
+params = ['Won', 'Lost', 'Draw', 'GF', 'GA', 'Points', 'PPM', 'Foreign playing time %']
 
-	with open(data_file) as datafile:
-		data = json.load(datafile)
-		for line in reader:
-			team_name = line['Name']
-			pprint(team_name + ':  ' + str(get_team_percentage(data, '2001', team_name)))
+for year in years:
+	path = '../data/Standings/' + country + '/' + str(year) + '.csv'
+
+	with open(path, "r") as file_obj:
+		reader = csv.DictReader(file_obj, delimiter=',')
+
+		with open(data_file) as datafile:
+			data = json.load(datafile)
+			for line in reader:
+
+				#new row data for each team
+				row = []
+				team_name = line['Name']
+				# pprint(team_name + ':  ' + str(get_team_percentage(data, '2001', team_name)))
+				# pprint(line)
+				row.append(int(line['Won']))
+				row.append(int(line['Lost']))
+				row.append(int(line['Draw']))
+				row.append(int(line['GF']))
+				row.append(int(line['GA']))
+				row.append(int(line['Points']))
+				row.append(float(line['PPM']))
+				row.append(get_team_percentage(data, str(year), team_name))
+
+				rows.append(row)
+	print(year)
+pprint(rows)
+
+csv_writer(params, rows, 'lol.csv')
+
+df = pd.read_csv('lol.csv')    
+corr = df.corr()
+sns.set(font_scale=0.8)
+sns.heatmap(corr, cmap="YlGnBu", annot=True, annot_kws={"size": 13})
+sns.plt.yticks(rotation=0)
+sns.plt.xticks(rotation=90) 
+sns.plt.show()

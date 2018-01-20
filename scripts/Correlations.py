@@ -36,8 +36,8 @@ def get_team_percentage(data, year, team):
 	local_apps = 0
 	foreign_apps = 0
 
-	for country in L_countries:
-			L_countries[country] = 0 
+	for nation in L_countries:
+			L_countries[nation] = 0 
 
 	year_data = data[year][team]
 
@@ -54,7 +54,8 @@ def get_team_percentage(data, year, team):
 			foreign_apps += player['appearances']
 		age += player['age']
 		#increase the country count
-		L_countries[player_country] = L_countries[player_country] + player['appearances']
+		if player_country != 'N/A':
+			L_countries[player_country] = L_countries[player_country] + player['appearances']
 
 	gini_value = gini(np.asarray(list(L_countries.values()), dtype=np.float))
 	diversity = 1/gini_value
@@ -110,11 +111,11 @@ for year in years:
 				#row.append(int(line['Points']))
 				row.append(float(line['PPM']))
 
-				# vals = get_team_percentage(data, str(year), team_name
+				vals = get_team_percentage(data, str(year), team_name)
 
-				row.append(get_team_percentage(data, str(year), team_name)[0])
-				row.append(get_team_percentage(data, str(year), team_name)[1])
-				row.append(get_team_percentage(data, str(year), team_name)[2])
+				row.append(vals[0])
+				row.append(vals[1])
+				row.append(vals[2])
 
 				rows.append(row)
 

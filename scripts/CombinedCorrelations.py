@@ -5,6 +5,7 @@ import pandas as pd
 import seaborn as sns
 import math
 import numpy as np; np.random.seed(0)
+from gini import gini
 
 def csv_writer(params, values_lists, path):
     with open(path, "w") as csv_file:
@@ -20,6 +21,12 @@ def minutes_parser(minutes_string):
 		return 0
 	return int(minutes_string.replace('\'','').replace('.',''))
 
+L_countries = {}
+nations_path = '../data/Nations.txt'
+with open(nations_path) as nations_file:
+	for nation in nations_file:
+		L_countries[nation.replace('\n','')] = 0
+
 def get_team_percentage(data, year, team):
 	age = 0
 	local = 0
@@ -28,6 +35,9 @@ def get_team_percentage(data, year, team):
 	foreign_minutes = 0
 	local_apps = 0
 	foreign_apps = 0
+
+	for nation in L_countries:
+			L_countries[nation] = 0 
 
 	year_data = data[year][team]
 
@@ -43,17 +53,15 @@ def get_team_percentage(data, year, team):
 			foreign_minutes += minutes_parser(player['minutes'])
 			foreign_apps += player['appearances']
 		age += player['age']
+		#increase the country count
+		if player_country != 'N/A':
+			L_countries[player_country] = L_countries[player_country] +  player['appearances']
 
-	# total = local + foreign
-	# L_local.append((local/total)*100)
-	# L_foreign.append((foreign/total)*100)
-
-	# total = local_apps + foreign_apps
-	# L_local_apps.append((local_apps/total) * 100)
-	# L_foreign_apps.append((foreign_apps/total) * 100)
+	gini_value = gini(np.asarray(list(L_countries.values()), dtype=np.float))
+	diversity = 1/gini_value
 	average_age = age/(local + foreign)
 	total = local_minutes + foreign_minutes
-	return [(foreign_minutes/total)*100, average_age]
+	return [(foreign_minutes/total)*100, average_age, diversity]
 
 def csv_dict_reader(file_obj):
     """
@@ -73,7 +81,7 @@ def csv_reader(file_obj):
         print(" ".join(row))
 
 years = [year for year in range(2000, 2017)]
-params = ['Won', 'Lost', 'Draw', 'GF', 'GA',  'PPM', 'Foreign playing time %', 'Average age']
+params = ['Won', 'Lost', 'Draw', 'GF', 'GA',  'PPM', 'Foreign playing time %', 'Average age', 'diversity']
 countries = ['England', 'France', 'Germany', 'Italy', 'Spain']
 rows = []
 
@@ -102,8 +110,11 @@ for country in countries:
 					row.append(int(line['GA']))
 					#row.append(int(line['Points']))
 					row.append(float(line['PPM']))
-					row.append(get_team_percentage(data, str(year), team_name)[0])
-					row.append(get_team_percentage(data, str(year), team_name)[1])
+					vals = get_team_percentage(data, str(year), team_name)
+
+					row.append(vals[0])
+					row.append(vals[1])
+					row.append(vals[2])
 
 					rows.append(row)
 		print(year)

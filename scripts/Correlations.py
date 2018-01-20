@@ -21,7 +21,7 @@ def minutes_parser(minutes_string):
 	return int(minutes_string.replace('\'','').replace('.',''))
 
 def get_team_percentage(data, year, team):
-
+	age = 0
 	local = 0
 	foreign = 0
 	local_minutes = 0
@@ -42,6 +42,7 @@ def get_team_percentage(data, year, team):
 			foreign += 1
 			foreign_minutes += minutes_parser(player['minutes'])
 			foreign_apps += player['appearances']
+		age += player['age']
 
 	# total = local + foreign
 	# L_local.append((local/total)*100)
@@ -50,9 +51,9 @@ def get_team_percentage(data, year, team):
 	# total = local_apps + foreign_apps
 	# L_local_apps.append((local_apps/total) * 100)
 	# L_foreign_apps.append((foreign_apps/total) * 100)
-
+	average_age = age/(local + foreign)
 	total = local_minutes + foreign_minutes
-	return (foreign_minutes/total)*100
+	return [(foreign_minutes/total)*100, average_age]
 
 def csv_dict_reader(file_obj):
     """
@@ -74,9 +75,9 @@ def csv_reader(file_obj):
 years = [year for year in range(2000, 2017)]
 
 rows = []
-params = ['Won', 'Lost', 'Draw', 'GF', 'GA', 'Points', 'PPM', 'Foreign playing time %']
+params = ['Won', 'Lost', 'Draw', 'GF', 'GA',  'PPM', 'Foreign playing time %', 'Average age']
 
-country = 'Italy'
+country = 'Germany'
 data_file = '../data/Leistungsdaten/' + str(country) + '/2016.json'
 
 for year in years:
@@ -99,13 +100,12 @@ for year in years:
 				row.append(int(line['Draw']))
 				row.append(int(line['GF']))
 				row.append(int(line['GA']))
-				row.append(int(line['Points']))
+				#row.append(int(line['Points']))
 				row.append(float(line['PPM']))
-				row.append(get_team_percentage(data, str(year), team_name))
+				row.append(get_team_percentage(data, str(year), team_name)[0])
+				row.append(get_team_percentage(data, str(year), team_name)[1])
 
 				rows.append(row)
-	print(year)
-pprint(rows)
 
 csv_writer(params, rows, 'lol.csv')
 

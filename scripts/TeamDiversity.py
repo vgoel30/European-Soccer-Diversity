@@ -39,7 +39,7 @@ country = 'England'
 team = 'fc-chelsea'
 
 data_file = '../data/Leistungsdaten/' + str(country) + '/2016.json'
-years = [str(year) for year in range(2000, 2017)]
+years = [str(year) for year in range(1995, 2017)]
 
 L_countries = {}
 nations_path = '../data/Nations.txt'
@@ -59,7 +59,7 @@ L_foreign_apps = []
 
 L_diversity_values = []
 
-years_copy = [str(year) for year in range(2000, 2017)]
+years_copy = [str(year) for year in range(1995, 2017)]
 
 with open(data_file) as datafile:
 	data = json.load(datafile)

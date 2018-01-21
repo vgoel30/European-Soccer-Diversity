@@ -13,13 +13,13 @@ def csv_writer(params, values_lists, path):
         for line in values_lists:
             writer.writerow(line)
 
-country = 'England'
-years = [year for year in range(2000, 2017)]
+country = 'Spain'
+years = [year for year in range(1995, 2017)]
 column_names = ['Name', 'Matches' ,'Won', 'Lost', 'Draw', 'GF', 'GA', 'Points', 'PPM']
 
 
 headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36'}
-base_url = 'https://www.transfermarkt.com/premier-league/tabelle/wettbewerb/GB1/saison_id/'
+base_url = 'https://www.transfermarkt.com/laliga/tabelle/wettbewerb/ES1?saison_id='
 
 for year in years:
 	rows = []

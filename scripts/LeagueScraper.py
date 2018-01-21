@@ -3,9 +3,10 @@ from pprint import pprint
 import requests
 
 main_url = "https://www.transfermarkt.com"
-base_url = "https://www.transfermarkt.com/premier-league/startseite/wettbewerb/GB1/plus/?saison_id="
+base_url = "https://www.transfermarkt.co.uk/primera-division/startseite/wettbewerb/ES1/saison_id/"
+country = 'Spain'
 teams = 20
-years = [year for year in range(2000,2017)]
+years = [year for year in range(1995,2017)]
 
 for year in years:
 	url = base_url + str(year)
@@ -20,7 +21,7 @@ for year in years:
 	even = soup.findAll("tr", {"class": "even"})
 	even = even[0:10]
 
-	file_name = "../data/URLs/England/" + str(year) + ".txt"
+	file_name = '../data/URLs/' + country + '/' + str(year) + ".txt"
 
 	with open(file_name, 'w') as out_file:
 

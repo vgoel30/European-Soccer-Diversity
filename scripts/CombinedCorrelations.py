@@ -80,7 +80,7 @@ def csv_reader(file_obj):
     for row in reader:
         print(" ".join(row))
 
-years = [year for year in range(2000, 2017)]
+years = [year for year in range(1995, 2017)]
 params = ['Won', 'Lost', 'Draw', 'GF', 'GA',  'PPM', 'Foreign playing time %', 'Average age', 'diversity']
 countries = ['England', 'France', 'Germany', 'Italy', 'Spain']
 rows = []

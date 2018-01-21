@@ -1,0 +1,3922 @@
+{
+    "1995": {
+        "ac-le-havre": {
+            "0": {
+                "age": 19,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "S\u00e9bastien Hamel",
+                "nationality": "France"
+            },
+            "1": {
+                "age": 23,
+                "appearances": 6,
+                "minutes": "540'",
+                "name": "Christophe Revault",
+                "nationality": "France"
+            },
+            "2": {
+                "age": 25,
+                "appearances": 3,
+                "minutes": "270'",
+                "name": "Teddy Bertin",
+                "nationality": "France"
+            },
+            "3": {
+                "age": 17,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "J\u00e9r\u00e9my Henin",
+                "nationality": "France"
+            },
+            "4": {
+                "age": 19,
+                "appearances": 3,
+                "minutes": "254'",
+                "name": "Mathieu Louis-Jean",
+                "nationality": "France"
+            },
+            "5": {
+                "age": 25,
+                "appearances": 3,
+                "minutes": "233'",
+                "name": "Ludovic Pollet",
+                "nationality": "France"
+            },
+            "6": {
+                "age": 29,
+                "appearances": 2,
+                "minutes": "180'",
+                "name": "Jean-Pierre Delaunay",
+                "nationality": "France"
+            },
+            "7": {
+                "age": 20,
+                "appearances": 3,
+                "minutes": "270'",
+                "name": "Djibril Diawara",
+                "nationality": "Senegal"
+            },
+            "8": {
+                "age": 18,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Parfait Medou-Otye",
+                "nationality": "Cameroon"
+            },
+            "9": {
+                "age": 28,
+                "appearances": 5,
+                "minutes": "367'",
+                "name": "Bernard Pascual",
+                "nationality": "France"
+            },
+            "10": {
+                "age": 31,
+                "appearances": 4,
+                "minutes": "262'",
+                "name": "Thierry Uvenard",
+                "nationality": "France"
+            },
+            "11": {
+                "age": 20,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Bertrand Delas",
+                "nationality": "France"
+            },
+            "12": {
+                "age": 19,
+                "appearances": 2,
+                "minutes": "17'",
+                "name": "Olivier Debert",
+                "nationality": "France"
+            },
+            "13": {
+                "age": 21,
+                "appearances": 5,
+                "minutes": "397'",
+                "name": "Ibrahim B\u00e1",
+                "nationality": "France"
+            },
+            "14": {
+                "age": 21,
+                "appearances": 6,
+                "minutes": "540'",
+                "name": "Fr\u00e9d\u00e9ric Brando",
+                "nationality": "France"
+            },
+            "15": {
+                "age": 21,
+                "appearances": 5,
+                "minutes": "400'",
+                "name": "Vikash Dhorasoo",
+                "nationality": "France"
+            },
+            "16": {
+                "age": 17,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Yazid Mansouri",
+                "nationality": "Algeria"
+            },
+            "17": {
+                "age": 25,
+                "appearances": 6,
+                "minutes": "482'",
+                "name": "C\u00e9dric Daury",
+                "nationality": "France"
+            },
+            "18": {
+                "age": 22,
+                "appearances": 1,
+                "minutes": "17'",
+                "name": "Olivier De Luca",
+                "nationality": "France"
+            },
+            "19": {
+                "age": 26,
+                "appearances": 3,
+                "minutes": "196'",
+                "name": "Claude Fichaux",
+                "nationality": "France"
+            },
+            "20": {
+                "age": 27,
+                "appearances": 6,
+                "minutes": "474'",
+                "name": "Nicolas Huysman",
+                "nationality": "France"
+            },
+            "21": {
+                "age": 17,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "S\u00e9bastien Parmentier",
+                "nationality": "France"
+            },
+            "22": {
+                "age": 17,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Mohamed Zouaoui",
+                "nationality": "France"
+            },
+            "23": {
+                "age": 26,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "David Robert",
+                "nationality": "France"
+            },
+            "24": {
+                "age": 18,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Rodolphe Jegouzo",
+                "nationality": "France"
+            },
+            "25": {
+                "age": 26,
+                "appearances": 1,
+                "minutes": "45'",
+                "name": "Lyambo Etsh\u00e9l\u00e9",
+                "nationality": "DR Congo"
+            },
+            "26": {
+                "age": 20,
+                "appearances": 2,
+                "minutes": "110'",
+                "name": "St\u00e9phane Samson",
+                "nationality": "France"
+            },
+            "27": {
+                "age": 24,
+                "appearances": 1,
+                "minutes": "22'",
+                "name": "Vanja Grubac",
+                "nationality": "Montenegro"
+            },
+            "28": {
+                "age": 27,
+                "appearances": 6,
+                "minutes": "539'",
+                "name": "Alain Caveglia",
+                "nationality": "France"
+            },
+            "29": {
+                "age": 28,
+                "appearances": 6,
+                "minutes": "319'",
+                "name": "Christophe Lagrange",
+                "nationality": "France"
+            }
+        },
+        "aj-auxerre": {
+            "0": {
+                "age": 22,
+                "appearances": 3,
+                "minutes": "270'",
+                "name": "Fabien Cool",
+                "nationality": "France"
+            },
+            "1": {
+                "age": 28,
+                "appearances": 6,
+                "minutes": "540'",
+                "name": "Lionel Charbonnier",
+                "nationality": "France"
+            },
+            "2": {
+                "age": 28,
+                "appearances": 9,
+                "minutes": "765'",
+                "name": "Franck Silvestre",
+                "nationality": "France"
+            },
+            "3": {
+                "age": 29,
+                "appearances": 6,
+                "minutes": "540'",
+                "name": "Laurent Blanc",
+                "nationality": "France"
+            },
+            "4": {
+                "age": 20,
+                "appearances": 1,
+                "minutes": "5'",
+                "name": "Fr\u00e9d\u00e9ric Danjou",
+                "nationality": "France"
+            },
+            "5": {
+                "age": 22,
+                "appearances": 8,
+                "minutes": "720'",
+                "name": "Alain Goma",
+                "nationality": "France"
+            },
+            "6": {
+                "age": 21,
+                "appearances": 4,
+                "minutes": "274'",
+                "name": "Taribo West",
+                "nationality": "Nigeria"
+            },
+            "7": {
+                "age": 24,
+                "appearances": 8,
+                "minutes": "645'",
+                "name": "Franck Rabarivony",
+                "nationality": "Madagascar"
+            },
+            "8": {
+                "age": 23,
+                "appearances": 3,
+                "minutes": "270'",
+                "name": "Christophe Remy",
+                "nationality": "France"
+            },
+            "9": {
+                "age": 16,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Awudu Issaka",
+                "nationality": "Ghana"
+            },
+            "10": {
+                "age": 22,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Yann Lachuer",
+                "nationality": "France"
+            },
+            "11": {
+                "age": 23,
+                "appearances": 9,
+                "minutes": "718'",
+                "name": "Sabri Lamouchi",
+                "nationality": "France"
+            },
+            "12": {
+                "age": 25,
+                "appearances": 9,
+                "minutes": "810'",
+                "name": "Corentin Martins",
+                "nationality": "France"
+            },
+            "13": {
+                "age": 24,
+                "appearances": 7,
+                "minutes": "371'",
+                "name": "Philippe Violeau",
+                "nationality": "France"
+            },
+            "14": {
+                "age": 26,
+                "appearances": 8,
+                "minutes": "720'",
+                "name": "Moussa Sa\u00efb",
+                "nationality": "Algeria"
+            },
+            "15": {
+                "age": 23,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Jo\u00ebl Andr\u00e9",
+                "nationality": "France"
+            },
+            "16": {
+                "age": 26,
+                "appearances": 3,
+                "minutes": "59'",
+                "name": "Abdelhafid Tasfaout",
+                "nationality": "Algeria"
+            },
+            "17": {
+                "age": 23,
+                "appearances": 1,
+                "minutes": "19'",
+                "name": "Christian Henna",
+                "nationality": "France"
+            },
+            "18": {
+                "age": 21,
+                "appearances": 9,
+                "minutes": "595'",
+                "name": "Bernard Diom\u00e8de",
+                "nationality": "France"
+            },
+            "19": {
+                "age": 17,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Arnaud Gonzalez",
+                "nationality": "France"
+            },
+            "20": {
+                "age": 15,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "S\u00e9bastien Heitzmann",
+                "nationality": "France"
+            },
+            "21": {
+                "age": 23,
+                "appearances": 9,
+                "minutes": "667'",
+                "name": "Lilian Laslandes",
+                "nationality": "France"
+            },
+            "22": {
+                "age": 27,
+                "appearances": 8,
+                "minutes": "586'",
+                "name": "Christophe Cocard",
+                "nationality": "France"
+            },
+            "23": {
+                "age": 26,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Didier Otokor\u00e9",
+                "nationality": "Cote d'Ivoire"
+            },
+            "24": {
+                "age": 24,
+                "appearances": 7,
+                "minutes": "275'",
+                "name": "St\u00e9phane Guivarc'h",
+                "nationality": "France"
+            },
+            "25": {
+                "age": 18,
+                "appearances": 2,
+                "minutes": "59'",
+                "name": "Fabrice Lepaul",
+                "nationality": "France"
+            }
+        },
+        "as-cannes": {
+            "0": {
+                "age": 17,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "S\u00e9bastien Chabbert",
+                "nationality": "France"
+            },
+            "1": {
+                "age": 31,
+                "appearances": 4,
+                "minutes": "360'",
+                "name": "Fran\u00e7ois Lemasson",
+                "nationality": "France"
+            },
+            "2": {
+                "age": 19,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "S\u00e9bastien Renaud",
+                "nationality": "France"
+            },
+            "3": {
+                "age": 36,
+                "appearances": 2,
+                "minutes": "180'",
+                "name": "Michel Dussuyer",
+                "nationality": "France"
+            },
+            "4": {
+                "age": 17,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Patrick Barul",
+                "nationality": "France"
+            },
+            "5": {
+                "age": 19,
+                "appearances": 2,
+                "minutes": "162'",
+                "name": "Romain Ferrier",
+                "nationality": "France"
+            },
+            "6": {
+                "age": 20,
+                "appearances": 3,
+                "minutes": "270'",
+                "name": "David Jemmali",
+                "nationality": "Tunisia"
+            },
+            "7": {
+                "age": 23,
+                "appearances": 4,
+                "minutes": "360'",
+                "name": "Bernard Lambourde",
+                "nationality": "France"
+            },
+            "8": {
+                "age": 20,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Bill Tchato",
+                "nationality": "Cameroon"
+            },
+            "9": {
+                "age": 22,
+                "appearances": 4,
+                "minutes": "286'",
+                "name": "Laurent Charvet",
+                "nationality": "France"
+            },
+            "10": {
+                "age": 26,
+                "appearances": 4,
+                "minutes": "360'",
+                "name": "Gilles Hampartzoumian",
+                "nationality": "France"
+            },
+            "11": {
+                "age": 20,
+                "appearances": 1,
+                "minutes": "90'",
+                "name": "Kwami Hodouto",
+                "nationality": "Togo"
+            },
+            "12": {
+                "age": 26,
+                "appearances": 2,
+                "minutes": "156'",
+                "name": "Emmanuel Hutteau",
+                "nationality": "France"
+            },
+            "13": {
+                "age": 31,
+                "appearances": 1,
+                "minutes": "90'",
+                "name": "Adick Koot",
+                "nationality": "Netherlands"
+            },
+            "14": {
+                "age": 18,
+                "appearances": 1,
+                "minutes": "90'",
+                "name": "Sacha Opinel",
+                "nationality": "France"
+            },
+            "15": {
+                "age": 30,
+                "appearances": 3,
+                "minutes": "245'",
+                "name": "Sasa Person",
+                "nationality": "Croatia"
+            },
+            "16": {
+                "age": 22,
+                "appearances": 2,
+                "minutes": "180'",
+                "name": "Fabrice Grondin",
+                "nationality": "France"
+            },
+            "17": {
+                "age": 19,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "James Hindmarch",
+                "nationality": "England"
+            },
+            "18": {
+                "age": 23,
+                "appearances": 2,
+                "minutes": "180'",
+                "name": "Fernando Da Silva Meireles",
+                "nationality": "France"
+            },
+            "19": {
+                "age": 17,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Anthony Braizat",
+                "nationality": "France"
+            },
+            "20": {
+                "age": 18,
+                "appearances": 2,
+                "minutes": "27'",
+                "name": "Sebastien Chabaud",
+                "nationality": "France"
+            },
+            "21": {
+                "age": 19,
+                "appearances": 6,
+                "minutes": "337'",
+                "name": "Micka\u00ebl Marsiglia",
+                "nationality": "France"
+            },
+            "22": {
+                "age": 21,
+                "appearances": 6,
+                "minutes": "469'",
+                "name": "Johan Micoud",
+                "nationality": "France"
+            },
+            "23": {
+                "age": 20,
+                "appearances": 3,
+                "minutes": "77'",
+                "name": "Pascal B\u00e9drossian",
+                "nationality": "France"
+            },
+            "24": {
+                "age": 19,
+                "appearances": 3,
+                "minutes": "270'",
+                "name": "Patrick Vieira",
+                "nationality": "France"
+            },
+            "25": {
+                "age": 30,
+                "appearances": 5,
+                "minutes": "418'",
+                "name": "Kader Ferhaoui",
+                "nationality": "Algeria"
+            },
+            "26": {
+                "age": 17,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Adel Boutobba",
+                "nationality": "France"
+            },
+            "27": {
+                "age": 22,
+                "appearances": 4,
+                "minutes": "311'",
+                "name": "Jean-Michel Capoue",
+                "nationality": "France"
+            },
+            "28": {
+                "age": 28,
+                "appearances": 4,
+                "minutes": "157'",
+                "name": "Patrice Marquet",
+                "nationality": "France"
+            },
+            "29": {
+                "age": 17,
+                "appearances": 2,
+                "minutes": "26'",
+                "name": "C\u00e9dric Mouret",
+                "nationality": "France"
+            },
+            "30": {
+                "age": 28,
+                "appearances": 3,
+                "minutes": "146'",
+                "name": "Jean-Jacques Etam\u00e9",
+                "nationality": "Cameroon"
+            },
+            "31": {
+                "age": 18,
+                "appearances": 2,
+                "minutes": "101'",
+                "name": "Lilian Compan",
+                "nationality": "France"
+            },
+            "32": {
+                "age": 26,
+                "appearances": 5,
+                "minutes": "398'",
+                "name": "Christophe Horlaville",
+                "nationality": "France"
+            },
+            "33": {
+                "age": 27,
+                "appearances": 3,
+                "minutes": "194'",
+                "name": "Ardian Kozniku",
+                "nationality": "Croatia"
+            }
+        },
+        "as-monaco": {
+            "0": {
+                "age": 24,
+                "appearances": 6,
+                "minutes": "540'",
+                "name": "Fabien Barthez",
+                "nationality": "France"
+            },
+            "1": {
+                "age": 21,
+                "appearances": 4,
+                "minutes": "360'",
+                "name": "St\u00e9phane Porato",
+                "nationality": "France"
+            },
+            "2": {
+                "age": 24,
+                "appearances": 2,
+                "minutes": "180'",
+                "name": "Marc Delaroche",
+                "nationality": "France"
+            },
+            "3": {
+                "age": 31,
+                "appearances": 2,
+                "minutes": "180'",
+                "name": "Fabien Piveteau",
+                "nationality": "France"
+            },
+            "4": {
+                "age": 27,
+                "appearances": 9,
+                "minutes": "693'",
+                "name": "Patrick Blondeau",
+                "nationality": "France"
+            },
+            "5": {
+                "age": 16,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Philippe Christanval",
+                "nationality": "France"
+            },
+            "6": {
+                "age": 21,
+                "appearances": 7,
+                "minutes": "288'",
+                "name": "Manuel dos Santos",
+                "nationality": "Cape Verde"
+            },
+            "7": {
+                "age": 19,
+                "appearances": 4,
+                "minutes": "209'",
+                "name": "Bruno Irles",
+                "nationality": "France"
+            },
+            "8": {
+                "age": 23,
+                "appearances": 14,
+                "minutes": "1.260'",
+                "name": "Lilian Thuram",
+                "nationality": "France"
+            },
+            "9": {
+                "age": 28,
+                "appearances": 3,
+                "minutes": "232'",
+                "name": "Basile Boli",
+                "nationality": "France"
+            },
+            "10": {
+                "age": 25,
+                "appearances": 1,
+                "minutes": "4'",
+                "name": "Patrick Val\u00e9ry",
+                "nationality": "France"
+            },
+            "11": {
+                "age": 31,
+                "appearances": 10,
+                "minutes": "875'",
+                "name": "\u00c9ric Di Meco",
+                "nationality": "France"
+            },
+            "12": {
+                "age": 27,
+                "appearances": 13,
+                "minutes": "1.113'",
+                "name": "Franck Dumas",
+                "nationality": "France"
+            },
+            "13": {
+                "age": 26,
+                "appearances": 11,
+                "minutes": "755'",
+                "name": "Ali Benarbia",
+                "nationality": "Algeria"
+            },
+            "14": {
+                "age": 24,
+                "appearances": 6,
+                "minutes": "346'",
+                "name": "Gilles Grimandi",
+                "nationality": "France"
+            },
+            "15": {
+                "age": 18,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Nicolas Bonnal",
+                "nationality": "France"
+            },
+            "16": {
+                "age": 22,
+                "appearances": 10,
+                "minutes": "666'",
+                "name": "Sylvain Legwinski",
+                "nationality": "France"
+            },
+            "17": {
+                "age": 24,
+                "appearances": 10,
+                "minutes": "834'",
+                "name": "Emmanuel Petit",
+                "nationality": "France"
+            },
+            "18": {
+                "age": 29,
+                "appearances": 14,
+                "minutes": "1.167'",
+                "name": "Enzo Scifo",
+                "nationality": "Belgium"
+            },
+            "19": {
+                "age": 25,
+                "appearances": 12,
+                "minutes": "824'",
+                "name": "Laurent Viaud",
+                "nationality": "France"
+            },
+            "20": {
+                "age": 17,
+                "appearances": 1,
+                "minutes": "12'",
+                "name": "Ernst Atis-Clotaire",
+                "nationality": "Haiti"
+            },
+            "21": {
+                "age": 33,
+                "appearances": 9,
+                "minutes": "507'",
+                "name": "Claude Puel",
+                "nationality": "France"
+            },
+            "22": {
+                "age": 20,
+                "appearances": 5,
+                "minutes": "312'",
+                "name": "Christopher Wreh",
+                "nationality": "Liberia"
+            },
+            "23": {
+                "age": 22,
+                "appearances": 5,
+                "minutes": "288'",
+                "name": "Victor Ikpeba",
+                "nationality": "Nigeria"
+            },
+            "24": {
+                "age": 23,
+                "appearances": 2,
+                "minutes": "78'",
+                "name": "Dan Sigvald Petersen",
+                "nationality": "Denmark"
+            },
+            "25": {
+                "age": 24,
+                "appearances": 12,
+                "minutes": "1.013'",
+                "name": "Sonny Anderson",
+                "nationality": "Brazil"
+            },
+            "26": {
+                "age": 17,
+                "appearances": 7,
+                "minutes": "301'",
+                "name": "Thierry Henry",
+                "nationality": "France"
+            },
+            "27": {
+                "age": 17,
+                "appearances": 3,
+                "minutes": "27'",
+                "name": "David Tr\u00e9z\u00e9guet",
+                "nationality": "France"
+            },
+            "28": {
+                "age": 24,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Laurent Tomczyk",
+                "nationality": "France"
+            },
+            "29": {
+                "age": 27,
+                "appearances": 9,
+                "minutes": "757'",
+                "name": "Micka\u00ebl Madar",
+                "nationality": "France"
+            }
+        },
+        "as-saint-etienne": {
+            "0": {
+                "age": 22,
+                "appearances": 6,
+                "minutes": "540'",
+                "name": "Gr\u00e9gory Coupet",
+                "nationality": "France"
+            },
+            "1": {
+                "age": 32,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Gilbert Ceccarelli",
+                "nationality": "France"
+            },
+            "2": {
+                "age": 21,
+                "appearances": 1,
+                "minutes": "90'",
+                "name": "Lionel Potillon",
+                "nationality": "France"
+            },
+            "3": {
+                "age": 21,
+                "appearances": 5,
+                "minutes": "450'",
+                "name": "Patrick Moreau",
+                "nationality": "France"
+            },
+            "4": {
+                "age": 21,
+                "appearances": 3,
+                "minutes": "206'",
+                "name": "S\u00e9bastien P\u00e9rez",
+                "nationality": "France"
+            },
+            "5": {
+                "age": 18,
+                "appearances": 2,
+                "minutes": "180'",
+                "name": "Willy Sagnol",
+                "nationality": "France"
+            },
+            "6": {
+                "age": 25,
+                "appearances": 5,
+                "minutes": "371'",
+                "name": "Romarin Billong",
+                "nationality": "Cameroon"
+            },
+            "7": {
+                "age": 20,
+                "appearances": 6,
+                "minutes": "540'",
+                "name": "Fabrice Mannucci",
+                "nationality": "France"
+            },
+            "8": {
+                "age": 22,
+                "appearances": 4,
+                "minutes": "304'",
+                "name": "Jean-Fran\u00e7ois Soucasse",
+                "nationality": "France"
+            },
+            "9": {
+                "age": 22,
+                "appearances": 2,
+                "minutes": "180'",
+                "name": "Salem Harch\u00e8che",
+                "nationality": "Algeria"
+            },
+            "10": {
+                "age": 32,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Jean-Philippe Primard",
+                "nationality": "France"
+            },
+            "11": {
+                "age": 31,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Patrice Ferri",
+                "nationality": "France"
+            },
+            "12": {
+                "age": 26,
+                "appearances": 1,
+                "minutes": "15'",
+                "name": "Jean-Luc Vasseur",
+                "nationality": "France"
+            },
+            "13": {
+                "age": 27,
+                "appearances": 5,
+                "minutes": "450'",
+                "name": "Jean-Phillippe S\u00e9chet",
+                "nationality": "France"
+            },
+            "14": {
+                "age": 21,
+                "appearances": 2,
+                "minutes": "42'",
+                "name": "Dominique Aulanier",
+                "nationality": "France"
+            },
+            "15": {
+                "age": 18,
+                "appearances": 1,
+                "minutes": "68'",
+                "name": "Adel Chedli",
+                "nationality": "Tunisia"
+            },
+            "16": {
+                "age": 30,
+                "appearances": 5,
+                "minutes": "450'",
+                "name": "Lubomir Moravcik",
+                "nationality": "Slovakia"
+            },
+            "17": {
+                "age": 17,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Pape Sarr",
+                "nationality": "Senegal"
+            },
+            "18": {
+                "age": 18,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Yann Synaeghel",
+                "nationality": "France"
+            },
+            "19": {
+                "age": 21,
+                "appearances": 3,
+                "minutes": "190'",
+                "name": "Pierre Bastou",
+                "nationality": "France"
+            },
+            "20": {
+                "age": 27,
+                "appearances": 2,
+                "minutes": "115'",
+                "name": "Jean-Philippe Delpech",
+                "nationality": "France"
+            },
+            "21": {
+                "age": 30,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Pascal Despeyroux",
+                "nationality": "France"
+            },
+            "22": {
+                "age": 27,
+                "appearances": 5,
+                "minutes": "405'",
+                "name": "Christophe Ohrel",
+                "nationality": "Switzerland"
+            },
+            "23": {
+                "age": 28,
+                "appearances": 5,
+                "minutes": "405'",
+                "name": "Liazid Sandjak",
+                "nationality": "Algeria"
+            },
+            "24": {
+                "age": 22,
+                "appearances": 4,
+                "minutes": "264'",
+                "name": "St\u00e9phane Santini",
+                "nationality": "France"
+            },
+            "25": {
+                "age": 17,
+                "appearances": 2,
+                "minutes": "134'",
+                "name": "Sylvain Flauto",
+                "nationality": "France"
+            },
+            "26": {
+                "age": 24,
+                "appearances": 4,
+                "minutes": "196'",
+                "name": "Flavio Cuca",
+                "nationality": "Brazil"
+            },
+            "27": {
+                "age": 21,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "J\u00e9r\u00f4me Four",
+                "nationality": "France"
+            },
+            "28": {
+                "age": 25,
+                "appearances": 4,
+                "minutes": "288'",
+                "name": "Didier Thimoth\u00e9e",
+                "nationality": "France"
+            },
+            "29": {
+                "age": 23,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Fouzi Ziadi",
+                "nationality": "France"
+            }
+        },
+        "ea-guingamp": {
+            "0": {
+                "age": 28,
+                "appearances": 5,
+                "minutes": "450'",
+                "name": "Angelo Hugues",
+                "nationality": "France"
+            },
+            "1": {
+                "age": 20,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Philippe Chrismousse",
+                "nationality": "France"
+            },
+            "2": {
+                "age": 21,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Ronald Thomas",
+                "nationality": "France"
+            },
+            "3": {
+                "age": 21,
+                "appearances": 3,
+                "minutes": "243'",
+                "name": "Vincent Candela",
+                "nationality": "France"
+            },
+            "4": {
+                "age": 24,
+                "appearances": 3,
+                "minutes": "270'",
+                "name": "J\u00e9r\u00f4me Foulon",
+                "nationality": "France"
+            },
+            "5": {
+                "age": 23,
+                "appearances": 4,
+                "minutes": "279'",
+                "name": "Nicolas Laspalles",
+                "nationality": "France"
+            },
+            "6": {
+                "age": 29,
+                "appearances": 4,
+                "minutes": "360'",
+                "name": "Gheorghe Mihali",
+                "nationality": "Romania"
+            },
+            "7": {
+                "age": 27,
+                "appearances": 4,
+                "minutes": "360'",
+                "name": "Hubert Fournier",
+                "nationality": "France"
+            },
+            "8": {
+                "age": 31,
+                "appearances": 5,
+                "minutes": "377'",
+                "name": "Richard Lecomte",
+                "nationality": "France"
+            },
+            "9": {
+                "age": 24,
+                "appearances": 2,
+                "minutes": "27'",
+                "name": "Gilles Giuliano",
+                "nationality": "France"
+            },
+            "10": {
+                "age": 20,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Arnaud Paignac",
+                "nationality": "France"
+            },
+            "11": {
+                "age": 21,
+                "appearances": 3,
+                "minutes": "270'",
+                "name": "Philippe Celdran",
+                "nationality": "France"
+            },
+            "12": {
+                "age": 19,
+                "appearances": 1,
+                "minutes": "18'",
+                "name": "Laurent Herv\u00e9",
+                "nationality": "France"
+            },
+            "13": {
+                "age": 22,
+                "appearances": 4,
+                "minutes": "274'",
+                "name": "Yannick Baret",
+                "nationality": "France"
+            },
+            "14": {
+                "age": 22,
+                "appearances": 5,
+                "minutes": "427'",
+                "name": "St\u00e9phane Carnot",
+                "nationality": "France"
+            },
+            "15": {
+                "age": 22,
+                "appearances": 5,
+                "minutes": "394'",
+                "name": "Charles-Edouard Coridon",
+                "nationality": "Martinique"
+            },
+            "16": {
+                "age": 19,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Sylvain Didot",
+                "nationality": "France"
+            },
+            "17": {
+                "age": 24,
+                "appearances": 5,
+                "minutes": "349'",
+                "name": "Claude Michel",
+                "nationality": "France"
+            },
+            "18": {
+                "age": 24,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Jean-Jacques Houz\u00e9",
+                "nationality": "France"
+            },
+            "19": {
+                "age": 22,
+                "appearances": 2,
+                "minutes": "73'",
+                "name": "Djordje Tomic",
+                "nationality": "Serbia"
+            },
+            "20": {
+                "age": 21,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Salim Bekhti",
+                "nationality": "France"
+            },
+            "21": {
+                "age": 21,
+                "appearances": 4,
+                "minutes": "248'",
+                "name": "S\u00e9bastien Dallet",
+                "nationality": "France"
+            },
+            "22": {
+                "age": 26,
+                "appearances": 2,
+                "minutes": "180'",
+                "name": "Xavier Gravelaine",
+                "nationality": "France"
+            },
+            "23": {
+                "age": 28,
+                "appearances": 1,
+                "minutes": "90'",
+                "name": "Fabrice Divert",
+                "nationality": "France"
+            },
+            "24": {
+                "age": 21,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "J\u00e9r\u00f4me Molinier",
+                "nationality": "France"
+            },
+            "25": {
+                "age": 26,
+                "appearances": 3,
+                "minutes": "73'",
+                "name": "R\u00e9ginald Ray",
+                "nationality": "France"
+            },
+            "26": {
+                "age": 24,
+                "appearances": 2,
+                "minutes": "180'",
+                "name": "Lionel Rouxel",
+                "nationality": "France"
+            },
+            "27": {
+                "age": 29,
+                "appearances": 1,
+                "minutes": "8'",
+                "name": "Jo\u00ebl Cloarec",
+                "nationality": "France"
+            }
+        },
+        "fc-girondins-bordeaux": {
+            "0": {
+                "age": 21,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Yannick Quesnel",
+                "nationality": "France"
+            },
+            "1": {
+                "age": 33,
+                "appearances": 11,
+                "minutes": "990'",
+                "name": "Ga\u00ebtan Huard",
+                "nationality": "France"
+            },
+            "2": {
+                "age": 21,
+                "appearances": 1,
+                "minutes": "90'",
+                "name": "Franck Fontan",
+                "nationality": "France"
+            },
+            "3": {
+                "age": 27,
+                "appearances": 6,
+                "minutes": "489'",
+                "name": "William Prunier",
+                "nationality": "France"
+            },
+            "4": {
+                "age": 25,
+                "appearances": 8,
+                "minutes": "720'",
+                "name": "Bixente Lizarazu",
+                "nationality": "France"
+            },
+            "5": {
+                "age": 28,
+                "appearances": 7,
+                "minutes": "559'",
+                "name": "Jakob Friis-Hansen",
+                "nationality": "Denmark"
+            },
+            "6": {
+                "age": 22,
+                "appearances": 6,
+                "minutes": "403'",
+                "name": "Geoffray Toyes",
+                "nationality": "France"
+            },
+            "7": {
+                "age": 23,
+                "appearances": 3,
+                "minutes": "94'",
+                "name": "Mirza Varesanovic",
+                "nationality": "Bosnia-Herzegovina"
+            },
+            "8": {
+                "age": 17,
+                "appearances": 1,
+                "minutes": "90'",
+                "name": "Kodjo Julien Afanou",
+                "nationality": "Togo"
+            },
+            "9": {
+                "age": 20,
+                "appearances": 7,
+                "minutes": "459'",
+                "name": "Yannick Fischer",
+                "nationality": "France"
+            },
+            "10": {
+                "age": 20,
+                "appearances": 8,
+                "minutes": "347'",
+                "name": "Fran\u00e7ois Grenet",
+                "nationality": "France"
+            },
+            "11": {
+                "age": 27,
+                "appearances": 11,
+                "minutes": "990'",
+                "name": "Jean-Luc Dogon",
+                "nationality": "France"
+            },
+            "12": {
+                "age": 22,
+                "appearances": 2,
+                "minutes": "134'",
+                "name": "Joachim Fernandez \u2020",
+                "nationality": "France"
+            },
+            "13": {
+                "age": 25,
+                "appearances": 11,
+                "minutes": "968'",
+                "name": "Richard Witschge",
+                "nationality": "Netherlands"
+            },
+            "14": {
+                "age": 21,
+                "appearances": 2,
+                "minutes": "163'",
+                "name": "R\u00e9gis Castant",
+                "nationality": "France"
+            },
+            "15": {
+                "age": 19,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Sylvain N'Diaye",
+                "nationality": "Senegal"
+            },
+            "16": {
+                "age": 23,
+                "appearances": 10,
+                "minutes": "872'",
+                "name": "Zin\u00e9dine Zidane",
+                "nationality": "France"
+            },
+            "17": {
+                "age": 30,
+                "appearances": 9,
+                "minutes": "649'",
+                "name": "Laurent Croci",
+                "nationality": "France"
+            },
+            "18": {
+                "age": 31,
+                "appearances": 9,
+                "minutes": "590'",
+                "name": "Philippe Lucas",
+                "nationality": "France"
+            },
+            "19": {
+                "age": 27,
+                "appearances": 11,
+                "minutes": "883'",
+                "name": "Daniel Dutuel",
+                "nationality": "France"
+            },
+            "20": {
+                "age": 17,
+                "appearances": 1,
+                "minutes": "69'",
+                "name": "C\u00e9dric Anselin",
+                "nationality": "France"
+            },
+            "21": {
+                "age": 21,
+                "appearances": 1,
+                "minutes": "4'",
+                "name": "Patrick Amrane",
+                "nationality": "France"
+            },
+            "22": {
+                "age": 20,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Raphael Camacho",
+                "nationality": "France"
+            },
+            "23": {
+                "age": 21,
+                "appearances": 6,
+                "minutes": "288'",
+                "name": "Jean-Yves De Blasiis",
+                "nationality": "France"
+            },
+            "24": {
+                "age": 22,
+                "appearances": 5,
+                "minutes": "158'",
+                "name": "Franck Histilloles",
+                "nationality": "France"
+            },
+            "25": {
+                "age": 30,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Laurent Fournier",
+                "nationality": "France"
+            },
+            "26": {
+                "age": 23,
+                "appearances": 9,
+                "minutes": "705'",
+                "name": "Christophe Dugarry",
+                "nationality": "France"
+            },
+            "27": {
+                "age": 19,
+                "appearances": 1,
+                "minutes": "90'",
+                "name": "Kaba Diawara",
+                "nationality": "Guinea"
+            },
+            "28": {
+                "age": 24,
+                "appearances": 9,
+                "minutes": "579'",
+                "name": "Anthony Bancarel",
+                "nationality": "France"
+            },
+            "29": {
+                "age": 27,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Valdeir",
+                "nationality": "Brazil"
+            },
+            "30": {
+                "age": 31,
+                "appearances": 7,
+                "minutes": "479'",
+                "name": "Didier Tholot",
+                "nationality": "France"
+            }
+        },
+        "fc-gueugnon": {
+            "0": {
+                "age": 29,
+                "appearances": 4,
+                "minutes": "360'",
+                "name": "Ali Boumnijel",
+                "nationality": "Tunisia"
+            },
+            "1": {
+                "age": 24,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "J\u00e9r\u00f4me Sykora",
+                "nationality": "France"
+            },
+            "2": {
+                "age": 23,
+                "appearances": 4,
+                "minutes": "345'",
+                "name": "Philippe Correia",
+                "nationality": "France"
+            },
+            "3": {
+                "age": 23,
+                "appearances": 4,
+                "minutes": "135'",
+                "name": "Claude Dambury",
+                "nationality": "French Guiana"
+            },
+            "4": {
+                "age": 20,
+                "appearances": 4,
+                "minutes": "360'",
+                "name": "Franck Jurietti",
+                "nationality": "France"
+            },
+            "5": {
+                "age": 23,
+                "appearances": 3,
+                "minutes": "205'",
+                "name": "Fabien Safanjon",
+                "nationality": "France"
+            },
+            "6": {
+                "age": 31,
+                "appearances": 4,
+                "minutes": "360'",
+                "name": "Jean Ac\u00e9do",
+                "nationality": "France"
+            },
+            "7": {
+                "age": 24,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Laurent Ciechelski",
+                "nationality": "France"
+            },
+            "8": {
+                "age": 29,
+                "appearances": 3,
+                "minutes": "270'",
+                "name": "David Fanzel",
+                "nationality": "France"
+            },
+            "9": {
+                "age": 30,
+                "appearances": 3,
+                "minutes": "270'",
+                "name": "Franck Granger",
+                "nationality": "France"
+            },
+            "10": {
+                "age": 27,
+                "appearances": 3,
+                "minutes": "270'",
+                "name": "St\u00e9phane Pounewatchy",
+                "nationality": "France"
+            },
+            "11": {
+                "age": 23,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Sylvain Bupto",
+                "nationality": "France"
+            },
+            "12": {
+                "age": 22,
+                "appearances": 4,
+                "minutes": "330'",
+                "name": "Philippe Brunel",
+                "nationality": "France"
+            },
+            "13": {
+                "age": 21,
+                "appearances": 1,
+                "minutes": "90'",
+                "name": "Sylvain Poin\u00e7on",
+                "nationality": "France"
+            },
+            "14": {
+                "age": 19,
+                "appearances": 2,
+                "minutes": "180'",
+                "name": "Yannick Chandioux",
+                "nationality": "France"
+            },
+            "15": {
+                "age": 28,
+                "appearances": 1,
+                "minutes": "23'",
+                "name": "Alain Durand",
+                "nationality": "France"
+            },
+            "16": {
+                "age": 18,
+                "appearances": 3,
+                "minutes": "171'",
+                "name": "Nicolas Esceth-N'Zi",
+                "nationality": "France"
+            },
+            "17": {
+                "age": 27,
+                "appearances": 1,
+                "minutes": "90'",
+                "name": "Patrice Eyraud",
+                "nationality": "France"
+            },
+            "18": {
+                "age": 27,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Mohammed Lashaf",
+                "nationality": "Morocco"
+            },
+            "19": {
+                "age": 27,
+                "appearances": 1,
+                "minutes": "67'",
+                "name": "Francisc Dican",
+                "nationality": "Romania"
+            },
+            "20": {
+                "age": 22,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "David Trivino",
+                "nationality": "France"
+            },
+            "21": {
+                "age": 23,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Christophe Ajas",
+                "nationality": "France"
+            },
+            "22": {
+                "age": 29,
+                "appearances": 4,
+                "minutes": "300'",
+                "name": "Amara Traor\u00e9",
+                "nationality": "Senegal"
+            },
+            "23": {
+                "age": 27,
+                "appearances": 3,
+                "minutes": "134'",
+                "name": "Cl\u00e9ment Garcia",
+                "nationality": "France"
+            }
+        },
+        "fc-martigues": {
+            "0": {
+                "age": 29,
+                "appearances": 8,
+                "minutes": "720'",
+                "name": "Eric Durand",
+                "nationality": "France"
+            },
+            "1": {
+                "age": 21,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Franck Raviot",
+                "nationality": "France"
+            },
+            "2": {
+                "age": 24,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Christophe Vialet",
+                "nationality": "France"
+            },
+            "3": {
+                "age": 22,
+                "appearances": 7,
+                "minutes": "630'",
+                "name": "Maxence Flachez",
+                "nationality": "France"
+            },
+            "4": {
+                "age": 21,
+                "appearances": 6,
+                "minutes": "514'",
+                "name": "Fr\u00e9d\u00e9ric Mendy",
+                "nationality": "France"
+            },
+            "5": {
+                "age": 22,
+                "appearances": 5,
+                "minutes": "448'",
+                "name": "Guillaume Bouisset",
+                "nationality": "France"
+            },
+            "6": {
+                "age": 28,
+                "appearances": 7,
+                "minutes": "625'",
+                "name": "Didier Dubois",
+                "nationality": "France"
+            },
+            "7": {
+                "age": 24,
+                "appearances": 2,
+                "minutes": "180'",
+                "name": "Abdoul Karim Bangoura",
+                "nationality": "Guinea"
+            },
+            "8": {
+                "age": 23,
+                "appearances": 2,
+                "minutes": "180'",
+                "name": "Gilles Frechingues",
+                "nationality": "France"
+            },
+            "9": {
+                "age": 18,
+                "appearances": 1,
+                "minutes": "90'",
+                "name": "Laurent Grimaud",
+                "nationality": "France"
+            },
+            "10": {
+                "age": 26,
+                "appearances": 5,
+                "minutes": "428'",
+                "name": "Gilles Petrucci",
+                "nationality": "France"
+            },
+            "11": {
+                "age": 17,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Fabien Art\u00e8s",
+                "nationality": "France"
+            },
+            "12": {
+                "age": 15,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Franck Matingou",
+                "nationality": "DR Congo"
+            },
+            "13": {
+                "age": 31,
+                "appearances": 6,
+                "minutes": "488'",
+                "name": "Serge Romano",
+                "nationality": "France"
+            },
+            "14": {
+                "age": 24,
+                "appearances": 8,
+                "minutes": "622'",
+                "name": "Olivier Ichoua",
+                "nationality": "France"
+            },
+            "15": {
+                "age": 23,
+                "appearances": 7,
+                "minutes": "534'",
+                "name": "David Mazzoncini",
+                "nationality": "France"
+            },
+            "16": {
+                "age": 19,
+                "appearances": 7,
+                "minutes": "383'",
+                "name": "St\u00e9phane Odet",
+                "nationality": "France"
+            },
+            "17": {
+                "age": 24,
+                "appearances": 2,
+                "minutes": "180'",
+                "name": "Abdoul Salam Sow",
+                "nationality": "Guinea"
+            },
+            "18": {
+                "age": 27,
+                "appearances": 2,
+                "minutes": "62'",
+                "name": "Samir Zamfir",
+                "nationality": "Romania"
+            },
+            "19": {
+                "age": 28,
+                "appearances": 5,
+                "minutes": "213'",
+                "name": "Bruno G\u00e9n\u00e9sio",
+                "nationality": "France"
+            },
+            "20": {
+                "age": 20,
+                "appearances": 2,
+                "minutes": "160'",
+                "name": "Abidou Tchagnao",
+                "nationality": "Togo"
+            },
+            "21": {
+                "age": 23,
+                "appearances": 1,
+                "minutes": "39'",
+                "name": "Laurent David",
+                "nationality": "France"
+            },
+            "22": {
+                "age": 19,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Karim Malagouen",
+                "nationality": "France"
+            },
+            "23": {
+                "age": 18,
+                "appearances": 5,
+                "minutes": "394'",
+                "name": "Abassi Boinah\u00e9ri",
+                "nationality": "France"
+            },
+            "24": {
+                "age": 24,
+                "appearances": 5,
+                "minutes": "282'",
+                "name": "Mohamed Lamine Sylla \u2020",
+                "nationality": "Guinea"
+            },
+            "25": {
+                "age": 31,
+                "appearances": 5,
+                "minutes": "450'",
+                "name": "Jo\u00ebl Ti\u00e9hi",
+                "nationality": "Cote d'Ivoire"
+            },
+            "26": {
+                "age": 25,
+                "appearances": 3,
+                "minutes": "104'",
+                "name": "Olivier Vandevoorde",
+                "nationality": "France"
+            },
+            "27": {
+                "age": 17,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Djamel Djellal",
+                "nationality": "France"
+            },
+            "28": {
+                "age": 24,
+                "appearances": 2,
+                "minutes": "117'",
+                "name": "Franck Soler",
+                "nationality": "France"
+            },
+            "29": {
+                "age": 25,
+                "appearances": 1,
+                "minutes": "27'",
+                "name": "Henrik Bertilsson",
+                "nationality": "Sweden"
+            }
+        },
+        "fc-metz": {
+            "0": {
+                "age": 23,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Olivier Tingry",
+                "nationality": "France"
+            },
+            "1": {
+                "age": 31,
+                "appearances": 8,
+                "minutes": "720'",
+                "name": "Jacques Songo'o",
+                "nationality": "Cameroon"
+            },
+            "2": {
+                "age": 34,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Stephane D'Angelo",
+                "nationality": "France"
+            },
+            "3": {
+                "age": 20,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Jeff Strasser",
+                "nationality": "Luxembourg"
+            },
+            "4": {
+                "age": 20,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Alexandre Cl\u00e9ment",
+                "nationality": "France"
+            },
+            "5": {
+                "age": 19,
+                "appearances": 8,
+                "minutes": "720'",
+                "name": "Rigobert Song",
+                "nationality": "Cameroon"
+            },
+            "6": {
+                "age": 21,
+                "appearances": 4,
+                "minutes": "115'",
+                "name": "David Terrier",
+                "nationality": "France"
+            },
+            "7": {
+                "age": 30,
+                "appearances": 8,
+                "minutes": "720'",
+                "name": "Philippe Gaillot",
+                "nationality": "France"
+            },
+            "8": {
+                "age": 31,
+                "appearances": 8,
+                "minutes": "720'",
+                "name": "Sylvain Kastendeuch",
+                "nationality": "France"
+            },
+            "9": {
+                "age": 24,
+                "appearances": 1,
+                "minutes": "-",
+                "name": "Franck Meyrignac",
+                "nationality": "France"
+            },
+            "10": {
+                "age": 27,
+                "appearances": 8,
+                "minutes": "703'",
+                "name": "Pascal Pierre",
+                "nationality": "France"
+            },
+            "11": {
+                "age": 23,
+                "appearances": 8,
+                "minutes": "630'",
+                "name": "Jocelyn Blanchard",
+                "nationality": "France"
+            },
+            "12": {
+                "age": 18,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Tarik Kharif",
+                "nationality": "France"
+            },
+            "13": {
+                "age": 18,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Didier Neumann",
+                "nationality": "France"
+            },
+            "14": {
+                "age": 21,
+                "appearances": 8,
+                "minutes": "692'",
+                "name": "Robert Pir\u00e8s",
+                "nationality": "France"
+            },
+            "15": {
+                "age": 24,
+                "appearances": 7,
+                "minutes": "366'",
+                "name": "Didier Lang",
+                "nationality": "France"
+            },
+            "16": {
+                "age": 23,
+                "appearances": 7,
+                "minutes": "532'",
+                "name": "Cyril Serredszum",
+                "nationality": "France"
+            },
+            "17": {
+                "age": 26,
+                "appearances": 5,
+                "minutes": "379'",
+                "name": "Fr\u00e9d\u00e9ric Arpinon",
+                "nationality": "France"
+            },
+            "18": {
+                "age": 21,
+                "appearances": 6,
+                "minutes": "377'",
+                "name": "Isaias",
+                "nationality": "Brazil"
+            },
+            "19": {
+                "age": 24,
+                "appearances": 4,
+                "minutes": "231'",
+                "name": "Patrick M'Boma",
+                "nationality": "Cameroon"
+            },
+            "20": {
+                "age": 26,
+                "appearances": 4,
+                "minutes": "173'",
+                "name": "St\u00e9phane Adam",
+                "nationality": "France"
+            },
+            "21": {
+                "age": 22,
+                "appearances": 7,
+                "minutes": "600'",
+                "name": "Cyrille Pouget",
+                "nationality": "France"
+            },
+            "22": {
+                "age": 22,
+                "appearances": 6,
+                "minutes": "239'",
+                "name": "Samba N'Diaye",
+                "nationality": "Senegal"
+            }
+        },
+        "fc-nantes": {
+            "0": {
+                "age": 20,
+                "appearances": 1,
+                "minutes": "90'",
+                "name": "Eric Loussouarn",
+                "nationality": "France"
+            },
+            "1": {
+                "age": 24,
+                "appearances": 7,
+                "minutes": "630'",
+                "name": "Dominique Casagrande",
+                "nationality": "France"
+            },
+            "2": {
+                "age": 30,
+                "appearances": 4,
+                "minutes": "360'",
+                "name": "David Marraud",
+                "nationality": "France"
+            },
+            "3": {
+                "age": 26,
+                "appearances": 7,
+                "minutes": "471'",
+                "name": "Jean-Marc Chanelet",
+                "nationality": "France"
+            },
+            "4": {
+                "age": 22,
+                "appearances": 12,
+                "minutes": "906'",
+                "name": "Bruno Carotti",
+                "nationality": "France"
+            },
+            "5": {
+                "age": 16,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Ludovic Mary",
+                "nationality": "France"
+            },
+            "6": {
+                "age": 25,
+                "appearances": 8,
+                "minutes": "710'",
+                "name": "Christophe Pignol",
+                "nationality": "France"
+            },
+            "7": {
+                "age": 24,
+                "appearances": 3,
+                "minutes": "270'",
+                "name": "Eddy Capron",
+                "nationality": "France"
+            },
+            "8": {
+                "age": 26,
+                "appearances": 10,
+                "minutes": "886'",
+                "name": "\u00c9ric Decroix",
+                "nationality": "France"
+            },
+            "9": {
+                "age": 25,
+                "appearances": 12,
+                "minutes": "870'",
+                "name": "Laurent Guyot",
+                "nationality": "France"
+            },
+            "10": {
+                "age": 31,
+                "appearances": 10,
+                "minutes": "824'",
+                "name": "Serge Le Dizet",
+                "nationality": "France"
+            },
+            "11": {
+                "age": 22,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "\u00c9ric Carri\u00e8re",
+                "nationality": "France"
+            },
+            "12": {
+                "age": 26,
+                "appearances": 10,
+                "minutes": "841'",
+                "name": "Beno\u00eet Cauet",
+                "nationality": "France"
+            },
+            "13": {
+                "age": 23,
+                "appearances": 6,
+                "minutes": "339'",
+                "name": "Jocelyn Gourvennec",
+                "nationality": "France"
+            },
+            "14": {
+                "age": 22,
+                "appearances": 11,
+                "minutes": "865'",
+                "name": "Claude Mak\u00e9l\u00e9l\u00e9",
+                "nationality": "France"
+            },
+            "15": {
+                "age": 23,
+                "appearances": 11,
+                "minutes": "963'",
+                "name": "Reynald Pedros",
+                "nationality": "France"
+            },
+            "16": {
+                "age": 19,
+                "appearances": 2,
+                "minutes": "96'",
+                "name": "Nicolas Savinaud",
+                "nationality": "France"
+            },
+            "17": {
+                "age": 26,
+                "appearances": 7,
+                "minutes": "561'",
+                "name": "Jean-Michel Ferri",
+                "nationality": "France"
+            },
+            "18": {
+                "age": 21,
+                "appearances": 5,
+                "minutes": "185'",
+                "name": "David Garcion",
+                "nationality": "France"
+            },
+            "19": {
+                "age": 29,
+                "appearances": 7,
+                "minutes": "449'",
+                "name": "Roman Kosecki",
+                "nationality": "Poland"
+            },
+            "20": {
+                "age": 21,
+                "appearances": 6,
+                "minutes": "264'",
+                "name": "Franck Renou",
+                "nationality": "France"
+            },
+            "21": {
+                "age": 20,
+                "appearances": 1,
+                "minutes": "12'",
+                "name": "S\u00e9bastien Le Paih",
+                "nationality": "France"
+            },
+            "22": {
+                "age": 25,
+                "appearances": 5,
+                "minutes": "45'",
+                "name": "Laurent Peyrelade",
+                "nationality": "France"
+            },
+            "23": {
+                "age": 20,
+                "appearances": 3,
+                "minutes": "123'",
+                "name": "Fr\u00e9d\u00e9ric Da Rocha",
+                "nationality": "France"
+            },
+            "24": {
+                "age": 29,
+                "appearances": 11,
+                "minutes": "890'",
+                "name": "Japhet N'Doram",
+                "nationality": "Chad"
+            },
+            "25": {
+                "age": 23,
+                "appearances": 3,
+                "minutes": "228'",
+                "name": "Nicolas Ou\u00e9dec",
+                "nationality": "France"
+            }
+        },
+        "fc-paris-saint-germain": {
+            "0": {
+                "age": 32,
+                "appearances": 34,
+                "minutes": "3.005'",
+                "name": "Bernard Lama",
+                "nationality": "France"
+            },
+            "1": {
+                "age": 22,
+                "appearances": 6,
+                "minutes": "415'",
+                "name": "Richard Dutruel",
+                "nationality": "France"
+            },
+            "2": {
+                "age": 27,
+                "appearances": 14,
+                "minutes": "1.199'",
+                "name": "Alain Roche",
+                "nationality": "France"
+            },
+            "3": {
+                "age": 23,
+                "appearances": 28,
+                "minutes": "1.427'",
+                "name": "Francis Llacer",
+                "nationality": "France"
+            },
+            "4": {
+                "age": 27,
+                "appearances": 28,
+                "minutes": "2.127'",
+                "name": "Jos\u00e9 Cobos",
+                "nationality": "France"
+            },
+            "5": {
+                "age": 22,
+                "appearances": 13,
+                "minutes": "779'",
+                "name": "Oumar Dieng",
+                "nationality": "France"
+            },
+            "6": {
+                "age": 17,
+                "appearances": 1,
+                "minutes": "6'",
+                "name": "Didier Domi",
+                "nationality": "France"
+            },
+            "7": {
+                "age": 24,
+                "appearances": 24,
+                "minutes": "1.960'",
+                "name": "Bruno N'Gotty",
+                "nationality": "France"
+            },
+            "8": {
+                "age": 29,
+                "appearances": 33,
+                "minutes": "2.867'",
+                "name": "Patrick Colleter",
+                "nationality": "France"
+            },
+            "9": {
+                "age": 26,
+                "appearances": 23,
+                "minutes": "1.700'",
+                "name": "St\u00e9phane Mah\u00e9",
+                "nationality": "France"
+            },
+            "10": {
+                "age": 19,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Edvin Murati",
+                "nationality": "Albania"
+            },
+            "11": {
+                "age": 19,
+                "appearances": 1,
+                "minutes": "14'",
+                "name": "Djamel Belmadi",
+                "nationality": "Algeria"
+            },
+            "12": {
+                "age": 27,
+                "appearances": 35,
+                "minutes": "2.897'",
+                "name": "Youri Djorkaeff",
+                "nationality": "France"
+            },
+            "13": {
+                "age": 27,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Jean-Phillippe S\u00e9chet",
+                "nationality": "France"
+            },
+            "14": {
+                "age": 18,
+                "appearances": 1,
+                "minutes": "1'",
+                "name": "Pierre Ducrocq",
+                "nationality": "France"
+            },
+            "15": {
+                "age": 19,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Antonio Tavares",
+                "nationality": "Portugal"
+            },
+            "16": {
+                "age": 31,
+                "appearances": 36,
+                "minutes": "2.917'",
+                "name": "Paul Le Guen",
+                "nationality": "France"
+            },
+            "17": {
+                "age": 32,
+                "appearances": 32,
+                "minutes": "2.564'",
+                "name": "Daniel Bravo",
+                "nationality": "France"
+            },
+            "18": {
+                "age": 29,
+                "appearances": 31,
+                "minutes": "2.526'",
+                "name": "Vincent Gu\u00e9rin",
+                "nationality": "France"
+            },
+            "19": {
+                "age": 30,
+                "appearances": 34,
+                "minutes": "2.811'",
+                "name": "Laurent Fournier",
+                "nationality": "France"
+            },
+            "20": {
+                "age": 30,
+                "appearances": 27,
+                "minutes": "2.372'",
+                "name": "Ra\u00ed",
+                "nationality": "Brazil"
+            },
+            "21": {
+                "age": 19,
+                "appearances": 1,
+                "minutes": "21'",
+                "name": "C\u00e9dric Pardeilhan",
+                "nationality": "France"
+            },
+            "22": {
+                "age": 26,
+                "appearances": 5,
+                "minutes": "167'",
+                "name": "Xavier Gravelaine",
+                "nationality": "France"
+            },
+            "23": {
+                "age": 25,
+                "appearances": 27,
+                "minutes": "1.840'",
+                "name": "Patrice Loko",
+                "nationality": "France"
+            },
+            "24": {
+                "age": 28,
+                "appearances": 33,
+                "minutes": "2.403'",
+                "name": "Julio C\u00e9sar Dely Vald\u00e9s",
+                "nationality": "Panama"
+            },
+            "25": {
+                "age": 23,
+                "appearances": 27,
+                "minutes": "1.025'",
+                "name": "Pascal Nouma",
+                "nationality": "France"
+            },
+            "26": {
+                "age": 16,
+                "appearances": 2,
+                "minutes": "11'",
+                "name": "Nicolas Anelka",
+                "nationality": "France"
+            },
+            "27": {
+                "age": 20,
+                "appearances": 19,
+                "minutes": "432'",
+                "name": "Bernard Allou",
+                "nationality": "Cote d'Ivoire"
+            }
+        },
+        "fc-stade-rennes": {
+            "0": {
+                "age": 20,
+                "appearances": 2,
+                "minutes": "180'",
+                "name": "Tony Heurtebis",
+                "nationality": "France"
+            },
+            "1": {
+                "age": 26,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "St\u00e9phane Le Garrec",
+                "nationality": "France"
+            },
+            "2": {
+                "age": 31,
+                "appearances": 7,
+                "minutes": "630'",
+                "name": "Goran Pandurovic",
+                "nationality": "Serbia"
+            },
+            "3": {
+                "age": 24,
+                "appearances": 9,
+                "minutes": "810'",
+                "name": "Patrice Carteron",
+                "nationality": "France"
+            },
+            "4": {
+                "age": 26,
+                "appearances": 9,
+                "minutes": "810'",
+                "name": "Pascal Fugier",
+                "nationality": "France"
+            },
+            "5": {
+                "age": 17,
+                "appearances": 1,
+                "minutes": "-",
+                "name": "Mika\u00ebl Silvestre",
+                "nationality": "France"
+            },
+            "6": {
+                "age": 26,
+                "appearances": 7,
+                "minutes": "630'",
+                "name": "Jean-Pierre Cyprien",
+                "nationality": "France"
+            },
+            "7": {
+                "age": 31,
+                "appearances": 6,
+                "minutes": "540'",
+                "name": "Fran\u00e7ois Denis",
+                "nationality": "France"
+            },
+            "8": {
+                "age": 27,
+                "appearances": 3,
+                "minutes": "260'",
+                "name": "Brian Jensen",
+                "nationality": "Denmark"
+            },
+            "9": {
+                "age": 19,
+                "appearances": 3,
+                "minutes": "184'",
+                "name": "R\u00e9gis Le Bris",
+                "nationality": "France"
+            },
+            "10": {
+                "age": 31,
+                "appearances": 4,
+                "minutes": "195'",
+                "name": "Olivier Dall'Oglio",
+                "nationality": "France"
+            },
+            "11": {
+                "age": 18,
+                "appearances": 1,
+                "minutes": "90'",
+                "name": "Ousmane Dabo",
+                "nationality": "France"
+            },
+            "12": {
+                "age": 23,
+                "appearances": 9,
+                "minutes": "759'",
+                "name": "St\u00e9phane Ziani",
+                "nationality": "France"
+            },
+            "13": {
+                "age": 21,
+                "appearances": 8,
+                "minutes": "654'",
+                "name": "Laurent Huard",
+                "nationality": "France"
+            },
+            "14": {
+                "age": 28,
+                "appearances": 6,
+                "minutes": "540'",
+                "name": "Lo\u00efc Lambert",
+                "nationality": "France"
+            },
+            "15": {
+                "age": 30,
+                "appearances": 6,
+                "minutes": "415'",
+                "name": "Jean-Christophe Thomas",
+                "nationality": "France"
+            },
+            "16": {
+                "age": 20,
+                "appearances": 1,
+                "minutes": "45'",
+                "name": "David Voisin",
+                "nationality": "France"
+            },
+            "17": {
+                "age": 20,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Gwena\u00ebl Corbin",
+                "nationality": "France"
+            },
+            "18": {
+                "age": 19,
+                "appearances": 3,
+                "minutes": "42'",
+                "name": "Jean-Claude Darcheville",
+                "nationality": "French Guiana"
+            },
+            "19": {
+                "age": 18,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Beno\u00eet Le Bris",
+                "nationality": "France"
+            },
+            "20": {
+                "age": 21,
+                "appearances": 7,
+                "minutes": "206'",
+                "name": "Ulrich Le Pen",
+                "nationality": "France"
+            },
+            "21": {
+                "age": 21,
+                "appearances": 8,
+                "minutes": "640'",
+                "name": "Pierre-Yves Andr\u00e9",
+                "nationality": "France"
+            },
+            "22": {
+                "age": 21,
+                "appearances": 9,
+                "minutes": "585'",
+                "name": "Sylvain Wiltord",
+                "nationality": "France"
+            },
+            "23": {
+                "age": 21,
+                "appearances": 1,
+                "minutes": "4'",
+                "name": "David Merdy",
+                "nationality": "France"
+            },
+            "24": {
+                "age": 26,
+                "appearances": 8,
+                "minutes": "638'",
+                "name": "Marco Grassi",
+                "nationality": "Switzerland"
+            }
+        },
+        "hsc-montpellier": {
+            "0": {
+                "age": 25,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "J\u00e9r\u00f4me Palatsi",
+                "nationality": "France"
+            },
+            "1": {
+                "age": 28,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Claude Barrab\u00e9",
+                "nationality": "France"
+            },
+            "2": {
+                "age": 33,
+                "appearances": 7,
+                "minutes": "630'",
+                "name": "Bruno Martini",
+                "nationality": "France"
+            },
+            "3": {
+                "age": 32,
+                "appearances": 1,
+                "minutes": "90'",
+                "name": "Philippe Flucklinger",
+                "nationality": "France"
+            },
+            "4": {
+                "age": 20,
+                "appearances": 1,
+                "minutes": "90'",
+                "name": "Herv\u00e9 Alicarte",
+                "nationality": "France"
+            },
+            "5": {
+                "age": 22,
+                "appearances": 5,
+                "minutes": "418'",
+                "name": "Serge Blanc",
+                "nationality": "France"
+            },
+            "6": {
+                "age": 21,
+                "appearances": 7,
+                "minutes": "630'",
+                "name": "J\u00e9r\u00f4me Bonnissel",
+                "nationality": "France"
+            },
+            "7": {
+                "age": 29,
+                "appearances": 3,
+                "minutes": "167'",
+                "name": "Bertrand Reuzeau",
+                "nationality": "France"
+            },
+            "8": {
+                "age": 30,
+                "appearances": 7,
+                "minutes": "618'",
+                "name": "Pascal Baills",
+                "nationality": "France"
+            },
+            "9": {
+                "age": 16,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "S\u00e9bastien Bertrand",
+                "nationality": "France"
+            },
+            "10": {
+                "age": 20,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Wilfried Bertrand",
+                "nationality": "France"
+            },
+            "11": {
+                "age": 32,
+                "appearances": 5,
+                "minutes": "450'",
+                "name": "Michel Der Zakarian",
+                "nationality": "Armenia"
+            },
+            "12": {
+                "age": 23,
+                "appearances": 4,
+                "minutes": "360'",
+                "name": "Jean-Manuel Th\u00e9tis",
+                "nationality": "France"
+            },
+            "13": {
+                "age": 20,
+                "appearances": 5,
+                "minutes": "140'",
+                "name": "Philippe Delaye",
+                "nationality": "France"
+            },
+            "14": {
+                "age": 24,
+                "appearances": 8,
+                "minutes": "687'",
+                "name": "Fabien Lef\u00e8vre",
+                "nationality": "France"
+            },
+            "15": {
+                "age": 20,
+                "appearances": 8,
+                "minutes": "582'",
+                "name": "Jean-Christophe Rouviere",
+                "nationality": "France"
+            },
+            "16": {
+                "age": 17,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Jean-Philippe Javary",
+                "nationality": "France"
+            },
+            "17": {
+                "age": 31,
+                "appearances": 7,
+                "minutes": "630'",
+                "name": "Thierry Laurey",
+                "nationality": "France"
+            },
+            "18": {
+                "age": 20,
+                "appearances": 1,
+                "minutes": "8'",
+                "name": "G\u00e9rald Martin",
+                "nationality": "France"
+            },
+            "19": {
+                "age": 26,
+                "appearances": 8,
+                "minutes": "656'",
+                "name": "Michel Pavon",
+                "nationality": "France"
+            },
+            "20": {
+                "age": 24,
+                "appearances": 8,
+                "minutes": "525'",
+                "name": "Franck Rizzetto",
+                "nationality": "France"
+            },
+            "21": {
+                "age": 29,
+                "appearances": 6,
+                "minutes": "453'",
+                "name": "Jos\u00e9 Luis Villarreal",
+                "nationality": "Argentina"
+            },
+            "22": {
+                "age": 20,
+                "appearances": 3,
+                "minutes": "80'",
+                "name": "Laurent Robert",
+                "nationality": "France"
+            },
+            "23": {
+                "age": 18,
+                "appearances": 3,
+                "minutes": "121'",
+                "name": "Ibrahima Bakayoko",
+                "nationality": "Cote d'Ivoire"
+            },
+            "24": {
+                "age": 22,
+                "appearances": 7,
+                "minutes": "572'",
+                "name": "Christophe Sanchez",
+                "nationality": "France"
+            },
+            "25": {
+                "age": 25,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Laurent Castro",
+                "nationality": "France"
+            },
+            "26": {
+                "age": 21,
+                "appearances": 1,
+                "minutes": "1'",
+                "name": "Vincent Petit",
+                "nationality": "France"
+            }
+        },
+        "ogc-nizza": {
+            "0": {
+                "age": 22,
+                "appearances": 5,
+                "minutes": "450'",
+                "name": "Lionel L\u00e9tizi",
+                "nationality": "France"
+            },
+            "1": {
+                "age": 19,
+                "appearances": 1,
+                "minutes": "90'",
+                "name": "Abdallah Bah",
+                "nationality": "Senegal"
+            },
+            "2": {
+                "age": 17,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "David Castilla",
+                "nationality": "France"
+            },
+            "3": {
+                "age": 25,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Cyril Aloisio",
+                "nationality": "France"
+            },
+            "4": {
+                "age": 20,
+                "appearances": 3,
+                "minutes": "205'",
+                "name": "Bruno Cal\u00e9gari",
+                "nationality": "France"
+            },
+            "5": {
+                "age": 22,
+                "appearances": 6,
+                "minutes": "540'",
+                "name": "Thierry Cr\u00e9tier",
+                "nationality": "France"
+            },
+            "6": {
+                "age": 23,
+                "appearances": 1,
+                "minutes": "90'",
+                "name": "Louis Gomis",
+                "nationality": "France"
+            },
+            "7": {
+                "age": 26,
+                "appearances": 5,
+                "minutes": "394'",
+                "name": "Fr\u00e9d\u00e9ric Martin",
+                "nationality": "France"
+            },
+            "8": {
+                "age": 30,
+                "appearances": 6,
+                "minutes": "402'",
+                "name": "Jean-Philippe Mattio",
+                "nationality": "France"
+            },
+            "9": {
+                "age": 22,
+                "appearances": 3,
+                "minutes": "270'",
+                "name": "Youssef Salimi",
+                "nationality": "Algeria"
+            },
+            "10": {
+                "age": 18,
+                "appearances": 2,
+                "minutes": "30'",
+                "name": "Ludovic Stefano",
+                "nationality": "France"
+            },
+            "11": {
+                "age": 24,
+                "appearances": 4,
+                "minutes": "209'",
+                "name": "Jean-Luc Vannucchi",
+                "nationality": "France"
+            },
+            "12": {
+                "age": 19,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Thierry Rossi",
+                "nationality": "France"
+            },
+            "13": {
+                "age": 26,
+                "appearances": 4,
+                "minutes": "354'",
+                "name": "Joe Nagbe",
+                "nationality": "Liberia"
+            },
+            "14": {
+                "age": 24,
+                "appearances": 3,
+                "minutes": "270'",
+                "name": "Olivier Fugen",
+                "nationality": "France"
+            },
+            "15": {
+                "age": 31,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Jean-Francois Daniel",
+                "nationality": "France"
+            },
+            "16": {
+                "age": 28,
+                "appearances": 6,
+                "minutes": "477'",
+                "name": "Thierry De Neef",
+                "nationality": "French Guiana"
+            },
+            "17": {
+                "age": 18,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Gilles Doucende",
+                "nationality": "France"
+            },
+            "18": {
+                "age": 25,
+                "appearances": 2,
+                "minutes": "91'",
+                "name": "Fr\u00e9d\u00e9ric Gioria",
+                "nationality": "France"
+            },
+            "19": {
+                "age": 27,
+                "appearances": 5,
+                "minutes": "349'",
+                "name": "J\u00e9r\u00f4me Gnako",
+                "nationality": "France"
+            },
+            "20": {
+                "age": 19,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Philippe Lucca",
+                "nationality": "France"
+            },
+            "21": {
+                "age": 20,
+                "appearances": 3,
+                "minutes": "150'",
+                "name": "Henri Savini",
+                "nationality": "France"
+            },
+            "22": {
+                "age": 21,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Noel Antoine Sagna",
+                "nationality": "France"
+            },
+            "23": {
+                "age": 19,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Laurent Rigaux",
+                "nationality": "France"
+            },
+            "24": {
+                "age": 18,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Ludovic Gallo",
+                "nationality": "France"
+            },
+            "25": {
+                "age": 18,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Nicolas Gennarielli",
+                "nationality": "France"
+            },
+            "26": {
+                "age": 22,
+                "appearances": 5,
+                "minutes": "379'",
+                "name": "Samuel Ipoua",
+                "nationality": "Cameroon"
+            },
+            "27": {
+                "age": 23,
+                "appearances": 5,
+                "minutes": "424'",
+                "name": "St\u00e9phane Collet",
+                "nationality": "Madagascar"
+            },
+            "28": {
+                "age": 27,
+                "appearances": 4,
+                "minutes": "273'",
+                "name": "James Debbah",
+                "nationality": "Liberia"
+            },
+            "29": {
+                "age": 28,
+                "appearances": 6,
+                "minutes": "339'",
+                "name": "Mohammed Chaouch",
+                "nationality": "Morocco"
+            },
+            "30": {
+                "age": 16,
+                "appearances": 1,
+                "minutes": "9'",
+                "name": "Toufik Hachadi",
+                "nationality": "France"
+            },
+            "31": {
+                "age": 30,
+                "appearances": 3,
+                "minutes": "98'",
+                "name": "Yves Mangione",
+                "nationality": "France"
+            },
+            "32": {
+                "age": 21,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "David N\u00e8gre",
+                "nationality": "France"
+            }
+        },
+        "olympique-lyon": {
+            "0": {
+                "age": 29,
+                "appearances": 1,
+                "minutes": "69'",
+                "name": "Christophe Breton",
+                "nationality": "France"
+            },
+            "1": {
+                "age": 34,
+                "appearances": 5,
+                "minutes": "381'",
+                "name": "Pascal Olmeta",
+                "nationality": "France"
+            },
+            "2": {
+                "age": 22,
+                "appearances": 3,
+                "minutes": "270'",
+                "name": "Jacek Bak",
+                "nationality": "Poland"
+            },
+            "3": {
+                "age": 20,
+                "appearances": 2,
+                "minutes": "102'",
+                "name": "Jean-Christophe Devaux",
+                "nationality": "France"
+            },
+            "4": {
+                "age": 21,
+                "appearances": 4,
+                "minutes": "322'",
+                "name": "Florent Laville",
+                "nationality": "France"
+            },
+            "5": {
+                "age": 25,
+                "appearances": 4,
+                "minutes": "296'",
+                "name": "Ghislain Anselmini",
+                "nationality": "France"
+            },
+            "6": {
+                "age": 19,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Olivier Bellisi",
+                "nationality": "France"
+            },
+            "7": {
+                "age": 25,
+                "appearances": 3,
+                "minutes": "244'",
+                "name": "Christophe Deguerville",
+                "nationality": "France"
+            },
+            "8": {
+                "age": 28,
+                "appearances": 5,
+                "minutes": "450'",
+                "name": "Marcelo Djian",
+                "nationality": "Brazil"
+            },
+            "9": {
+                "age": 21,
+                "appearances": 1,
+                "minutes": "26'",
+                "name": "Jean-Marc Moulin",
+                "nationality": "France"
+            },
+            "10": {
+                "age": 32,
+                "appearances": 5,
+                "minutes": "450'",
+                "name": "Jean-Luc Sassus",
+                "nationality": "France"
+            },
+            "11": {
+                "age": 18,
+                "appearances": 2,
+                "minutes": "80'",
+                "name": "C\u00e9dric Bardon",
+                "nationality": "France"
+            },
+            "12": {
+                "age": 22,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Claude-Arnaud Rivenet",
+                "nationality": "France"
+            },
+            "13": {
+                "age": 27,
+                "appearances": 5,
+                "minutes": "450'",
+                "name": "\u00c9ric Roy",
+                "nationality": "France"
+            },
+            "14": {
+                "age": 21,
+                "appearances": 1,
+                "minutes": "90'",
+                "name": "Fr\u00e9d\u00e9ric Patouillard",
+                "nationality": "France"
+            },
+            "15": {
+                "age": 28,
+                "appearances": 3,
+                "minutes": "192'",
+                "name": "\u00c9ric Assadourian",
+                "nationality": "Armenia"
+            },
+            "16": {
+                "age": 23,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Laurent Casanova",
+                "nationality": "France"
+            },
+            "17": {
+                "age": 23,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Pierre Chavrondier",
+                "nationality": "France"
+            },
+            "18": {
+                "age": 23,
+                "appearances": 4,
+                "minutes": "348'",
+                "name": "Sylvain Deplace",
+                "nationality": "France"
+            },
+            "19": {
+                "age": 25,
+                "appearances": 2,
+                "minutes": "122'",
+                "name": "Franck Gava",
+                "nationality": "France"
+            },
+            "20": {
+                "age": 24,
+                "appearances": 2,
+                "minutes": "112'",
+                "name": "St\u00e9phane Roche",
+                "nationality": "France"
+            },
+            "21": {
+                "age": 20,
+                "appearances": 2,
+                "minutes": "136'",
+                "name": "Fr\u00e9d\u00e9ric Fouret",
+                "nationality": "France"
+            },
+            "22": {
+                "age": 18,
+                "appearances": 4,
+                "minutes": "291'",
+                "name": "Ludovic Giuly",
+                "nationality": "France"
+            },
+            "23": {
+                "age": 21,
+                "appearances": 5,
+                "minutes": "450'",
+                "name": "Florian Maurice",
+                "nationality": "France"
+            },
+            "24": {
+                "age": 22,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Samassi Abou",
+                "nationality": "France"
+            }
+        },
+        "osc-lille": {
+            "0": {
+                "age": 26,
+                "appearances": 6,
+                "minutes": "536'",
+                "name": "Jean-Marie Aubry",
+                "nationality": "France"
+            },
+            "1": {
+                "age": 30,
+                "appearances": 2,
+                "minutes": "180'",
+                "name": "Jean-Claude Nadon",
+                "nationality": "France"
+            },
+            "2": {
+                "age": 30,
+                "appearances": 1,
+                "minutes": "4'",
+                "name": "Jean-Pierre Lauricella",
+                "nationality": "France"
+            },
+            "3": {
+                "age": 21,
+                "appearances": 5,
+                "minutes": "402'",
+                "name": "Pascal Cygan",
+                "nationality": "France"
+            },
+            "4": {
+                "age": 21,
+                "appearances": 4,
+                "minutes": "344'",
+                "name": "Frederic Dindeleux",
+                "nationality": "France"
+            },
+            "5": {
+                "age": 18,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Ga\u00ebl Sanz",
+                "nationality": "France"
+            },
+            "6": {
+                "age": 28,
+                "appearances": 3,
+                "minutes": "257'",
+                "name": "Jakob Friis-Hansen",
+                "nationality": "Denmark"
+            },
+            "7": {
+                "age": 21,
+                "appearances": 5,
+                "minutes": "363'",
+                "name": "C\u00e9dric Carrez",
+                "nationality": "France"
+            },
+            "8": {
+                "age": 33,
+                "appearances": 4,
+                "minutes": "360'",
+                "name": "Thierry Rabat",
+                "nationality": "France"
+            },
+            "9": {
+                "age": 30,
+                "appearances": 6,
+                "minutes": "540'",
+                "name": "Philippe L\u00e9venard",
+                "nationality": "France"
+            },
+            "10": {
+                "age": 28,
+                "appearances": 5,
+                "minutes": "355'",
+                "name": "G\u00e9za M\u00e9sz\u00f6ly",
+                "nationality": "Hungary"
+            },
+            "11": {
+                "age": 30,
+                "appearances": 2,
+                "minutes": "138'",
+                "name": "Jo\u00ebl Germain",
+                "nationality": "France"
+            },
+            "12": {
+                "age": 22,
+                "appearances": 4,
+                "minutes": "350'",
+                "name": "Fabien Leclercq",
+                "nationality": "France"
+            },
+            "13": {
+                "age": 20,
+                "appearances": 8,
+                "minutes": "594'",
+                "name": "Antoine Sibierski",
+                "nationality": "France"
+            },
+            "14": {
+                "age": 18,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Christophe Landrin",
+                "nationality": "France"
+            },
+            "15": {
+                "age": 18,
+                "appearances": 1,
+                "minutes": "27'",
+                "name": "Jeremy Denquin",
+                "nationality": "France"
+            },
+            "16": {
+                "age": 19,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Aliou Ciss\u00e9",
+                "nationality": "Senegal"
+            },
+            "17": {
+                "age": 17,
+                "appearances": 1,
+                "minutes": "20'",
+                "name": "David Coulibaly",
+                "nationality": "Mali"
+            },
+            "18": {
+                "age": 28,
+                "appearances": 8,
+                "minutes": "563'",
+                "name": "Patrick Collot",
+                "nationality": "France"
+            },
+            "19": {
+                "age": 26,
+                "appearances": 8,
+                "minutes": "720'",
+                "name": "Roger Hitoto",
+                "nationality": "DR Congo"
+            },
+            "20": {
+                "age": 24,
+                "appearances": 8,
+                "minutes": "575'",
+                "name": "Arnaud Duncker",
+                "nationality": "France"
+            },
+            "21": {
+                "age": 26,
+                "appearances": 3,
+                "minutes": "85'",
+                "name": "Denis Abed",
+                "nationality": "France"
+            },
+            "22": {
+                "age": 19,
+                "appearances": 1,
+                "minutes": "1'",
+                "name": "Fr\u00e9d\u00e9ric Machado",
+                "nationality": "France"
+            },
+            "23": {
+                "age": 31,
+                "appearances": 2,
+                "minutes": "158'",
+                "name": "Philippe P\u00e9rilleux",
+                "nationality": "France"
+            },
+            "24": {
+                "age": 19,
+                "appearances": 7,
+                "minutes": "405'",
+                "name": "Djezon Boutoille",
+                "nationality": "France"
+            },
+            "25": {
+                "age": 31,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Frank Pingel",
+                "nationality": "Denmark"
+            },
+            "26": {
+                "age": 33,
+                "appearances": 7,
+                "minutes": "568'",
+                "name": "Amara Simba",
+                "nationality": "France"
+            },
+            "27": {
+                "age": 22,
+                "appearances": 6,
+                "minutes": "350'",
+                "name": "Miladin Becanovic",
+                "nationality": "Montenegro"
+            }
+        },
+        "racing-strassburg": {
+            "0": {
+                "age": 28,
+                "appearances": 7,
+                "minutes": "630'",
+                "name": "Alexander Vencel",
+                "nationality": "Slovakia"
+            },
+            "1": {
+                "age": 21,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "David Klein",
+                "nationality": "France"
+            },
+            "2": {
+                "age": 20,
+                "appearances": 6,
+                "minutes": "534'",
+                "name": "Martin Djetou",
+                "nationality": "France"
+            },
+            "3": {
+                "age": 27,
+                "appearances": 7,
+                "minutes": "630'",
+                "name": "Philippe Raschke",
+                "nationality": "France"
+            },
+            "4": {
+                "age": 27,
+                "appearances": 6,
+                "minutes": "538'",
+                "name": "Frank Leboeuf",
+                "nationality": "France"
+            },
+            "5": {
+                "age": 19,
+                "appearances": 2,
+                "minutes": "92'",
+                "name": "Val\u00e9rien Isma\u00ebl",
+                "nationality": "France"
+            },
+            "6": {
+                "age": 26,
+                "appearances": 7,
+                "minutes": "630'",
+                "name": "David R\u00e9gis",
+                "nationality": "United States"
+            },
+            "7": {
+                "age": 19,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Franck Bernhard",
+                "nationality": "France"
+            },
+            "8": {
+                "age": 20,
+                "appearances": 5,
+                "minutes": "390'",
+                "name": "Yannick Rott",
+                "nationality": "France"
+            },
+            "9": {
+                "age": 35,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Philippe Thys",
+                "nationality": "France"
+            },
+            "10": {
+                "age": 24,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Eric Vogel",
+                "nationality": "France"
+            },
+            "11": {
+                "age": 18,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Aziz Rabbah",
+                "nationality": "Morocco"
+            },
+            "12": {
+                "age": 26,
+                "appearances": 6,
+                "minutes": "516'",
+                "name": "Aleksandr Mostovoy",
+                "nationality": "Russia"
+            },
+            "13": {
+                "age": 20,
+                "appearances": 7,
+                "minutes": "478'",
+                "name": "Olivier Dacourt",
+                "nationality": "France"
+            },
+            "14": {
+                "age": 17,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Rafik Mezriche",
+                "nationality": "France"
+            },
+            "15": {
+                "age": 23,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Michael Hughes",
+                "nationality": "Northern Ireland"
+            },
+            "16": {
+                "age": 29,
+                "appearances": 3,
+                "minutes": "270'",
+                "name": "Franck Sauz\u00e9e",
+                "nationality": "France"
+            },
+            "17": {
+                "age": 29,
+                "appearances": 3,
+                "minutes": "203'",
+                "name": "R\u00e9mi Garde",
+                "nationality": "France"
+            },
+            "18": {
+                "age": 27,
+                "appearances": 6,
+                "minutes": "475'",
+                "name": "Marc Keller",
+                "nationality": "France"
+            },
+            "19": {
+                "age": 32,
+                "appearances": 7,
+                "minutes": "366'",
+                "name": "Yvon Pouliquen",
+                "nationality": "France"
+            },
+            "20": {
+                "age": 21,
+                "appearances": 1,
+                "minutes": "85'",
+                "name": "Fran\u00e7ois Keller",
+                "nationality": "France"
+            },
+            "21": {
+                "age": 20,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Daniel Pierosara",
+                "nationality": "France"
+            },
+            "22": {
+                "age": 20,
+                "appearances": 2,
+                "minutes": "19'",
+                "name": "Tomasz Frankowski",
+                "nationality": "Poland"
+            },
+            "23": {
+                "age": 26,
+                "appearances": 5,
+                "minutes": "374'",
+                "name": "David Zitelli",
+                "nationality": "France"
+            },
+            "24": {
+                "age": 26,
+                "appearances": 4,
+                "minutes": "80'",
+                "name": "Wilfrid Gohel",
+                "nationality": "France"
+            },
+            "25": {
+                "age": 25,
+                "appearances": 7,
+                "minutes": "620'",
+                "name": "G\u00e9rald Baticle",
+                "nationality": "France"
+            }
+        },
+        "rc-lens": {
+            "0": {
+                "age": 22,
+                "appearances": 2,
+                "minutes": "180'",
+                "name": "Pegguy Arphexad",
+                "nationality": "France"
+            },
+            "1": {
+                "age": 25,
+                "appearances": 4,
+                "minutes": "360'",
+                "name": "Guillaume Warmuz",
+                "nationality": "France"
+            },
+            "2": {
+                "age": 27,
+                "appearances": 5,
+                "minutes": "417'",
+                "name": "Eric Sikora",
+                "nationality": "France"
+            },
+            "3": {
+                "age": 22,
+                "appearances": 6,
+                "minutes": "461'",
+                "name": "Fr\u00e9d\u00e9ric D\u00e9hu",
+                "nationality": "France"
+            },
+            "4": {
+                "age": 26,
+                "appearances": 6,
+                "minutes": "460'",
+                "name": "Christophe Delmotte",
+                "nationality": "France"
+            },
+            "5": {
+                "age": 17,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Aboubacar Sankhar\u00e9",
+                "nationality": "France"
+            },
+            "6": {
+                "age": 31,
+                "appearances": 5,
+                "minutes": "321'",
+                "name": "Jean-Marc Adjovi-Boco",
+                "nationality": "Benin"
+            },
+            "7": {
+                "age": 25,
+                "appearances": 3,
+                "minutes": "270'",
+                "name": "Cyrille Magnier",
+                "nationality": "France"
+            },
+            "8": {
+                "age": 27,
+                "appearances": 6,
+                "minutes": "465'",
+                "name": "Jean-Guy Wallemme",
+                "nationality": "France"
+            },
+            "9": {
+                "age": 21,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Philippe Durpes",
+                "nationality": "Guadeloupe"
+            },
+            "10": {
+                "age": 29,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Bertrand Reuzeau",
+                "nationality": "France"
+            },
+            "11": {
+                "age": 20,
+                "appearances": 3,
+                "minutes": "256'",
+                "name": "Marc-Vivien Fo\u00e9",
+                "nationality": "Cameroon"
+            },
+            "12": {
+                "age": 24,
+                "appearances": 6,
+                "minutes": "540'",
+                "name": "Pierre Laigle",
+                "nationality": "France"
+            },
+            "13": {
+                "age": 18,
+                "appearances": 3,
+                "minutes": "208'",
+                "name": "Wilson Oruma",
+                "nationality": "Nigeria"
+            },
+            "14": {
+                "age": 31,
+                "appearances": 3,
+                "minutes": "166'",
+                "name": "Herv\u00e9 Ars\u00e8ne",
+                "nationality": "Madagascar"
+            },
+            "15": {
+                "age": 24,
+                "appearances": 5,
+                "minutes": "435'",
+                "name": "Micka\u00ebl Deb\u00e8ve",
+                "nationality": "France"
+            },
+            "16": {
+                "age": 27,
+                "appearances": 5,
+                "minutes": "381'",
+                "name": "Fr\u00e9d\u00e9ric Meyrieu",
+                "nationality": "France"
+            },
+            "17": {
+                "age": 21,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Tony Dupont",
+                "nationality": "France"
+            },
+            "18": {
+                "age": 15,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Randria",
+                "nationality": "Madagascar"
+            },
+            "19": {
+                "age": 29,
+                "appearances": 5,
+                "minutes": "123'",
+                "name": "Roger Boli",
+                "nationality": "France"
+            },
+            "20": {
+                "age": 22,
+                "appearances": 6,
+                "minutes": "471'",
+                "name": "Tony Vairelles",
+                "nationality": "France"
+            },
+            "21": {
+                "age": 31,
+                "appearances": 2,
+                "minutes": "12'",
+                "name": "Jo\u00ebl Ti\u00e9hi",
+                "nationality": "Cote d'Ivoire"
+            },
+            "22": {
+                "age": 22,
+                "appearances": 6,
+                "minutes": "413'",
+                "name": "Titi Camara",
+                "nationality": "Guinea"
+            },
+            "23": {
+                "age": 20,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Xavier Dablemont",
+                "nationality": "France"
+            }
+        },
+        "sc-bastia": {
+            "0": {
+                "age": 25,
+                "appearances": 1,
+                "minutes": "90'",
+                "name": "Andr\u00e9 Biancarelli",
+                "nationality": "France"
+            },
+            "1": {
+                "age": 27,
+                "appearances": 6,
+                "minutes": "526'",
+                "name": "Bruno Valencony",
+                "nationality": "France"
+            },
+            "2": {
+                "age": 20,
+                "appearances": 1,
+                "minutes": "13'",
+                "name": "Dominique Franchi",
+                "nationality": "France"
+            },
+            "3": {
+                "age": 23,
+                "appearances": 6,
+                "minutes": "540'",
+                "name": "Morlaye Soumah",
+                "nationality": "Guinea"
+            },
+            "4": {
+                "age": 20,
+                "appearances": 4,
+                "minutes": "270'",
+                "name": "Cyril Rool",
+                "nationality": "France"
+            },
+            "5": {
+                "age": 23,
+                "appearances": 4,
+                "minutes": "333'",
+                "name": "Bruno Alicarte",
+                "nationality": "France"
+            },
+            "6": {
+                "age": 28,
+                "appearances": 6,
+                "minutes": "515'",
+                "name": "Pierre Maroselli",
+                "nationality": "France"
+            },
+            "7": {
+                "age": 28,
+                "appearances": 3,
+                "minutes": "270'",
+                "name": "Fr\u00e9d\u00e9ric Darras \u2020",
+                "nationality": "France"
+            },
+            "8": {
+                "age": 26,
+                "appearances": 7,
+                "minutes": "630'",
+                "name": "Didier Santini",
+                "nationality": "France"
+            },
+            "9": {
+                "age": 27,
+                "appearances": 2,
+                "minutes": "180'",
+                "name": "William",
+                "nationality": "Brazil"
+            },
+            "10": {
+                "age": 31,
+                "appearances": 1,
+                "minutes": "27'",
+                "name": "Jean-Christophe Debu",
+                "nationality": "France"
+            },
+            "11": {
+                "age": 20,
+                "appearances": 1,
+                "minutes": "55'",
+                "name": "Yves Frangini",
+                "nationality": "France"
+            },
+            "12": {
+                "age": 27,
+                "appearances": 4,
+                "minutes": "289'",
+                "name": "Laurent Moracchini",
+                "nationality": "France"
+            },
+            "13": {
+                "age": 23,
+                "appearances": 6,
+                "minutes": "431'",
+                "name": "Piotr Swierczewski",
+                "nationality": "Poland"
+            },
+            "14": {
+                "age": 27,
+                "appearances": 7,
+                "minutes": "540'",
+                "name": "Mamadou Faye",
+                "nationality": "Senegal"
+            },
+            "15": {
+                "age": 19,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Lansana Soumah",
+                "nationality": "Guinea"
+            },
+            "16": {
+                "age": 19,
+                "appearances": 2,
+                "minutes": "115'",
+                "name": "Herv\u00e9 Anziani",
+                "nationality": "France"
+            },
+            "17": {
+                "age": 29,
+                "appearances": 3,
+                "minutes": "266'",
+                "name": "Jean-Jacques Eydelie",
+                "nationality": "France"
+            },
+            "18": {
+                "age": 22,
+                "appearances": 5,
+                "minutes": "100'",
+                "name": "R\u00e9my Loret",
+                "nationality": "France"
+            },
+            "19": {
+                "age": 20,
+                "appearances": 1,
+                "minutes": "89'",
+                "name": "Sauveur Aiello",
+                "nationality": "France"
+            },
+            "20": {
+                "age": 24,
+                "appearances": 6,
+                "minutes": "426'",
+                "name": "Pierre Laurent",
+                "nationality": "France"
+            },
+            "21": {
+                "age": 22,
+                "appearances": 5,
+                "minutes": "426'",
+                "name": "Bruno Rodriguez",
+                "nationality": "France"
+            },
+            "22": {
+                "age": 26,
+                "appearances": 7,
+                "minutes": "630'",
+                "name": "Anto Drobnjak",
+                "nationality": "Montenegro"
+            },
+            "23": {
+                "age": 21,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Ousmane Soumah",
+                "nationality": "Guinea"
+            },
+            "24": {
+                "age": 27,
+                "appearances": 1,
+                "minutes": "35'",
+                "name": "Franck Vandecasteele",
+                "nationality": "France"
+            },
+            "25": {
+                "age": 20,
+                "appearances": 2,
+                "minutes": "94'",
+                "name": "Francois Caffarel",
+                "nationality": "France"
+            }
+        }
+    }
+}

@@ -35,10 +35,10 @@ def minutes_parser(minutes_string):
 	return int(minutes_string.replace('\'','').replace('.',''))
 
 country = 'England'
-team = 'fc-liverpool'
+team = 'fc-arsenal'
 
 data_file = '../data/Leistungsdaten/' + str(country) + '/2016.json'
-years = [str(year) for year in range(2000, 2017)]
+years = [str(year) for year in range(1995, 2017)]
 
 L_local = []
 L_foreign = []
@@ -51,7 +51,7 @@ L_foreign_apps = []
 
 
 
-years_copy = [str(year) for year in range(2000, 2017)]
+years_copy = [str(year) for year in range(1995, 2017)]
 
 with open(data_file) as datafile:
 	data = json.load(datafile)
@@ -96,7 +96,7 @@ with open(data_file) as datafile:
 		except:
 			years_copy.remove(year)
 			pass
-		pprint(L_countries)
+		#pprint(L_countries)
 
 df = pd.DataFrame({#'Local': L_local,
 					'Foreign': L_foreign,
@@ -105,5 +105,5 @@ df = pd.DataFrame({#'Local': L_local,
 					'Foreign appearances': L_foreign_apps,
 					'Year': years_copy			})
 df = df.set_index('Year')
-#pprint(df)
+pprint(df)
 plot_time_series(df, team)

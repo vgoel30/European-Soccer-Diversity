@@ -37,7 +37,7 @@ def minutes_parser(minutes_string):
 country = 'England'
 
 data_file = '../data/Leistungsdaten/' + str(country) + '/2016.json'
-years = [str(year) for year in range(2000, 2017)]
+years = [str(year) for year in range(1995, 2017)]
 
 L_local = []
 L_foreign = []

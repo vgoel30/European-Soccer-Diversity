@@ -1,0 +1,3519 @@
+{
+    "1995": {
+        "1-fc-kaiserslautern": {
+            "0": {
+                "age": 26,
+                "appearances": 29,
+                "minutes": "2.610'",
+                "name": "Andreas Reinke",
+                "nationality": "Germany"
+            },
+            "1": {
+                "age": 36,
+                "appearances": 1,
+                "minutes": "90'",
+                "name": "Gerry Ehrmann",
+                "nationality": "Germany"
+            },
+            "2": {
+                "age": 22,
+                "appearances": 4,
+                "minutes": "360'",
+                "name": "Mark Schwarzer",
+                "nationality": "Australia"
+            },
+            "3": {
+                "age": 25,
+                "appearances": 10,
+                "minutes": "603'",
+                "name": "Bernd Hollerbach",
+                "nationality": "Germany"
+            },
+            "4": {
+                "age": 30,
+                "appearances": 24,
+                "minutes": "1.898'",
+                "name": "Axel Roos",
+                "nationality": "Germany"
+            },
+            "5": {
+                "age": 31,
+                "appearances": 31,
+                "minutes": "2.763'",
+                "name": "Miroslav Kadlec",
+                "nationality": "Czech Republic"
+            },
+            "6": {
+                "age": 34,
+                "appearances": 30,
+                "minutes": "2.632'",
+                "name": "Andreas Brehme",
+                "nationality": "Germany"
+            },
+            "7": {
+                "age": 27,
+                "appearances": 4,
+                "minutes": "236'",
+                "name": "Thomas Ritter",
+                "nationality": "Germany"
+            },
+            "8": {
+                "age": 30,
+                "appearances": 15,
+                "minutes": "873'",
+                "name": "Roger Lutz",
+                "nationality": "Germany"
+            },
+            "9": {
+                "age": 25,
+                "appearances": 4,
+                "minutes": "198'",
+                "name": "Mario Kern",
+                "nationality": "Germany"
+            },
+            "10": {
+                "age": 20,
+                "appearances": 25,
+                "minutes": "1.742'",
+                "name": "Thomas Hengen",
+                "nationality": "Germany"
+            },
+            "11": {
+                "age": 27,
+                "appearances": 8,
+                "minutes": "282'",
+                "name": "Matthias Hamann",
+                "nationality": "Germany"
+            },
+            "12": {
+                "age": 26,
+                "appearances": 31,
+                "minutes": "2.174'",
+                "name": "Oliver Sch\u00e4fer",
+                "nationality": "Germany"
+            },
+            "13": {
+                "age": 25,
+                "appearances": 30,
+                "minutes": "2.436'",
+                "name": "Harry Koch",
+                "nationality": "Germany"
+            },
+            "14": {
+                "age": 17,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Marco Reich",
+                "nationality": "Germany"
+            },
+            "15": {
+                "age": 28,
+                "appearances": 21,
+                "minutes": "1.481'",
+                "name": "Frank Greiner",
+                "nationality": "Germany"
+            },
+            "16": {
+                "age": 27,
+                "appearances": 27,
+                "minutes": "2.052'",
+                "name": "Martin Wagner",
+                "nationality": "Germany"
+            },
+            "17": {
+                "age": 29,
+                "appearances": 26,
+                "minutes": "1.926'",
+                "name": "Claus-Dieter Wollitz",
+                "nationality": "Germany"
+            },
+            "18": {
+                "age": 28,
+                "appearances": 6,
+                "minutes": "225'",
+                "name": "Dirk Anders",
+                "nationality": "Germany"
+            },
+            "19": {
+                "age": 23,
+                "appearances": 17,
+                "minutes": "652'",
+                "name": "Dirk Flock",
+                "nationality": "Germany"
+            },
+            "20": {
+                "age": 19,
+                "appearances": 13,
+                "minutes": "668'",
+                "name": "Thomas Riedl",
+                "nationality": "Germany"
+            },
+            "21": {
+                "age": 19,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Cem Karaca",
+                "nationality": "Turkey"
+            },
+            "22": {
+                "age": 22,
+                "appearances": 10,
+                "minutes": "689'",
+                "name": "Arilson",
+                "nationality": "Brazil"
+            },
+            "23": {
+                "age": 31,
+                "appearances": 26,
+                "minutes": "1.414'",
+                "name": "Uwe Wegmann",
+                "nationality": "Germany"
+            },
+            "24": {
+                "age": 26,
+                "appearances": 30,
+                "minutes": "2.545'",
+                "name": "Pavel Kuka",
+                "nationality": "Czech Republic"
+            },
+            "25": {
+                "age": 29,
+                "appearances": 19,
+                "minutes": "1.138'",
+                "name": "Olaf Marschall",
+                "nationality": "Germany"
+            },
+            "26": {
+                "age": 24,
+                "appearances": 17,
+                "minutes": "969'",
+                "name": "J\u00fcrgen Rische",
+                "nationality": "Germany"
+            },
+            "27": {
+                "age": 26,
+                "appearances": 13,
+                "minutes": "750'",
+                "name": "Horst Siegl",
+                "nationality": "Czech Republic"
+            },
+            "28": {
+                "age": 21,
+                "appearances": 2,
+                "minutes": "105'",
+                "name": "Christoph Dengel",
+                "nationality": "Germany"
+            }
+        },
+        "1-fc-koln": {
+            "0": {
+                "age": 28,
+                "appearances": 34,
+                "minutes": "3.060'",
+                "name": "Bodo Illgner",
+                "nationality": "Germany"
+            },
+            "1": {
+                "age": 29,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Michael Kraft",
+                "nationality": "Germany"
+            },
+            "2": {
+                "age": 31,
+                "appearances": 16,
+                "minutes": "1.440'",
+                "name": "Dietmar Beiersdorfer",
+                "nationality": "Germany"
+            },
+            "3": {
+                "age": 25,
+                "appearances": 27,
+                "minutes": "2.286'",
+                "name": "Karsten Baumann",
+                "nationality": "Germany"
+            },
+            "4": {
+                "age": 23,
+                "appearances": 12,
+                "minutes": "910'",
+                "name": "Patrick Weiser",
+                "nationality": "Germany"
+            },
+            "5": {
+                "age": 20,
+                "appearances": 20,
+                "minutes": "1.419'",
+                "name": "Janusz Dziwior",
+                "nationality": "Poland"
+            },
+            "6": {
+                "age": 19,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Marcell Fensch",
+                "nationality": "Germany"
+            },
+            "7": {
+                "age": 18,
+                "appearances": 17,
+                "minutes": "1.189'",
+                "name": "Thomas Cichon",
+                "nationality": "Germany"
+            },
+            "8": {
+                "age": 23,
+                "appearances": 11,
+                "minutes": "887'",
+                "name": "Christian Dollberg",
+                "nationality": "Argentina"
+            },
+            "9": {
+                "age": 30,
+                "appearances": 11,
+                "minutes": "578'",
+                "name": "Henrik Andersen",
+                "nationality": "Denmark"
+            },
+            "10": {
+                "age": 33,
+                "appearances": 13,
+                "minutes": "1.077'",
+                "name": "Reinhard Stumpf",
+                "nationality": "Germany"
+            },
+            "11": {
+                "age": 26,
+                "appearances": 25,
+                "minutes": "2.109'",
+                "name": "Ralf Hauptmann",
+                "nationality": "Germany"
+            },
+            "12": {
+                "age": 28,
+                "appearances": 21,
+                "minutes": "1.513'",
+                "name": "Olaf Jan\u00dfen",
+                "nationality": "Germany"
+            },
+            "13": {
+                "age": 26,
+                "appearances": 20,
+                "minutes": "1.227'",
+                "name": "Martin Braun",
+                "nationality": "Germany"
+            },
+            "14": {
+                "age": 27,
+                "appearances": 17,
+                "minutes": "1.049'",
+                "name": "Rico Steinmann",
+                "nationality": "Germany"
+            },
+            "15": {
+                "age": 27,
+                "appearances": 33,
+                "minutes": "2.782'",
+                "name": "Dorinel Munteanu",
+                "nationality": "Romania"
+            },
+            "16": {
+                "age": 20,
+                "appearances": 24,
+                "minutes": "2.017'",
+                "name": "Sunday Oliseh",
+                "nationality": "Nigeria"
+            },
+            "17": {
+                "age": 21,
+                "appearances": 23,
+                "minutes": "1.697'",
+                "name": "Pablo Thiam",
+                "nationality": "Guinea"
+            },
+            "18": {
+                "age": 20,
+                "appearances": 7,
+                "minutes": "133'",
+                "name": "Michael R\u00f6sele",
+                "nationality": "Germany"
+            },
+            "19": {
+                "age": 26,
+                "appearances": 16,
+                "minutes": "728'",
+                "name": "Bjarne Goldbaek",
+                "nationality": "Denmark"
+            },
+            "20": {
+                "age": 22,
+                "appearances": 23,
+                "minutes": "1.345'",
+                "name": "Tomasz Zdebel",
+                "nationality": "Poland"
+            },
+            "21": {
+                "age": 22,
+                "appearances": 6,
+                "minutes": "262'",
+                "name": "Christian Wolski",
+                "nationality": "Germany"
+            },
+            "22": {
+                "age": 31,
+                "appearances": 28,
+                "minutes": "2.258'",
+                "name": "Toni Polster",
+                "nationality": "Austria"
+            },
+            "23": {
+                "age": 29,
+                "appearances": 8,
+                "minutes": "708'",
+                "name": "Bruno Labbadia",
+                "nationality": "Germany"
+            },
+            "24": {
+                "age": 24,
+                "appearances": 23,
+                "minutes": "1.084'",
+                "name": "Holger Gai\u00dfmayer",
+                "nationality": "Germany"
+            },
+            "25": {
+                "age": 29,
+                "appearances": 30,
+                "minutes": "1.696'",
+                "name": "Stefan Kohn",
+                "nationality": "Germany"
+            },
+            "26": {
+                "age": 24,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Reinhold Breu",
+                "nationality": "Germany"
+            }
+        },
+        "bayer-04-leverkusen": {
+            "0": {
+                "age": 24,
+                "appearances": 34,
+                "minutes": "3.060'",
+                "name": "Dirk Heinen",
+                "nationality": "Germany"
+            },
+            "1": {
+                "age": 19,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Daniel Ischdonat",
+                "nationality": "Germany"
+            },
+            "2": {
+                "age": 32,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "R\u00fcdiger Vollborn",
+                "nationality": "Germany"
+            },
+            "3": {
+                "age": 23,
+                "appearances": 14,
+                "minutes": "1.182'",
+                "name": "Markus Happe",
+                "nationality": "Germany"
+            },
+            "4": {
+                "age": 23,
+                "appearances": 25,
+                "minutes": "2.156'",
+                "name": "Christian W\u00f6rns",
+                "nationality": "Germany"
+            },
+            "5": {
+                "age": 32,
+                "appearances": 31,
+                "minutes": "2.622'",
+                "name": "Holger Fach",
+                "nationality": "Germany"
+            },
+            "6": {
+                "age": 22,
+                "appearances": 32,
+                "minutes": "2.817'",
+                "name": "Markus M\u00fcnch",
+                "nationality": "Germany"
+            },
+            "7": {
+                "age": 18,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Daniel Schumann",
+                "nationality": "Germany"
+            },
+            "8": {
+                "age": 22,
+                "appearances": 27,
+                "minutes": "1.829'",
+                "name": "Rodrigo",
+                "nationality": "Brazil"
+            },
+            "9": {
+                "age": 21,
+                "appearances": 18,
+                "minutes": "883'",
+                "name": "Mike Rietpietsch",
+                "nationality": "Germany"
+            },
+            "10": {
+                "age": 26,
+                "appearances": 30,
+                "minutes": "2.535'",
+                "name": "Ioan Lupescu",
+                "nationality": "Romania"
+            },
+            "11": {
+                "age": 35,
+                "appearances": 8,
+                "minutes": "592'",
+                "name": "Bernd Schuster",
+                "nationality": "Germany"
+            },
+            "12": {
+                "age": 23,
+                "appearances": 15,
+                "minutes": "506'",
+                "name": "Ramon Menezes",
+                "nationality": "Brazil"
+            },
+            "13": {
+                "age": 18,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Daniel Addo",
+                "nationality": "Ghana"
+            },
+            "14": {
+                "age": 21,
+                "appearances": 21,
+                "minutes": "1.403'",
+                "name": "Claudio Reyna",
+                "nationality": "United States"
+            },
+            "15": {
+                "age": 20,
+                "appearances": 20,
+                "minutes": "1.219'",
+                "name": "Zecke",
+                "nationality": "Germany"
+            },
+            "16": {
+                "age": 17,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Thorsten Nehrbauer",
+                "nationality": "Germany"
+            },
+            "17": {
+                "age": 18,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Thorsten Wittek",
+                "nationality": "Germany"
+            },
+            "18": {
+                "age": 21,
+                "appearances": 15,
+                "minutes": "1.117'",
+                "name": "Carsten Ramelow",
+                "nationality": "Germany"
+            },
+            "19": {
+                "age": 19,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Christoph Chylla",
+                "nationality": "Germany"
+            },
+            "20": {
+                "age": 24,
+                "appearances": 14,
+                "minutes": "840'",
+                "name": "Mario Tolkmitt",
+                "nationality": "Germany"
+            },
+            "21": {
+                "age": 31,
+                "appearances": 30,
+                "minutes": "2.099'",
+                "name": "Hans-Peter Lehnhoff",
+                "nationality": "Germany"
+            },
+            "22": {
+                "age": 34,
+                "appearances": 1,
+                "minutes": "75'",
+                "name": "Josef Nehl",
+                "nationality": "Germany"
+            },
+            "23": {
+                "age": 18,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Sebastian Barnes",
+                "nationality": "Ghana"
+            },
+            "24": {
+                "age": 26,
+                "appearances": 28,
+                "minutes": "2.269'",
+                "name": "Paulo S\u00e9rgio",
+                "nationality": "Brazil"
+            },
+            "25": {
+                "age": 29,
+                "appearances": 29,
+                "minutes": "2.329'",
+                "name": "Ulf Kirsten",
+                "nationality": "Germany"
+            },
+            "26": {
+                "age": 35,
+                "appearances": 32,
+                "minutes": "2.693'",
+                "name": "Rudi V\u00f6ller",
+                "nationality": "Germany"
+            },
+            "27": {
+                "age": 20,
+                "appearances": 33,
+                "minutes": "1.140'",
+                "name": "Markus Feldhoff",
+                "nationality": "Germany"
+            },
+            "28": {
+                "age": 18,
+                "appearances": 2,
+                "minutes": "30'",
+                "name": "Sebastian Helbig",
+                "nationality": "Germany"
+            }
+        },
+        "borussia-dortmund": {
+            "0": {
+                "age": 23,
+                "appearances": 33,
+                "minutes": "2.970'",
+                "name": "Stefan Klos",
+                "nationality": "Germany"
+            },
+            "1": {
+                "age": 31,
+                "appearances": 1,
+                "minutes": "88'",
+                "name": "Wolfgang de Beer",
+                "nationality": "Germany"
+            },
+            "2": {
+                "age": 41,
+                "appearances": 1,
+                "minutes": "2'",
+                "name": "Toni Schumacher",
+                "nationality": "Germany"
+            },
+            "3": {
+                "age": 27,
+                "appearances": 17,
+                "minutes": "989'",
+                "name": "Bodo Schmidt",
+                "nationality": "Germany"
+            },
+            "4": {
+                "age": 32,
+                "appearances": 23,
+                "minutes": "2.007'",
+                "name": "J\u00falio C\u00e9sar",
+                "nationality": "Brazil"
+            },
+            "5": {
+                "age": 29,
+                "appearances": 29,
+                "minutes": "2.498'",
+                "name": "J\u00fcrgen Kohler",
+                "nationality": "Germany"
+            },
+            "6": {
+                "age": 25,
+                "appearances": 11,
+                "minutes": "488'",
+                "name": "Carsten Wolters",
+                "nationality": "Germany"
+            },
+            "7": {
+                "age": 19,
+                "appearances": 5,
+                "minutes": "65'",
+                "name": "Lars M\u00fcller",
+                "nationality": "Germany"
+            },
+            "8": {
+                "age": 30,
+                "appearances": 23,
+                "minutes": "1.473'",
+                "name": "Martin Kree",
+                "nationality": "Germany"
+            },
+            "9": {
+                "age": 29,
+                "appearances": 3,
+                "minutes": "134'",
+                "name": "G\u00fcnter Kutowski",
+                "nationality": "Germany"
+            },
+            "10": {
+                "age": 27,
+                "appearances": 20,
+                "minutes": "1.262'",
+                "name": "Knut Reinhardt",
+                "nationality": "Germany"
+            },
+            "11": {
+                "age": 25,
+                "appearances": 30,
+                "minutes": "2.671'",
+                "name": "Steffen Freund",
+                "nationality": "Germany"
+            },
+            "12": {
+                "age": 28,
+                "appearances": 26,
+                "minutes": "2.215'",
+                "name": "Stefan Reuter",
+                "nationality": "Germany"
+            },
+            "13": {
+                "age": 32,
+                "appearances": 30,
+                "minutes": "2.377'",
+                "name": "Michael Zorc",
+                "nationality": "Germany"
+            },
+            "14": {
+                "age": 27,
+                "appearances": 23,
+                "minutes": "1.962'",
+                "name": "Andreas M\u00f6ller",
+                "nationality": "Germany"
+            },
+            "15": {
+                "age": 21,
+                "appearances": 26,
+                "minutes": "1.387'",
+                "name": "Patrik Berger",
+                "nationality": "Czech Republic"
+            },
+            "16": {
+                "age": 25,
+                "appearances": 17,
+                "minutes": "1.461'",
+                "name": "J\u00f6rg Heinrich",
+                "nationality": "Germany"
+            },
+            "17": {
+                "age": 18,
+                "appearances": 26,
+                "minutes": "1.752'",
+                "name": "Lars Ricken",
+                "nationality": "Germany"
+            },
+            "18": {
+                "age": 26,
+                "appearances": 20,
+                "minutes": "911'",
+                "name": "Ren\u00e9 Tretschok",
+                "nationality": "Germany"
+            },
+            "19": {
+                "age": 24,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Marc Arnold",
+                "nationality": "South Africa"
+            },
+            "20": {
+                "age": 20,
+                "appearances": 1,
+                "minutes": "7'",
+                "name": "Yahaya Mallam",
+                "nationality": "Ghana"
+            },
+            "21": {
+                "age": 27,
+                "appearances": 22,
+                "minutes": "1.965'",
+                "name": "Matthias Sammer",
+                "nationality": "Germany"
+            },
+            "22": {
+                "age": 24,
+                "appearances": 5,
+                "minutes": "259'",
+                "name": "Thomas Franck",
+                "nationality": "Germany"
+            },
+            "23": {
+                "age": 26,
+                "appearances": 17,
+                "minutes": "1.279'",
+                "name": "St\u00e9phane Chapuisat",
+                "nationality": "Switzerland"
+            },
+            "24": {
+                "age": 23,
+                "appearances": 16,
+                "minutes": "1.133'",
+                "name": "Heiko Herrlich",
+                "nationality": "Germany"
+            },
+            "25": {
+                "age": 29,
+                "appearances": 18,
+                "minutes": "1.296'",
+                "name": "Karl-Heinz Riedle",
+                "nationality": "Germany"
+            },
+            "26": {
+                "age": 17,
+                "appearances": 3,
+                "minutes": "162'",
+                "name": "Ibrahim Tanko",
+                "nationality": "Ghana"
+            },
+            "27": {
+                "age": 29,
+                "appearances": 18,
+                "minutes": "738'",
+                "name": "Rub\u00e9n Sosa",
+                "nationality": "Uruguay"
+            }
+        },
+        "borussia-monchengladbach": {
+            "0": {
+                "age": 31,
+                "appearances": 29,
+                "minutes": "2.610'",
+                "name": "Uwe Kamps",
+                "nationality": "Germany"
+            },
+            "1": {
+                "age": 26,
+                "appearances": 5,
+                "minutes": "450'",
+                "name": "J\u00f6rg K\u00e4ssmann",
+                "nationality": "Germany"
+            },
+            "2": {
+                "age": 21,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Patrick Bauer",
+                "nationality": "Germany"
+            },
+            "3": {
+                "age": 23,
+                "appearances": 19,
+                "minutes": "1.139'",
+                "name": "Thomas Hoersen",
+                "nationality": "Germany"
+            },
+            "4": {
+                "age": 26,
+                "appearances": 27,
+                "minutes": "2.344'",
+                "name": "Michael Klinkert",
+                "nationality": "Germany"
+            },
+            "5": {
+                "age": 23,
+                "appearances": 33,
+                "minutes": "2.925'",
+                "name": "Patrik Andersson",
+                "nationality": "Sweden"
+            },
+            "6": {
+                "age": 29,
+                "appearances": 31,
+                "minutes": "2.744'",
+                "name": "J\u00f6rg Neun",
+                "nationality": "Germany"
+            },
+            "7": {
+                "age": 25,
+                "appearances": 6,
+                "minutes": "131'",
+                "name": "Joachim Stadler",
+                "nationality": "Germany"
+            },
+            "8": {
+                "age": 28,
+                "appearances": 9,
+                "minutes": "357'",
+                "name": "Thomas Eichin",
+                "nationality": "Germany"
+            },
+            "9": {
+                "age": 29,
+                "appearances": 24,
+                "minutes": "1.809'",
+                "name": "Thomas Kastenmaier",
+                "nationality": "Germany"
+            },
+            "10": {
+                "age": 31,
+                "appearances": 8,
+                "minutes": "226'",
+                "name": "Michael Frontzeck",
+                "nationality": "Germany"
+            },
+            "11": {
+                "age": 24,
+                "appearances": 25,
+                "minutes": "1.671'",
+                "name": "Karlheinz Pflipsen",
+                "nationality": "Germany"
+            },
+            "12": {
+                "age": 26,
+                "appearances": 33,
+                "minutes": "2.678'",
+                "name": "Peter Wynhoff",
+                "nationality": "Germany"
+            },
+            "13": {
+                "age": 26,
+                "appearances": 31,
+                "minutes": "2.693'",
+                "name": "Stefan Effenberg",
+                "nationality": "Germany"
+            },
+            "14": {
+                "age": 25,
+                "appearances": 32,
+                "minutes": "2.094'",
+                "name": "Michael Sternkopf",
+                "nationality": "Germany"
+            },
+            "15": {
+                "age": 26,
+                "appearances": 26,
+                "minutes": "1.882'",
+                "name": "Martin Schneider",
+                "nationality": "Germany"
+            },
+            "16": {
+                "age": 27,
+                "appearances": 15,
+                "minutes": "967'",
+                "name": "Peter Nielsen",
+                "nationality": "Denmark"
+            },
+            "17": {
+                "age": 20,
+                "appearances": 1,
+                "minutes": "20'",
+                "name": "Stephan Schulz-Winge",
+                "nationality": "Germany"
+            },
+            "18": {
+                "age": 22,
+                "appearances": 15,
+                "minutes": "479'",
+                "name": "Dirk Wolf",
+                "nationality": "Germany"
+            },
+            "19": {
+                "age": 19,
+                "appearances": 3,
+                "minutes": "185'",
+                "name": "Markus Hausweiler",
+                "nationality": "Germany"
+            },
+            "20": {
+                "age": 17,
+                "appearances": 1,
+                "minutes": "6'",
+                "name": "Marcel Ketelaer",
+                "nationality": "Germany"
+            },
+            "21": {
+                "age": 20,
+                "appearances": 2,
+                "minutes": "60'",
+                "name": "Macchambes Younga-Mouhani",
+                "nationality": "Congo"
+            },
+            "22": {
+                "age": 31,
+                "appearances": 26,
+                "minutes": "2.199'",
+                "name": "Christian Hochst\u00e4tter",
+                "nationality": "Germany"
+            },
+            "23": {
+                "age": 19,
+                "appearances": 2,
+                "minutes": "35'",
+                "name": "Davor Krznaric",
+                "nationality": "Croatia"
+            },
+            "24": {
+                "age": 27,
+                "appearances": 23,
+                "minutes": "1.926'",
+                "name": "Martin Dahlin",
+                "nationality": "Sweden"
+            },
+            "25": {
+                "age": 24,
+                "appearances": 10,
+                "minutes": "408'",
+                "name": "Max Huiberts",
+                "nationality": "Netherlands"
+            },
+            "26": {
+                "age": 19,
+                "appearances": 22,
+                "minutes": "1.487'",
+                "name": "J\u00f6rgen Pettersson",
+                "nationality": "Sweden"
+            }
+        },
+        "eintracht-frankfurt": {
+            "0": {
+                "age": 19,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Kevin Kn\u00f6dler",
+                "nationality": "Germany"
+            },
+            "1": {
+                "age": 33,
+                "appearances": 32,
+                "minutes": "2.811'",
+                "name": "Andreas K\u00f6pke",
+                "nationality": "Germany"
+            },
+            "2": {
+                "age": 21,
+                "appearances": 4,
+                "minutes": "248'",
+                "name": "Oka Nikolov",
+                "nationality": "Macedonia"
+            },
+            "3": {
+                "age": 18,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Sven Schmitt",
+                "nationality": "Germany"
+            },
+            "4": {
+                "age": 26,
+                "appearances": 29,
+                "minutes": "2.485'",
+                "name": "Uwe Bindewald",
+                "nationality": "Germany"
+            },
+            "5": {
+                "age": 29,
+                "appearances": 25,
+                "minutes": "2.225'",
+                "name": "Manfred Binz",
+                "nationality": "Germany"
+            },
+            "6": {
+                "age": 24,
+                "appearances": 31,
+                "minutes": "2.610'",
+                "name": "Slobodan Komljenovic",
+                "nationality": "Serbia"
+            },
+            "7": {
+                "age": 25,
+                "appearances": 7,
+                "minutes": "240'",
+                "name": "Domenico Sbordone",
+                "nationality": "Germany"
+            },
+            "8": {
+                "age": 21,
+                "appearances": 2,
+                "minutes": "105'",
+                "name": "Burhanettin Kaymak",
+                "nationality": "Germany"
+            },
+            "9": {
+                "age": 31,
+                "appearances": 18,
+                "minutes": "1.310'",
+                "name": "Dietmar Roth",
+                "nationality": "Germany"
+            },
+            "10": {
+                "age": 26,
+                "appearances": 3,
+                "minutes": "174'",
+                "name": "Kakhaber Tskhadadze",
+                "nationality": "Georgia"
+            },
+            "11": {
+                "age": 26,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Ralf Weber",
+                "nationality": "Germany"
+            },
+            "12": {
+                "age": 32,
+                "appearances": 12,
+                "minutes": "860'",
+                "name": "Ralf Falkenmayer",
+                "nationality": "Germany"
+            },
+            "13": {
+                "age": 29,
+                "appearances": 30,
+                "minutes": "2.432'",
+                "name": "Markus Schupp",
+                "nationality": "Germany"
+            },
+            "14": {
+                "age": 21,
+                "appearances": 24,
+                "minutes": "1.962'",
+                "name": "Jay-Jay Okocha",
+                "nationality": "Nigeria"
+            },
+            "15": {
+                "age": 21,
+                "appearances": 7,
+                "minutes": "515'",
+                "name": "Ren\u00e9 Beuchel",
+                "nationality": "Germany"
+            },
+            "16": {
+                "age": 24,
+                "appearances": 28,
+                "minutes": "2.067'",
+                "name": "Mirko Dickhaut",
+                "nationality": "Germany"
+            },
+            "17": {
+                "age": 22,
+                "appearances": 12,
+                "minutes": "763'",
+                "name": "Oliver Bunzenthal",
+                "nationality": "Germany"
+            },
+            "18": {
+                "age": 18,
+                "appearances": 2,
+                "minutes": "45'",
+                "name": "Thorsten Flick",
+                "nationality": "Germany"
+            },
+            "19": {
+                "age": 20,
+                "appearances": 26,
+                "minutes": "2.085'",
+                "name": "Matthias Hagner",
+                "nationality": "Germany"
+            },
+            "20": {
+                "age": 29,
+                "appearances": 12,
+                "minutes": "768'",
+                "name": "Thomas Doll",
+                "nationality": "Germany"
+            },
+            "21": {
+                "age": 20,
+                "appearances": 12,
+                "minutes": "569'",
+                "name": "Michael Anicic",
+                "nationality": "Serbia"
+            },
+            "22": {
+                "age": 21,
+                "appearances": 18,
+                "minutes": "1.156'",
+                "name": "J\u00f6rg B\u00f6hme",
+                "nationality": "Germany"
+            },
+            "23": {
+                "age": 23,
+                "appearances": 17,
+                "minutes": "1.468'",
+                "name": "Ned Zelic",
+                "nationality": "Australia"
+            },
+            "24": {
+                "age": 28,
+                "appearances": 1,
+                "minutes": "37'",
+                "name": "Maurizio Gaudino",
+                "nationality": "Germany"
+            },
+            "25": {
+                "age": 21,
+                "appearances": 7,
+                "minutes": "584'",
+                "name": "Matthias Dworschak",
+                "nationality": "Germany"
+            },
+            "26": {
+                "age": 37,
+                "appearances": 11,
+                "minutes": "891'",
+                "name": "Rudi Bommer",
+                "nationality": "Germany"
+            },
+            "27": {
+                "age": 21,
+                "appearances": 19,
+                "minutes": "1.235'",
+                "name": "Ivica Mornar",
+                "nationality": "Croatia"
+            },
+            "28": {
+                "age": 28,
+                "appearances": 26,
+                "minutes": "2.056'",
+                "name": "Markos Rainer Rauffmann",
+                "nationality": "Cyprus"
+            },
+            "29": {
+                "age": 21,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Marek Penksa",
+                "nationality": "Slovakia"
+            },
+            "30": {
+                "age": 30,
+                "appearances": 16,
+                "minutes": "1.016'",
+                "name": "Johnny Ekstr\u00f6m",
+                "nationality": "Sweden"
+            },
+            "31": {
+                "age": 21,
+                "appearances": 23,
+                "minutes": "764'",
+                "name": "Matthias Becker",
+                "nationality": "Germany"
+            }
+        },
+        "fc-bayern-munchen": {
+            "0": {
+                "age": 26,
+                "appearances": 32,
+                "minutes": "2.787'",
+                "name": "Oliver Kahn",
+                "nationality": "Germany"
+            },
+            "1": {
+                "age": 24,
+                "appearances": 2,
+                "minutes": "138'",
+                "name": "Sven Scheuer",
+                "nationality": "Germany"
+            },
+            "2": {
+                "age": 18,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Tomas Tomic",
+                "nationality": "Germany"
+            },
+            "3": {
+                "age": 32,
+                "appearances": 2,
+                "minutes": "134'",
+                "name": "Michael Probst",
+                "nationality": "Germany"
+            },
+            "4": {
+                "age": 22,
+                "appearances": 30,
+                "minutes": "2.669'",
+                "name": "Markus Babbel",
+                "nationality": "Germany"
+            },
+            "5": {
+                "age": 29,
+                "appearances": 19,
+                "minutes": "1.352'",
+                "name": "Oliver Kreuzer",
+                "nationality": "Germany"
+            },
+            "6": {
+                "age": 30,
+                "appearances": 32,
+                "minutes": "2.865'",
+                "name": "Thomas Helmer",
+                "nationality": "Germany"
+            },
+            "7": {
+                "age": 22,
+                "appearances": 8,
+                "minutes": "345'",
+                "name": "Dieter Frey",
+                "nationality": "Germany"
+            },
+            "8": {
+                "age": 22,
+                "appearances": 28,
+                "minutes": "1.979'",
+                "name": "Christian Nerlinger",
+                "nationality": "Germany"
+            },
+            "9": {
+                "age": 24,
+                "appearances": 30,
+                "minutes": "2.203'",
+                "name": "Mehmet Scholl",
+                "nationality": "Germany"
+            },
+            "10": {
+                "age": 27,
+                "appearances": 24,
+                "minutes": "2.144'",
+                "name": "Thomas Strunz",
+                "nationality": "Germany"
+            },
+            "11": {
+                "age": 34,
+                "appearances": 19,
+                "minutes": "1.558'",
+                "name": "Lothar Matth\u00e4us",
+                "nationality": "Germany"
+            },
+            "12": {
+                "age": 27,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Alain Sutter",
+                "nationality": "Switzerland"
+            },
+            "13": {
+                "age": 25,
+                "appearances": 30,
+                "minutes": "2.696'",
+                "name": "Ciriaco Sforza",
+                "nationality": "Switzerland"
+            },
+            "14": {
+                "age": 21,
+                "appearances": 20,
+                "minutes": "1.297'",
+                "name": "Dietmar Hamann",
+                "nationality": "Germany"
+            },
+            "15": {
+                "age": 23,
+                "appearances": 33,
+                "minutes": "2.825'",
+                "name": "Christian Ziege",
+                "nationality": "Germany"
+            },
+            "16": {
+                "age": 26,
+                "appearances": 28,
+                "minutes": "1.756'",
+                "name": "Andreas Herzog",
+                "nationality": "Austria"
+            },
+            "17": {
+                "age": 31,
+                "appearances": 20,
+                "minutes": "977'",
+                "name": "Jean-Pierre Papin",
+                "nationality": "France"
+            },
+            "18": {
+                "age": 26,
+                "appearances": 20,
+                "minutes": "587'",
+                "name": "Marcel Witeczek",
+                "nationality": "Germany"
+            },
+            "19": {
+                "age": 30,
+                "appearances": 32,
+                "minutes": "2.720'",
+                "name": "J\u00fcrgen Klinsmann",
+                "nationality": "Germany"
+            },
+            "20": {
+                "age": 27,
+                "appearances": 18,
+                "minutes": "756'",
+                "name": "Emil Kostadinov",
+                "nationality": "Bulgaria"
+            },
+            "21": {
+                "age": 21,
+                "appearances": 25,
+                "minutes": "1.739'",
+                "name": "Alexander Zickler",
+                "nationality": "Germany"
+            }
+        },
+        "fc-hansa-rostock": {
+            "0": {
+                "age": 23,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Daniel Hoffmann",
+                "nationality": "Germany"
+            },
+            "1": {
+                "age": 28,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Jens Kunath",
+                "nationality": "Germany"
+            },
+            "2": {
+                "age": 32,
+                "appearances": 34,
+                "minutes": "3.060'",
+                "name": "Perry Br\u00e4utigam",
+                "nationality": "Germany"
+            },
+            "3": {
+                "age": 21,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Marko Tredup",
+                "nationality": "Germany"
+            },
+            "4": {
+                "age": 27,
+                "appearances": 21,
+                "minutes": "1.301'",
+                "name": "Timo Lange",
+                "nationality": "Germany"
+            },
+            "5": {
+                "age": 23,
+                "appearances": 14,
+                "minutes": "872'",
+                "name": "Christian Beeck",
+                "nationality": "Germany"
+            },
+            "6": {
+                "age": 20,
+                "appearances": 12,
+                "minutes": "517'",
+                "name": "Uwe Ehlers",
+                "nationality": "Germany"
+            },
+            "7": {
+                "age": 22,
+                "appearances": 31,
+                "minutes": "2.684'",
+                "name": "Ren\u00e9 Schneider",
+                "nationality": "Germany"
+            },
+            "8": {
+                "age": 29,
+                "appearances": 29,
+                "minutes": "2.489'",
+                "name": "Heiko M\u00e4rz",
+                "nationality": "Germany"
+            },
+            "9": {
+                "age": 24,
+                "appearances": 1,
+                "minutes": "41'",
+                "name": "Mike Werner",
+                "nationality": "Germany"
+            },
+            "10": {
+                "age": 27,
+                "appearances": 29,
+                "minutes": "2.559'",
+                "name": "Marco Zallmann",
+                "nationality": "Germany"
+            },
+            "11": {
+                "age": 24,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Dirk Hannemann",
+                "nationality": "Germany"
+            },
+            "12": {
+                "age": 25,
+                "appearances": 24,
+                "minutes": "1.675'",
+                "name": "Martin Groth",
+                "nationality": "Germany"
+            },
+            "13": {
+                "age": 28,
+                "appearances": 34,
+                "minutes": "2.934'",
+                "name": "Hilmar Weilandt",
+                "nationality": "Germany"
+            },
+            "14": {
+                "age": 25,
+                "appearances": 5,
+                "minutes": "292'",
+                "name": "Toni Micevski",
+                "nationality": "Macedonia"
+            },
+            "15": {
+                "age": 24,
+                "appearances": 18,
+                "minutes": "952'",
+                "name": "Matthias Breitkreutz",
+                "nationality": "Germany"
+            },
+            "16": {
+                "age": 25,
+                "appearances": 15,
+                "minutes": "1.225'",
+                "name": "Andr\u00e9 Hofschneider",
+                "nationality": "Germany"
+            },
+            "17": {
+                "age": 31,
+                "appearances": 32,
+                "minutes": "2.825'",
+                "name": "Stefan Studer",
+                "nationality": "Germany"
+            },
+            "18": {
+                "age": 23,
+                "appearances": 34,
+                "minutes": "3.012'",
+                "name": "Stefan Beinlich",
+                "nationality": "Germany"
+            },
+            "19": {
+                "age": 27,
+                "appearances": 24,
+                "minutes": "1.206'",
+                "name": "Dirk Rehbein",
+                "nationality": "Germany"
+            },
+            "20": {
+                "age": 25,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Steffen Benthin",
+                "nationality": "Germany"
+            },
+            "21": {
+                "age": 31,
+                "appearances": 18,
+                "minutes": "847'",
+                "name": "Slawomir Chalaskiewicz",
+                "nationality": "Poland"
+            },
+            "22": {
+                "age": 24,
+                "appearances": 15,
+                "minutes": "643'",
+                "name": "Carsten Klee",
+                "nationality": "Germany"
+            },
+            "23": {
+                "age": 26,
+                "appearances": 16,
+                "minutes": "524'",
+                "name": "Rocco Milde",
+                "nationality": "Germany"
+            },
+            "24": {
+                "age": 23,
+                "appearances": 32,
+                "minutes": "2.372'",
+                "name": "Steffen Baumgart",
+                "nationality": "Germany"
+            },
+            "25": {
+                "age": 25,
+                "appearances": 7,
+                "minutes": "151'",
+                "name": "Goran Markov",
+                "nationality": "Macedonia"
+            },
+            "26": {
+                "age": 26,
+                "appearances": 16,
+                "minutes": "1.348'",
+                "name": "Jonathan Akpoborie",
+                "nationality": "Nigeria"
+            }
+        },
+        "fc-schalke-04": {
+            "0": {
+                "age": 25,
+                "appearances": 32,
+                "minutes": "2.880'",
+                "name": "Jens Lehmann",
+                "nationality": "Germany"
+            },
+            "1": {
+                "age": 19,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Mathias Schober",
+                "nationality": "Germany"
+            },
+            "2": {
+                "age": 31,
+                "appearances": 2,
+                "minutes": "180'",
+                "name": "J\u00f6rg Albracht",
+                "nationality": "Germany"
+            },
+            "3": {
+                "age": 25,
+                "appearances": 27,
+                "minutes": "2.245'",
+                "name": "Thomas Linke",
+                "nationality": "Germany"
+            },
+            "4": {
+                "age": 24,
+                "appearances": 34,
+                "minutes": "3.033'",
+                "name": "Yves Eigenrauch",
+                "nationality": "Germany"
+            },
+            "5": {
+                "age": 27,
+                "appearances": 13,
+                "minutes": "638'",
+                "name": "Michael Prus",
+                "nationality": "Germany"
+            },
+            "6": {
+                "age": 24,
+                "appearances": 9,
+                "minutes": "254'",
+                "name": "Frank Sch\u00f6n",
+                "nationality": "Germany"
+            },
+            "7": {
+                "age": 26,
+                "appearances": 27,
+                "minutes": "1.642'",
+                "name": "Marco Kurz",
+                "nationality": "Germany"
+            },
+            "8": {
+                "age": 34,
+                "appearances": 20,
+                "minutes": "1.170'",
+                "name": "Thomas Dooley",
+                "nationality": "United States"
+            },
+            "9": {
+                "age": 31,
+                "appearances": 6,
+                "minutes": "235'",
+                "name": "Waldemar Ksienzyk",
+                "nationality": "Germany"
+            },
+            "10": {
+                "age": 25,
+                "appearances": 32,
+                "minutes": "2.199'",
+                "name": "Radoslav Latal",
+                "nationality": "Czech Republic"
+            },
+            "11": {
+                "age": 32,
+                "appearances": 13,
+                "minutes": "823'",
+                "name": "Uwe Weidemann",
+                "nationality": "Germany"
+            },
+            "12": {
+                "age": 31,
+                "appearances": 27,
+                "minutes": "2.087'",
+                "name": "Ingo Anderbr\u00fcgge",
+                "nationality": "Germany"
+            },
+            "13": {
+                "age": 29,
+                "appearances": 30,
+                "minutes": "2.430'",
+                "name": "Olaf Thon",
+                "nationality": "Germany"
+            },
+            "14": {
+                "age": 22,
+                "appearances": 18,
+                "minutes": "683'",
+                "name": "Oliver Held",
+                "nationality": "Germany"
+            },
+            "15": {
+                "age": 19,
+                "appearances": 1,
+                "minutes": "29'",
+                "name": "Sergiy Dikhtjar",
+                "nationality": "Ukraine"
+            },
+            "16": {
+                "age": 27,
+                "appearances": 27,
+                "minutes": "2.233'",
+                "name": "Mike B\u00fcskens",
+                "nationality": "Germany"
+            },
+            "17": {
+                "age": 29,
+                "appearances": 28,
+                "minutes": "2.232'",
+                "name": "Jiri Nemec",
+                "nationality": "Czech Republic"
+            },
+            "18": {
+                "age": 24,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Kai Bruckmann",
+                "nationality": "Germany"
+            },
+            "19": {
+                "age": 32,
+                "appearances": 29,
+                "minutes": "2.068'",
+                "name": "Andreas M\u00fcller",
+                "nationality": "Germany"
+            },
+            "20": {
+                "age": 28,
+                "appearances": 13,
+                "minutes": "585'",
+                "name": "Uwe Scherr",
+                "nationality": "Germany"
+            },
+            "21": {
+                "age": 26,
+                "appearances": 33,
+                "minutes": "2.918'",
+                "name": "Youri Mulder",
+                "nationality": "Netherlands"
+            },
+            "22": {
+                "age": 26,
+                "appearances": 32,
+                "minutes": "2.842'",
+                "name": "Martin Max",
+                "nationality": "Germany"
+            },
+            "23": {
+                "age": 23,
+                "appearances": 16,
+                "minutes": "326'",
+                "name": "David Wagner",
+                "nationality": "United States"
+            }
+        },
+        "fc-st-pauli": {
+            "0": {
+                "age": 23,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Carsten Wehlmann",
+                "nationality": "Germany"
+            },
+            "1": {
+                "age": 32,
+                "appearances": 34,
+                "minutes": "3.043'",
+                "name": "Klaus Thomforde",
+                "nationality": "Germany"
+            },
+            "2": {
+                "age": 26,
+                "appearances": 1,
+                "minutes": "17'",
+                "name": "Frank B\u00f6se",
+                "nationality": "Germany"
+            },
+            "3": {
+                "age": 30,
+                "appearances": 32,
+                "minutes": "2.856'",
+                "name": "Andr\u00e9 Trulsen",
+                "nationality": "Germany"
+            },
+            "4": {
+                "age": 27,
+                "appearances": 34,
+                "minutes": "3.060'",
+                "name": "Dirk Dammann",
+                "nationality": "Germany"
+            },
+            "5": {
+                "age": 28,
+                "appearances": 1,
+                "minutes": "90'",
+                "name": "Torsten Fr\u00f6hling",
+                "nationality": "Germany"
+            },
+            "6": {
+                "age": 26,
+                "appearances": 1,
+                "minutes": "20'",
+                "name": "Leo Manzi",
+                "nationality": "Brazil"
+            },
+            "7": {
+                "age": 25,
+                "appearances": 22,
+                "minutes": "1.332'",
+                "name": "Holger Stanislawski",
+                "nationality": "Germany"
+            },
+            "8": {
+                "age": 34,
+                "appearances": 8,
+                "minutes": "479'",
+                "name": "Dieter Schlindwein",
+                "nationality": "Germany"
+            },
+            "9": {
+                "age": 25,
+                "appearances": 12,
+                "minutes": "997'",
+                "name": "Tore Pedersen",
+                "nationality": "Norway"
+            },
+            "10": {
+                "age": 32,
+                "appearances": 7,
+                "minutes": "319'",
+                "name": "Hysen Zmijani",
+                "nationality": "Albania"
+            },
+            "11": {
+                "age": 22,
+                "appearances": 30,
+                "minutes": "2.129'",
+                "name": "Stephan Hanke",
+                "nationality": "Germany"
+            },
+            "12": {
+                "age": 20,
+                "appearances": 33,
+                "minutes": "2.737'",
+                "name": "Thomas Sobotzik",
+                "nationality": "Germany"
+            },
+            "13": {
+                "age": 24,
+                "appearances": 15,
+                "minutes": "785'",
+                "name": "Ralf Becker",
+                "nationality": "Germany"
+            },
+            "14": {
+                "age": 23,
+                "appearances": 26,
+                "minutes": "1.499'",
+                "name": "Christian Springer",
+                "nationality": "Germany"
+            },
+            "15": {
+                "age": 22,
+                "appearances": 30,
+                "minutes": "2.644'",
+                "name": "Mich\u00e9l Mazingu-Dinzey",
+                "nationality": "DR Congo"
+            },
+            "16": {
+                "age": 24,
+                "appearances": 19,
+                "minutes": "878'",
+                "name": "Oliver Schwei\u00dfing",
+                "nationality": "Germany"
+            },
+            "17": {
+                "age": 22,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Andreas Mayer",
+                "nationality": "Germany"
+            },
+            "18": {
+                "age": 31,
+                "appearances": 15,
+                "minutes": "976'",
+                "name": "Paul Caligiuri",
+                "nationality": "United States"
+            },
+            "19": {
+                "age": 32,
+                "appearances": 16,
+                "minutes": "822'",
+                "name": "J\u00fcrgen Gronau",
+                "nationality": "Germany"
+            },
+            "20": {
+                "age": 24,
+                "appearances": 23,
+                "minutes": "1.280'",
+                "name": "Dariusz Szubert",
+                "nationality": "Poland"
+            },
+            "21": {
+                "age": 27,
+                "appearances": 31,
+                "minutes": "2.790'",
+                "name": "Carsten Pr\u00f6pper",
+                "nationality": "Germany"
+            },
+            "22": {
+                "age": 20,
+                "appearances": 24,
+                "minutes": "1.100'",
+                "name": "Jens Scharping",
+                "nationality": "Germany"
+            },
+            "23": {
+                "age": 24,
+                "appearances": 7,
+                "minutes": "172'",
+                "name": "Kay Stisi",
+                "nationality": "Germany"
+            },
+            "24": {
+                "age": 25,
+                "appearances": 26,
+                "minutes": "1.746'",
+                "name": "Martin Driller",
+                "nationality": "Germany"
+            },
+            "25": {
+                "age": 30,
+                "appearances": 20,
+                "minutes": "1.682'",
+                "name": "Yuri Savichev",
+                "nationality": "Russia"
+            }
+        },
+        "fortuna-dusseldorf": {
+            "0": {
+                "age": 23,
+                "appearances": 34,
+                "minutes": "3.060'",
+                "name": "Georg Koch",
+                "nationality": "Germany"
+            },
+            "1": {
+                "age": 23,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Christian Rothkopf",
+                "nationality": "Germany"
+            },
+            "2": {
+                "age": 24,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Pierre Esser",
+                "nationality": "Germany"
+            },
+            "3": {
+                "age": 22,
+                "appearances": 24,
+                "minutes": "2.075'",
+                "name": "Harald Katemann",
+                "nationality": "Germany"
+            },
+            "4": {
+                "age": 24,
+                "appearances": 18,
+                "minutes": "955'",
+                "name": "J\u00f6rn Schwinkendorf",
+                "nationality": "Germany"
+            },
+            "5": {
+                "age": 21,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Dirk Schreiber",
+                "nationality": "Germany"
+            },
+            "6": {
+                "age": 19,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Rasim Suksur",
+                "nationality": "Germany"
+            },
+            "7": {
+                "age": 21,
+                "appearances": 3,
+                "minutes": "225'",
+                "name": "Ben Manga",
+                "nationality": "Equatorial Guinea"
+            },
+            "8": {
+                "age": 20,
+                "appearances": 3,
+                "minutes": "22'",
+                "name": "Dennis Onyewenjo",
+                "nationality": "Germany"
+            },
+            "9": {
+                "age": 28,
+                "appearances": 33,
+                "minutes": "2.936'",
+                "name": "Karl Werner",
+                "nationality": "Germany"
+            },
+            "10": {
+                "age": 32,
+                "appearances": 20,
+                "minutes": "1.790'",
+                "name": "Darko Drazic",
+                "nationality": "Croatia"
+            },
+            "11": {
+                "age": 28,
+                "appearances": 8,
+                "minutes": "316'",
+                "name": "Zvezdan Pejovic",
+                "nationality": "Montenegro"
+            },
+            "12": {
+                "age": 24,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Thomas Bahr",
+                "nationality": "Germany"
+            },
+            "13": {
+                "age": 29,
+                "appearances": 30,
+                "minutes": "2.273'",
+                "name": "J\u00f6rg Bach",
+                "nationality": "Germany"
+            },
+            "14": {
+                "age": 33,
+                "appearances": 29,
+                "minutes": "2.491'",
+                "name": "Andre Winkhold",
+                "nationality": "Germany"
+            },
+            "15": {
+                "age": 27,
+                "appearances": 30,
+                "minutes": "2.443'",
+                "name": "Ulf Mehlhorn",
+                "nationality": "Germany"
+            },
+            "16": {
+                "age": 28,
+                "appearances": 28,
+                "minutes": "2.426'",
+                "name": "Thomas Seeliger",
+                "nationality": "Germany"
+            },
+            "17": {
+                "age": 27,
+                "appearances": 10,
+                "minutes": "406'",
+                "name": "Stefan Minkwitz",
+                "nationality": "Germany"
+            },
+            "18": {
+                "age": 24,
+                "appearances": 17,
+                "minutes": "957'",
+                "name": "Thorsten Judt",
+                "nationality": "Germany"
+            },
+            "19": {
+                "age": 20,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Robert Niestroj",
+                "nationality": "Germany"
+            },
+            "20": {
+                "age": 24,
+                "appearances": 15,
+                "minutes": "822'",
+                "name": "Rudi Istenic",
+                "nationality": "Slovenia"
+            },
+            "21": {
+                "age": 21,
+                "appearances": 11,
+                "minutes": "896'",
+                "name": "Markus Anfang",
+                "nationality": "Germany"
+            },
+            "22": {
+                "age": 32,
+                "appearances": 25,
+                "minutes": "2.052'",
+                "name": "Vlatko Glavas",
+                "nationality": "Bosnia-Herzegovina"
+            },
+            "23": {
+                "age": 35,
+                "appearances": 26,
+                "minutes": "1.760'",
+                "name": "Andrzej Buncol",
+                "nationality": "Poland"
+            },
+            "24": {
+                "age": 30,
+                "appearances": 15,
+                "minutes": "699'",
+                "name": "Kujtim Shala",
+                "nationality": "Croatia"
+            },
+            "25": {
+                "age": 20,
+                "appearances": 10,
+                "minutes": "358'",
+                "name": "Raffael Tonello",
+                "nationality": "Italy"
+            },
+            "26": {
+                "age": 20,
+                "appearances": 10,
+                "minutes": "423'",
+                "name": "Thomas Brdaric",
+                "nationality": "Germany"
+            },
+            "27": {
+                "age": 36,
+                "appearances": 28,
+                "minutes": "1.546'",
+                "name": "Frank Mill",
+                "nationality": "Germany"
+            },
+            "28": {
+                "age": 28,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Christian Radlmaier \u2020",
+                "nationality": "Germany"
+            },
+            "29": {
+                "age": 29,
+                "appearances": 14,
+                "minutes": "787'",
+                "name": "Darko Pancev",
+                "nationality": "Macedonia"
+            },
+            "30": {
+                "age": 30,
+                "appearances": 29,
+                "minutes": "1.886'",
+                "name": "Richard Cyron",
+                "nationality": "Poland"
+            }
+        },
+        "hamburger-sv": {
+            "0": {
+                "age": 27,
+                "appearances": 33,
+                "minutes": "2.967'",
+                "name": "Richard Golz",
+                "nationality": "Germany"
+            },
+            "1": {
+                "age": 27,
+                "appearances": 3,
+                "minutes": "103'",
+                "name": "Holger Hiemann",
+                "nationality": "Germany"
+            },
+            "2": {
+                "age": 29,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Marco Kostmann",
+                "nationality": "Germany"
+            },
+            "3": {
+                "age": 20,
+                "appearances": 31,
+                "minutes": "2.732'",
+                "name": "St\u00e9phane Henchoz",
+                "nationality": "Switzerland"
+            },
+            "4": {
+                "age": 24,
+                "appearances": 23,
+                "minutes": "1.786'",
+                "name": "Stefan Schnoor",
+                "nationality": "Germany"
+            },
+            "5": {
+                "age": 27,
+                "appearances": 6,
+                "minutes": "206'",
+                "name": "Carsten Kober",
+                "nationality": "Germany"
+            },
+            "6": {
+                "age": 31,
+                "appearances": 21,
+                "minutes": "1.629'",
+                "name": "Petar Hubchev",
+                "nationality": "Bulgaria"
+            },
+            "7": {
+                "age": 24,
+                "appearances": 1,
+                "minutes": "5'",
+                "name": "Oliver L\u00fcttkenhaus",
+                "nationality": "Germany"
+            },
+            "8": {
+                "age": 25,
+                "appearances": 15,
+                "minutes": "1.109'",
+                "name": "Bernd Hollerbach",
+                "nationality": "Germany"
+            },
+            "9": {
+                "age": 21,
+                "appearances": 17,
+                "minutes": "857'",
+                "name": "Marijan Kovacevic",
+                "nationality": "Croatia"
+            },
+            "10": {
+                "age": 20,
+                "appearances": 6,
+                "minutes": "311'",
+                "name": "Marko Riegel",
+                "nationality": "Germany"
+            },
+            "11": {
+                "age": 24,
+                "appearances": 4,
+                "minutes": "269'",
+                "name": "Matthias Rose",
+                "nationality": "Germany"
+            },
+            "12": {
+                "age": 22,
+                "appearances": 1,
+                "minutes": "21'",
+                "name": "Dirk Wojewski",
+                "nationality": "Germany"
+            },
+            "13": {
+                "age": 21,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Tibor Nadj",
+                "nationality": "Germany"
+            },
+            "14": {
+                "age": 24,
+                "appearances": 26,
+                "minutes": "2.315'",
+                "name": "Sven Kmetsch",
+                "nationality": "Germany"
+            },
+            "15": {
+                "age": 30,
+                "appearances": 31,
+                "minutes": "2.453'",
+                "name": "Andreas Fischer",
+                "nationality": "Germany"
+            },
+            "16": {
+                "age": 24,
+                "appearances": 6,
+                "minutes": "267'",
+                "name": "Michael Mason",
+                "nationality": "United States"
+            },
+            "17": {
+                "age": 23,
+                "appearances": 4,
+                "minutes": "37'",
+                "name": "Marco Wei\u00dfhaupt",
+                "nationality": "Germany"
+            },
+            "18": {
+                "age": 28,
+                "appearances": 32,
+                "minutes": "2.794'",
+                "name": "Harald Sp\u00f6rl",
+                "nationality": "Germany"
+            },
+            "19": {
+                "age": 24,
+                "appearances": 34,
+                "minutes": "3.060'",
+                "name": "J\u00f6rg Albertz",
+                "nationality": "Germany"
+            },
+            "20": {
+                "age": 18,
+                "appearances": 9,
+                "minutes": "623'",
+                "name": "Hasan Salihamidzic",
+                "nationality": "Bosnia-Herzegovina"
+            },
+            "21": {
+                "age": 32,
+                "appearances": 32,
+                "minutes": "2.808'",
+                "name": "J\u00fcrgen Hartmann",
+                "nationality": "Germany"
+            },
+            "22": {
+                "age": 26,
+                "appearances": 9,
+                "minutes": "385'",
+                "name": "Elard Ostermann",
+                "nationality": "Germany"
+            },
+            "23": {
+                "age": 27,
+                "appearances": 9,
+                "minutes": "587'",
+                "name": "Yordan Letchkov",
+                "nationality": "Bulgaria"
+            },
+            "24": {
+                "age": 28,
+                "appearances": 17,
+                "minutes": "1.130'",
+                "name": "Valdas Ivanauskas",
+                "nationality": "Lithuania"
+            },
+            "25": {
+                "age": 22,
+                "appearances": 19,
+                "minutes": "1.648'",
+                "name": "Karsten B\u00e4ron",
+                "nationality": "Germany"
+            },
+            "26": {
+                "age": 21,
+                "appearances": 25,
+                "minutes": "1.357'",
+                "name": "Andr\u00e9 Breitenreiter",
+                "nationality": "Germany"
+            },
+            "27": {
+                "age": 30,
+                "appearances": 6,
+                "minutes": "236'",
+                "name": "Frank Ordenewitz",
+                "nationality": "Germany"
+            },
+            "28": {
+                "age": 26,
+                "appearances": 5,
+                "minutes": "125'",
+                "name": "Christian Claa\u00dfen",
+                "nationality": "Germany"
+            },
+            "29": {
+                "age": 20,
+                "appearances": 10,
+                "minutes": "698'",
+                "name": "Francisco Copado",
+                "nationality": "Germany"
+            },
+            "30": {
+                "age": 21,
+                "appearances": 7,
+                "minutes": "344'",
+                "name": "Daniel Stendel",
+                "nationality": "Germany"
+            },
+            "31": {
+                "age": 25,
+                "appearances": 13,
+                "minutes": "647'",
+                "name": "Uwe J\u00e4hnig",
+                "nationality": "Germany"
+            },
+            "32": {
+                "age": 28,
+                "appearances": 3,
+                "minutes": "111'",
+                "name": "Niclas Kindvall",
+                "nationality": "Sweden"
+            }
+        },
+        "karlsruher-sc": {
+            "0": {
+                "age": 31,
+                "appearances": 34,
+                "minutes": "3.060'",
+                "name": "Claus Reitmaier",
+                "nationality": "Germany"
+            },
+            "1": {
+                "age": 28,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Thomas Walter",
+                "nationality": "Germany"
+            },
+            "2": {
+                "age": 24,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Jan Maag",
+                "nationality": "Germany"
+            },
+            "3": {
+                "age": 19,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Simon Jentzsch",
+                "nationality": "Germany"
+            },
+            "4": {
+                "age": 28,
+                "appearances": 22,
+                "minutes": "1.083'",
+                "name": "Michael Wittwer",
+                "nationality": "Germany"
+            },
+            "5": {
+                "age": 26,
+                "appearances": 12,
+                "minutes": "976'",
+                "name": "Slaven Bilic",
+                "nationality": "Croatia"
+            },
+            "6": {
+                "age": 27,
+                "appearances": 11,
+                "minutes": "936'",
+                "name": "Thomas Ritter",
+                "nationality": "Germany"
+            },
+            "7": {
+                "age": 27,
+                "appearances": 31,
+                "minutes": "2.567'",
+                "name": "Dirk Schuster",
+                "nationality": "Germany"
+            },
+            "8": {
+                "age": 20,
+                "appearances": 12,
+                "minutes": "481'",
+                "name": "Markus B\u00e4hr",
+                "nationality": "Germany"
+            },
+            "9": {
+                "age": 21,
+                "appearances": 24,
+                "minutes": "2.033'",
+                "name": "Jens Nowotny",
+                "nationality": "Germany"
+            },
+            "10": {
+                "age": 25,
+                "appearances": 30,
+                "minutes": "2.417'",
+                "name": "Michael Tarnat",
+                "nationality": "Germany"
+            },
+            "11": {
+                "age": 27,
+                "appearances": 30,
+                "minutes": "2.348'",
+                "name": "Gunther Metz",
+                "nationality": "Germany"
+            },
+            "12": {
+                "age": 30,
+                "appearances": 33,
+                "minutes": "2.800'",
+                "name": "Burkhard Reich",
+                "nationality": "Germany"
+            },
+            "13": {
+                "age": 22,
+                "appearances": 2,
+                "minutes": "56'",
+                "name": "Raphael Krauss",
+                "nationality": "Germany"
+            },
+            "14": {
+                "age": 29,
+                "appearances": 27,
+                "minutes": "2.279'",
+                "name": "Manfred Bender",
+                "nationality": "Germany"
+            },
+            "15": {
+                "age": 27,
+                "appearances": 29,
+                "minutes": "2.561'",
+                "name": "Thorsten Fink",
+                "nationality": "Germany"
+            },
+            "16": {
+                "age": 29,
+                "appearances": 34,
+                "minutes": "3.032'",
+                "name": "Thomas H\u00e4\u00dfler",
+                "nationality": "Germany"
+            },
+            "17": {
+                "age": 19,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Jochen H\u00f6rner",
+                "nationality": "Germany"
+            },
+            "18": {
+                "age": 22,
+                "appearances": 3,
+                "minutes": "132'",
+                "name": "Christian W\u00fcck",
+                "nationality": "Germany"
+            },
+            "19": {
+                "age": 22,
+                "appearances": 32,
+                "minutes": "2.198'",
+                "name": "Sean Dundee",
+                "nationality": "Germany"
+            },
+            "20": {
+                "age": 20,
+                "appearances": 4,
+                "minutes": "63'",
+                "name": "Markus Schroth",
+                "nationality": "Germany"
+            },
+            "21": {
+                "age": 21,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Igli Tare",
+                "nationality": "Albania"
+            },
+            "22": {
+                "age": 25,
+                "appearances": 29,
+                "minutes": "1.817'",
+                "name": "Sergey Kiryakov",
+                "nationality": "Russia"
+            },
+            "23": {
+                "age": 26,
+                "appearances": 23,
+                "minutes": "1.157'",
+                "name": "Adrian Knup",
+                "nationality": "Switzerland"
+            },
+            "24": {
+                "age": 30,
+                "appearances": 13,
+                "minutes": "463'",
+                "name": "Eberhard Carl",
+                "nationality": "Germany"
+            },
+            "25": {
+                "age": 32,
+                "appearances": 25,
+                "minutes": "962'",
+                "name": "Edgar Schmitt",
+                "nationality": "Germany"
+            }
+        },
+        "kfc-uerdingen-05": {
+            "0": {
+                "age": 28,
+                "appearances": 29,
+                "minutes": "2.610'",
+                "name": "Bernd Dreher",
+                "nationality": "Germany"
+            },
+            "1": {
+                "age": 24,
+                "appearances": 5,
+                "minutes": "450'",
+                "name": "Alexander Bade",
+                "nationality": "Germany"
+            },
+            "2": {
+                "age": 24,
+                "appearances": 28,
+                "minutes": "2.199'",
+                "name": "Helmut Rahner",
+                "nationality": "Germany"
+            },
+            "3": {
+                "age": 24,
+                "appearances": 32,
+                "minutes": "2.880'",
+                "name": "Stephan Pa\u00dflack",
+                "nationality": "Germany"
+            },
+            "4": {
+                "age": 31,
+                "appearances": 11,
+                "minutes": "921'",
+                "name": "Heiko Peschke",
+                "nationality": "Germany"
+            },
+            "5": {
+                "age": 19,
+                "appearances": 28,
+                "minutes": "2.039'",
+                "name": "Mustafa Dogan",
+                "nationality": "Germany"
+            },
+            "6": {
+                "age": 25,
+                "appearances": 22,
+                "minutes": "1.714'",
+                "name": "Uwe Grauer",
+                "nationality": "Germany"
+            },
+            "7": {
+                "age": 31,
+                "appearances": 27,
+                "minutes": "2.399'",
+                "name": "Jan Heintze",
+                "nationality": "Denmark"
+            },
+            "8": {
+                "age": 26,
+                "appearances": 25,
+                "minutes": "1.605'",
+                "name": "Axel J\u00fcptner \u2020",
+                "nationality": "Germany"
+            },
+            "9": {
+                "age": 26,
+                "appearances": 28,
+                "minutes": "2.389'",
+                "name": "Horst Steffen",
+                "nationality": "Germany"
+            },
+            "10": {
+                "age": 19,
+                "appearances": 13,
+                "minutes": "614'",
+                "name": "Sebastian Hahn",
+                "nationality": "Germany"
+            },
+            "11": {
+                "age": 19,
+                "appearances": 32,
+                "minutes": "1.840'",
+                "name": "Marcus Wedau",
+                "nationality": "Germany"
+            },
+            "12": {
+                "age": 27,
+                "appearances": 14,
+                "minutes": "1.014'",
+                "name": "Gerd K\u00fchn",
+                "nationality": "Germany"
+            },
+            "13": {
+                "age": 29,
+                "appearances": 15,
+                "minutes": "974'",
+                "name": "Zlatko Yankov",
+                "nationality": "Bulgaria"
+            },
+            "14": {
+                "age": 31,
+                "appearances": 20,
+                "minutes": "1.457'",
+                "name": "Michael Lusch",
+                "nationality": "Germany"
+            },
+            "15": {
+                "age": 32,
+                "appearances": 2,
+                "minutes": "29'",
+                "name": "Jos Luhukay",
+                "nationality": "Netherlands"
+            },
+            "16": {
+                "age": 30,
+                "appearances": 2,
+                "minutes": "172'",
+                "name": "J\u00f6rg Oberl\u00e4nder",
+                "nationality": "Germany"
+            },
+            "17": {
+                "age": 28,
+                "appearances": 20,
+                "minutes": "1.282'",
+                "name": "G\u00fcnter Bittengel",
+                "nationality": "Czech Republic"
+            },
+            "18": {
+                "age": 27,
+                "appearances": 8,
+                "minutes": "358'",
+                "name": "Rainer Krieg",
+                "nationality": "Germany"
+            },
+            "19": {
+                "age": 27,
+                "appearances": 30,
+                "minutes": "2.430'",
+                "name": "Heiko Laessig",
+                "nationality": "Germany"
+            },
+            "20": {
+                "age": 25,
+                "appearances": 32,
+                "minutes": "2.802'",
+                "name": "Erik Meijer",
+                "nationality": "Netherlands"
+            },
+            "21": {
+                "age": 23,
+                "appearances": 1,
+                "minutes": "26'",
+                "name": "John van Buskirk",
+                "nationality": "United States"
+            },
+            "22": {
+                "age": 17,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Markus Staar",
+                "nationality": "Germany"
+            },
+            "23": {
+                "age": 31,
+                "appearances": 17,
+                "minutes": "1.399'",
+                "name": "Marek Lesniak",
+                "nationality": "Poland"
+            }
+        },
+        "sc-freiburg": {
+            "0": {
+                "age": 31,
+                "appearances": 34,
+                "minutes": "3.060'",
+                "name": "J\u00f6rg Schmadtke",
+                "nationality": "Germany"
+            },
+            "1": {
+                "age": 21,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Dietmar Hummel",
+                "nationality": "Germany"
+            },
+            "2": {
+                "age": 26,
+                "appearances": 2,
+                "minutes": "22'",
+                "name": "Stefan Beneking",
+                "nationality": "Germany"
+            },
+            "3": {
+                "age": 25,
+                "appearances": 32,
+                "minutes": "2.859'",
+                "name": "Martin Spanring",
+                "nationality": "Germany"
+            },
+            "4": {
+                "age": 28,
+                "appearances": 16,
+                "minutes": "1.349'",
+                "name": "Thomas Vogel",
+                "nationality": "Germany"
+            },
+            "5": {
+                "age": 23,
+                "appearances": 15,
+                "minutes": "630'",
+                "name": "Steffen Korell",
+                "nationality": "Germany"
+            },
+            "6": {
+                "age": 21,
+                "appearances": 15,
+                "minutes": "1.182'",
+                "name": "Stefan M\u00fcller",
+                "nationality": "Germany"
+            },
+            "7": {
+                "age": 27,
+                "appearances": 27,
+                "minutes": "2.082'",
+                "name": "Axel Sundermann",
+                "nationality": "Germany"
+            },
+            "8": {
+                "age": 28,
+                "appearances": 28,
+                "minutes": "2.148'",
+                "name": "Maximilian Heidenreich",
+                "nationality": "Germany"
+            },
+            "9": {
+                "age": 30,
+                "appearances": 15,
+                "minutes": "428'",
+                "name": "Damir Buric",
+                "nationality": "Croatia"
+            },
+            "10": {
+                "age": 27,
+                "appearances": 34,
+                "minutes": "3.027'",
+                "name": "Andreas Zeyer",
+                "nationality": "Germany"
+            },
+            "11": {
+                "age": 25,
+                "appearances": 8,
+                "minutes": "675'",
+                "name": "J\u00f6rg Heinrich",
+                "nationality": "Germany"
+            },
+            "12": {
+                "age": 24,
+                "appearances": 17,
+                "minutes": "654'",
+                "name": "Thomas Rath",
+                "nationality": "Germany"
+            },
+            "13": {
+                "age": 25,
+                "appearances": 29,
+                "minutes": "2.610'",
+                "name": "Jens Todt",
+                "nationality": "Germany"
+            },
+            "14": {
+                "age": 29,
+                "appearances": 29,
+                "minutes": "2.165'",
+                "name": "Ralf Kohl",
+                "nationality": "Germany"
+            },
+            "15": {
+                "age": 25,
+                "appearances": 27,
+                "minutes": "2.189'",
+                "name": "Oliver Freund",
+                "nationality": "Germany"
+            },
+            "16": {
+                "age": 27,
+                "appearances": 25,
+                "minutes": "2.131'",
+                "name": "Alain Sutter",
+                "nationality": "Switzerland"
+            },
+            "17": {
+                "age": 18,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Florian Blank",
+                "nationality": "Germany"
+            },
+            "18": {
+                "age": 27,
+                "appearances": 11,
+                "minutes": "459'",
+                "name": "Karsten Neitzel",
+                "nationality": "Germany"
+            },
+            "19": {
+                "age": 23,
+                "appearances": 3,
+                "minutes": "167'",
+                "name": "Andreas Bornemann",
+                "nationality": "Germany"
+            },
+            "20": {
+                "age": 27,
+                "appearances": 10,
+                "minutes": "766'",
+                "name": "Uwe Spies",
+                "nationality": "Germany"
+            },
+            "21": {
+                "age": 24,
+                "appearances": 11,
+                "minutes": "489'",
+                "name": "Altin Rraklli",
+                "nationality": "Albania"
+            },
+            "22": {
+                "age": 29,
+                "appearances": 18,
+                "minutes": "685'",
+                "name": "Uwe Wassmer",
+                "nationality": "Germany"
+            },
+            "23": {
+                "age": 25,
+                "appearances": 22,
+                "minutes": "1.958'",
+                "name": "Harry Decheiver",
+                "nationality": "Netherlands"
+            },
+            "24": {
+                "age": 32,
+                "appearances": 3,
+                "minutes": "105'",
+                "name": "Aleksandr Borodyuk",
+                "nationality": "Russia"
+            },
+            "25": {
+                "age": 28,
+                "appearances": 8,
+                "minutes": "265'",
+                "name": "Paschalis Seretis",
+                "nationality": "Greece"
+            },
+            "26": {
+                "age": 28,
+                "appearances": 22,
+                "minutes": "1.472'",
+                "name": "Nikola Jurcevic",
+                "nationality": "Croatia"
+            }
+        },
+        "sv-werder-bremen": {
+            "0": {
+                "age": 30,
+                "appearances": 20,
+                "minutes": "1.724'",
+                "name": "Oliver Reck",
+                "nationality": "Germany"
+            },
+            "1": {
+                "age": 31,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Hans-J\u00fcrgen Gundelach",
+                "nationality": "Germany"
+            },
+            "2": {
+                "age": 22,
+                "appearances": 15,
+                "minutes": "1.336'",
+                "name": "Frank Rost",
+                "nationality": "Germany"
+            },
+            "3": {
+                "age": 25,
+                "appearances": 32,
+                "minutes": "2.678'",
+                "name": "J\u00fanior Baiano",
+                "nationality": "Brazil"
+            },
+            "4": {
+                "age": 26,
+                "appearances": 22,
+                "minutes": "1.852'",
+                "name": "Hany Ramzy",
+                "nationality": "Egypt"
+            },
+            "5": {
+                "age": 33,
+                "appearances": 10,
+                "minutes": "672'",
+                "name": "Uli Borowka",
+                "nationality": "Germany"
+            },
+            "6": {
+                "age": 31,
+                "appearances": 3,
+                "minutes": "139'",
+                "name": "Dietmar Beiersdorfer",
+                "nationality": "Germany"
+            },
+            "7": {
+                "age": 25,
+                "appearances": 25,
+                "minutes": "1.546'",
+                "name": "Andree Wiedener",
+                "nationality": "Germany"
+            },
+            "8": {
+                "age": 33,
+                "appearances": 13,
+                "minutes": "616'",
+                "name": "Michael Schulz",
+                "nationality": "Germany"
+            },
+            "9": {
+                "age": 31,
+                "appearances": 3,
+                "minutes": "32'",
+                "name": "Gunnar Sauer",
+                "nationality": "Germany"
+            },
+            "10": {
+                "age": 21,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Mike Barten",
+                "nationality": "Germany"
+            },
+            "11": {
+                "age": 29,
+                "appearances": 30,
+                "minutes": "2.369'",
+                "name": "Heiko Scholz",
+                "nationality": "Germany"
+            },
+            "12": {
+                "age": 30,
+                "appearances": 32,
+                "minutes": "2.796'",
+                "name": "Dieter Eilts",
+                "nationality": "Germany"
+            },
+            "13": {
+                "age": 26,
+                "appearances": 30,
+                "minutes": "2.522'",
+                "name": "Mario Basler",
+                "nationality": "Germany"
+            },
+            "14": {
+                "age": 39,
+                "appearances": 28,
+                "minutes": "2.449'",
+                "name": "Mirko Votava",
+                "nationality": "Germany"
+            },
+            "15": {
+                "age": 26,
+                "appearances": 24,
+                "minutes": "2.034'",
+                "name": "Rodolfo Cardoso",
+                "nationality": "Argentina"
+            },
+            "16": {
+                "age": 31,
+                "appearances": 23,
+                "minutes": "1.783'",
+                "name": "Thomas Wolter",
+                "nationality": "Germany"
+            },
+            "17": {
+                "age": 22,
+                "appearances": 3,
+                "minutes": "54'",
+                "name": "Lars Unger",
+                "nationality": "Germany"
+            },
+            "18": {
+                "age": 18,
+                "appearances": 2,
+                "minutes": "58'",
+                "name": "Erhan Albayrak",
+                "nationality": "Turkey"
+            },
+            "19": {
+                "age": 27,
+                "appearances": 30,
+                "minutes": "2.134'",
+                "name": "Bernd Hobsch",
+                "nationality": "Germany"
+            },
+            "20": {
+                "age": 25,
+                "appearances": 34,
+                "minutes": "2.975'",
+                "name": "Marco Bode",
+                "nationality": "Germany"
+            },
+            "21": {
+                "age": 23,
+                "appearances": 11,
+                "minutes": "379'",
+                "name": "Angelo Vier",
+                "nationality": "Germany"
+            },
+            "22": {
+                "age": 32,
+                "appearances": 15,
+                "minutes": "606'",
+                "name": "Frank Neubarth",
+                "nationality": "Germany"
+            },
+            "23": {
+                "age": 21,
+                "appearances": 24,
+                "minutes": "1.490'",
+                "name": "Vladimir Beschastnykh",
+                "nationality": "Russia"
+            },
+            "24": {
+                "age": 24,
+                "appearances": 1,
+                "minutes": "15'",
+                "name": "Arie van Lent",
+                "nationality": "Germany"
+            },
+            "25": {
+                "age": 23,
+                "appearances": 5,
+                "minutes": "144'",
+                "name": "Ersan Dogu",
+                "nationality": "Turkey"
+            },
+            "26": {
+                "age": 29,
+                "appearances": 13,
+                "minutes": "1.143'",
+                "name": "Bruno Labbadia",
+                "nationality": "Germany"
+            }
+        },
+        "tsv-1860-munchen": {
+            "0": {
+                "age": 23,
+                "appearances": 33,
+                "minutes": "2.925'",
+                "name": "Bernd Meier \u2020",
+                "nationality": "Germany"
+            },
+            "1": {
+                "age": 29,
+                "appearances": 2,
+                "minutes": "134'",
+                "name": "Rainer Berg",
+                "nationality": "Germany"
+            },
+            "2": {
+                "age": 18,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Christian Holzer",
+                "nationality": "Germany"
+            },
+            "3": {
+                "age": 27,
+                "appearances": 20,
+                "minutes": "1.026'",
+                "name": "Alexander Kutschera",
+                "nationality": "Germany"
+            },
+            "4": {
+                "age": 32,
+                "appearances": 28,
+                "minutes": "2.337'",
+                "name": "Thomas Miller",
+                "nationality": "Germany"
+            },
+            "5": {
+                "age": 26,
+                "appearances": 9,
+                "minutes": "700'",
+                "name": "Elvis Brajkovic",
+                "nationality": "Croatia"
+            },
+            "6": {
+                "age": 29,
+                "appearances": 1,
+                "minutes": "90'",
+                "name": "Thomas Schmidt",
+                "nationality": "Germany"
+            },
+            "7": {
+                "age": 23,
+                "appearances": 25,
+                "minutes": "1.837'",
+                "name": "Holger Greilich",
+                "nationality": "Germany"
+            },
+            "8": {
+                "age": 27,
+                "appearances": 14,
+                "minutes": "1.096'",
+                "name": "Matthias Hamann",
+                "nationality": "Germany"
+            },
+            "9": {
+                "age": 24,
+                "appearances": 1,
+                "minutes": "14'",
+                "name": "Jens Keller",
+                "nationality": "Germany"
+            },
+            "10": {
+                "age": 28,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Ralf Strogies",
+                "nationality": "Germany"
+            },
+            "11": {
+                "age": 21,
+                "appearances": 28,
+                "minutes": "1.675'",
+                "name": "Ren\u00e9 Rydlewicz",
+                "nationality": "Germany"
+            },
+            "12": {
+                "age": 29,
+                "appearances": 32,
+                "minutes": "2.759'",
+                "name": "Bernhard Trares",
+                "nationality": "Germany"
+            },
+            "13": {
+                "age": 25,
+                "appearances": 28,
+                "minutes": "1.533'",
+                "name": "Horst Heldt",
+                "nationality": "Germany"
+            },
+            "14": {
+                "age": 29,
+                "appearances": 28,
+                "minutes": "2.471'",
+                "name": "Manfred Schwabl",
+                "nationality": "Germany"
+            },
+            "15": {
+                "age": 30,
+                "appearances": 27,
+                "minutes": "2.370'",
+                "name": "Piotr Nowak",
+                "nationality": "Poland"
+            },
+            "16": {
+                "age": 21,
+                "appearances": 16,
+                "minutes": "1.149'",
+                "name": "Harald Cerny",
+                "nationality": "Austria"
+            },
+            "17": {
+                "age": 21,
+                "appearances": 29,
+                "minutes": "2.538'",
+                "name": "Jens Jeremies",
+                "nationality": "Germany"
+            },
+            "18": {
+                "age": 25,
+                "appearances": 25,
+                "minutes": "1.429'",
+                "name": "Daniel Borimirov",
+                "nationality": "Bulgaria"
+            },
+            "19": {
+                "age": 22,
+                "appearances": 1,
+                "minutes": "44'",
+                "name": "Gerhard Schmidt",
+                "nationality": "Germany"
+            },
+            "20": {
+                "age": 25,
+                "appearances": 20,
+                "minutes": "1.318'",
+                "name": "Miroslav Stevic",
+                "nationality": "Serbia"
+            },
+            "21": {
+                "age": 27,
+                "appearances": 20,
+                "minutes": "1.309'",
+                "name": "Jens Dowe",
+                "nationality": "Germany"
+            },
+            "22": {
+                "age": 27,
+                "appearances": 31,
+                "minutes": "2.025'",
+                "name": "Olaf Bodden",
+                "nationality": "Germany"
+            },
+            "23": {
+                "age": 29,
+                "appearances": 24,
+                "minutes": "1.907'",
+                "name": "Bernhard Winkler",
+                "nationality": "Germany"
+            },
+            "24": {
+                "age": 31,
+                "appearances": 15,
+                "minutes": "808'",
+                "name": "Marek Lesniak",
+                "nationality": "Poland"
+            }
+        },
+        "vfb-stuttgart": {
+            "0": {
+                "age": 28,
+                "appearances": 5,
+                "minutes": "450'",
+                "name": "Eberhard Trautner",
+                "nationality": "Germany"
+            },
+            "1": {
+                "age": 19,
+                "appearances": 29,
+                "minutes": "2.610'",
+                "name": "Marc Ziegler",
+                "nationality": "Germany"
+            },
+            "2": {
+                "age": 34,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Armin Fischer",
+                "nationality": "Germany"
+            },
+            "3": {
+                "age": 22,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Thorsten Walther",
+                "nationality": "Germany"
+            },
+            "4": {
+                "age": 26,
+                "appearances": 30,
+                "minutes": "2.622'",
+                "name": "Hendrik Herzog",
+                "nationality": "Germany"
+            },
+            "5": {
+                "age": 30,
+                "appearances": 27,
+                "minutes": "2.260'",
+                "name": "Thomas Berthold",
+                "nationality": "Germany"
+            },
+            "6": {
+                "age": 27,
+                "appearances": 18,
+                "minutes": "1.538'",
+                "name": "Frank Verlaat",
+                "nationality": "Netherlands"
+            },
+            "7": {
+                "age": 29,
+                "appearances": 28,
+                "minutes": "2.301'",
+                "name": "Franco Foda",
+                "nationality": "Germany"
+            },
+            "8": {
+                "age": 33,
+                "appearances": 8,
+                "minutes": "551'",
+                "name": "G\u00fcnther Sch\u00e4fer",
+                "nationality": "Germany"
+            },
+            "9": {
+                "age": 22,
+                "appearances": 18,
+                "minutes": "1.221'",
+                "name": "Thomas Schneider",
+                "nationality": "Germany"
+            },
+            "10": {
+                "age": 23,
+                "appearances": 21,
+                "minutes": "1.163'",
+                "name": "Marco Grimm",
+                "nationality": "Germany"
+            },
+            "11": {
+                "age": 19,
+                "appearances": 17,
+                "minutes": "1.194'",
+                "name": "Michael Bochtler",
+                "nationality": "Germany"
+            },
+            "12": {
+                "age": 22,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Jochen Endre\u00df",
+                "nationality": "Germany"
+            },
+            "13": {
+                "age": 22,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Frank Posch",
+                "nationality": "Germany"
+            },
+            "14": {
+                "age": 19,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Mario Wildmann",
+                "nationality": "Germany"
+            },
+            "15": {
+                "age": 32,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Slobodan Dubajic",
+                "nationality": "Serbia"
+            },
+            "16": {
+                "age": 26,
+                "appearances": 15,
+                "minutes": "1.131'",
+                "name": "Thorsten Legat",
+                "nationality": "Germany"
+            },
+            "17": {
+                "age": 27,
+                "appearances": 19,
+                "minutes": "1.034'",
+                "name": "Andreas Buck",
+                "nationality": "Germany"
+            },
+            "18": {
+                "age": 23,
+                "appearances": 25,
+                "minutes": "1.962'",
+                "name": "Marco Haber",
+                "nationality": "Germany"
+            },
+            "19": {
+                "age": 29,
+                "appearances": 34,
+                "minutes": "3.060'",
+                "name": "Krasimir Balakov",
+                "nationality": "Bulgaria"
+            },
+            "20": {
+                "age": 25,
+                "appearances": 28,
+                "minutes": "2.219'",
+                "name": "Gerhard Poschner",
+                "nationality": "Germany"
+            },
+            "21": {
+                "age": 22,
+                "appearances": 11,
+                "minutes": "262'",
+                "name": "Michael Oelkuch",
+                "nationality": "Germany"
+            },
+            "22": {
+                "age": 18,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Tobias B\u00fcttner",
+                "nationality": "Germany"
+            },
+            "23": {
+                "age": 29,
+                "appearances": 11,
+                "minutes": "603'",
+                "name": "Ludwig K\u00f6gl",
+                "nationality": "Germany"
+            },
+            "24": {
+                "age": 20,
+                "appearances": 9,
+                "minutes": "597'",
+                "name": "Danny Schwarz",
+                "nationality": "Germany"
+            },
+            "25": {
+                "age": 22,
+                "appearances": 33,
+                "minutes": "2.846'",
+                "name": "Giovane Elber",
+                "nationality": "Brazil"
+            },
+            "26": {
+                "age": 23,
+                "appearances": 26,
+                "minutes": "2.080'",
+                "name": "Fredi Bobic",
+                "nationality": "Germany"
+            },
+            "27": {
+                "age": 27,
+                "appearances": 27,
+                "minutes": "1.104'",
+                "name": "Axel Kruse",
+                "nationality": "Germany"
+            },
+            "28": {
+                "age": 24,
+                "appearances": 22,
+                "minutes": "584'",
+                "name": "Radoslaw Gilewicz",
+                "nationality": "Poland"
+            },
+            "29": {
+                "age": 20,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Helgi Sigurdsson",
+                "nationality": "Iceland"
+            },
+            "30": {
+                "age": 21,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Sascha Maier",
+                "nationality": "Germany"
+            },
+            "31": {
+                "age": 19,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Suat T\u00fcrker",
+                "nationality": "Turkey"
+            },
+            "32": {
+                "age": 21,
+                "appearances": 2,
+                "minutes": "93'",
+                "name": "Marcus Ziegler",
+                "nationality": "Germany"
+            }
+        }
+    }
+}

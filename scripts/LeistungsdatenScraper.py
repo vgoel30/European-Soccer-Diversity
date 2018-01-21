@@ -9,12 +9,12 @@ main_url = "https://www.transfermarkt.com/"
 '''
 https://www.transfermarkt.com/paris-saint-germain/leistungsdaten/verein/583/plus/0?reldata=FR1%262016
 '''
-country = 'England'
+country = 'Spain'
 directory = '../data/Leistungsdaten/' + country + '/'
 file_name = '../data/Yearly teams/' + country + '.json'
 
 
-years = [year for year in range(2000,2017)]
+years = [year for year in range(1995,2017)]
 players_dict = {}
 
 

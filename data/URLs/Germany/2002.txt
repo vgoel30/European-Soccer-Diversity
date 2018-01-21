@@ -2,7 +2,7 @@
 /bayer-04-leverkusen/startseite/verein/15/saison_id/2002
 /1-fc-kaiserslautern/startseite/verein/2/saison_id/2002
 /borussia-monchengladbach/startseite/verein/18/saison_id/2002
-/tsv-1860-munchen/startseite/verein/72/saison_id/2002
+/hannover-96/startseite/verein/42/saison_id/2002
 /vfl-wolfsburg/startseite/verein/82/saison_id/2002
 /fc-energie-cottbus/startseite/verein/25/saison_id/2002
 /sv-werder-bremen/startseite/verein/86/saison_id/2002
@@ -10,7 +10,7 @@
 /borussia-dortmund/startseite/verein/16/saison_id/2002
 /fc-schalke-04/startseite/verein/33/saison_id/2002
 /hamburger-sv/startseite/verein/41/saison_id/2002
-/hannover-96/startseite/verein/42/saison_id/2002
+/tsv-1860-munchen/startseite/verein/72/saison_id/2002
 /1-fc-nurnberg/startseite/verein/4/saison_id/2002
 /vfb-stuttgart/startseite/verein/79/saison_id/2002
 /fc-hansa-rostock/startseite/verein/30/saison_id/2002

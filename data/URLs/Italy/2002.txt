@@ -1,6 +1,6 @@
 /ac-mailand/startseite/verein/5/saison_id/2002
+/juventus-turin/startseite/verein/506/saison_id/2002
 /calcio-como/startseite/verein/1047/saison_id/2002
-/fc-turin/startseite/verein/416/saison_id/2002
 /inter-mailand/startseite/verein/46/saison_id/2002
 /fc-parma/startseite/verein/130/saison_id/2002
 /chievo-verona/startseite/verein/862/saison_id/2002
@@ -8,9 +8,9 @@
 /fc-bologna/startseite/verein/1025/saison_id/2002
 /modena-fc-1912/startseite/verein/1385/saison_id/2002
 /inter-mailand/startseite/verein/46/saison_id/2002
+/fc-turin/startseite/verein/416/saison_id/2002
 /atalanta-bergamo/startseite/verein/800/saison_id/2002
 /piacenza-calcio-1919/startseite/verein/1408/saison_id/2002
-/juventus-turin/startseite/verein/506/saison_id/2002
 /lazio-rom/startseite/verein/398/saison_id/2002
 /udinese-calcio/startseite/verein/410/saison_id/2002
 /as-rom/startseite/verein/12/saison_id/2002

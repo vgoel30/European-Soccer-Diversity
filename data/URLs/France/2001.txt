@@ -7,7 +7,7 @@
 /hsc-montpellier/startseite/verein/969/saison_id/2001
 /as-monaco/startseite/verein/162/saison_id/2001
 /fc-metz/startseite/verein/347/saison_id/2001
-/fc-girondins-bordeaux/startseite/verein/40/saison_id/2001
+/aj-auxerre/startseite/verein/290/saison_id/2001
 /rc-lens/startseite/verein/826/saison_id/2001
 /fc-paris-saint-germain/startseite/verein/583/saison_id/2001
 /fc-girondins-bordeaux/startseite/verein/40/saison_id/2001
@@ -17,4 +17,4 @@
 /cs-sedan-ardennes/startseite/verein/1081/saison_id/2001
 /ea-guingamp/startseite/verein/855/saison_id/2001
 /fc-lorient/startseite/verein/1158/saison_id/2001
-/aj-auxerre/startseite/verein/290/saison_id/2001
+/fc-girondins-bordeaux/startseite/verein/40/saison_id/2001

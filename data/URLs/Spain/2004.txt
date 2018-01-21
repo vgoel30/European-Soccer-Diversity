@@ -1,5 +1,3 @@
-/athletic-bilbao/startseite/verein/621/saison_id/2004
-/racing-santander/startseite/verein/630/saison_id/2004
 /atletico-madrid/startseite/verein/13/saison_id/2004
 /fc-barcelona/startseite/verein/131/saison_id/2004
 /real-saragossa/startseite/verein/142/saison_id/2004
@@ -8,8 +6,8 @@
 /ca-osasuna/startseite/verein/331/saison_id/2004
 /fc-sevilla/startseite/verein/368/saison_id/2004
 /real-madrid/startseite/verein/418/saison_id/2004
-/fc-getafe/startseite/verein/3709/saison_id/2004
-/real-sociedad-san-sebastian/startseite/verein/681/saison_id/2004
+/athletic-bilbao/startseite/verein/621/saison_id/2004
+/racing-santander/startseite/verein/630/saison_id/2004
 /espanyol-barcelona/startseite/verein/714/saison_id/2004
 /deportivo-la-coruna/startseite/verein/897/saison_id/2004
 /fc-valencia/startseite/verein/1049/saison_id/2004
@@ -18,3 +16,5 @@
 /albacete-balompie/startseite/verein/1532/saison_id/2004
 /cd-numancia/startseite/verein/2296/saison_id/2004
 /ud-levante/startseite/verein/3368/saison_id/2004
+/fc-getafe/startseite/verein/3709/saison_id/2004
+/real-sociedad-san-sebastian/startseite/verein/681/saison_id/2004

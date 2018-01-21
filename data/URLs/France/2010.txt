@@ -5,7 +5,7 @@
 /as-saint-etienne/startseite/verein/618/saison_id/2010
 /aj-auxerre/startseite/verein/290/saison_id/2010
 /fc-valenciennes/startseite/verein/1423/saison_id/2010
-/rc-lens/startseite/verein/826/saison_id/2010
+/hsc-montpellier/startseite/verein/969/saison_id/2010
 /fc-sochaux-montbeliard/startseite/verein/750/saison_id/2010
 /stade-brest-29/startseite/verein/3911/saison_id/2010
 /olympique-marseille/startseite/verein/244/saison_id/2010
@@ -15,6 +15,6 @@
 /ogc-nizza/startseite/verein/417/saison_id/2010
 /as-nancy-lorraine/startseite/verein/1159/saison_id/2010
 /fc-lorient/startseite/verein/1158/saison_id/2010
-/hsc-montpellier/startseite/verein/969/saison_id/2010
+/rc-lens/startseite/verein/826/saison_id/2010
 /ac-arles-avignon/startseite/verein/11300/saison_id/2010
 /sm-caen/startseite/verein/1162/saison_id/2010

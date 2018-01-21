@@ -1,7 +1,7 @@
 import json
 from pprint import pprint
 
-years = [str(year) for year in range(2000, 2017)]
+years = [str(year) for year in range(1995, 2017)]
 countries = ['England', 'France', 'Germany', 'Italy', 'Spain']
 
 all_countries = []

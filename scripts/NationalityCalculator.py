@@ -36,7 +36,7 @@ def minutes_parser(minutes_string):
 
 
 target_country = 'France'
-years = [str(year) for year in range(2000, 2017)]
+years = [str(year) for year in range(1995, 2017)]
 countries = ['England', 'France', 'Germany', 'Italy', 'Spain']
 
 final_data = []
@@ -68,13 +68,13 @@ for year in years:
 					if player_country == target_country:
 						target += 1
 					if player_country in countries:
-						final_data[countries.index(player_country)][int(year) - 2000] += 1
+						final_data[countries.index(player_country)][int(year) - 1995] += 1
 					total += 1
 
 	percent = target/total
 	for country in countries:
-		final_data[countries.index(country)][int(year) - 2000] /= total
-		final_data[countries.index(country)][int(year) - 2000] *= 100
+		final_data[countries.index(country)][int(year) - 1995] /= total
+		final_data[countries.index(country)][int(year) - 1995] *= 100
 	percent *= 100
 	print(target)
 	print(total)

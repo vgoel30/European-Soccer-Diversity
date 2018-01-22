@@ -39,6 +39,7 @@ def get_team_percentage(data, year, team):
 	for nation in L_countries:
 			L_countries[nation] = 0 
 
+	
 	year_data = data[year][team]
 
 	for key in year_data:
@@ -52,10 +53,11 @@ def get_team_percentage(data, year, team):
 			foreign += 1
 			foreign_minutes += minutes_parser(player['minutes'])
 			foreign_apps += player['appearances']
-		age += player['age']
+		age += (player['age'] * player['appearances'])
 		#increase the country count
 		if player_country != 'N/A':
 			L_countries[player_country] = L_countries[player_country] + player['appearances']
+	
 
 	gini_value = gini(np.asarray(list(L_countries.values()), dtype=np.float))
 	diversity = 1/gini_value
@@ -85,7 +87,7 @@ years = [year for year in range(1995, 2017)]
 rows = []
 params = ['Won', 'Lost', 'Draw', 'GF', 'GA',  'PPM', 'Foreign playing time %', 'Average age', 'diversity']
 
-country = 'England'
+country = 'Germany'
 data_file = '../data/Leistungsdaten/' + str(country) + '/2016.json'
 
 for year in years:

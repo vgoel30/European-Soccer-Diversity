@@ -1,109 +1,125 @@
-Northern Ireland
-Denmark
-Austria
-England
-France
-Slovakia
-Ireland
-Germany
-Portugal
-Scotland
-Wales
-Sweden
-Argentina
-Belgium
-Finland
-Turkey
-Trinidad and Tobago
-Netherlands
-Colombia
-Romania
-Norway
-Jamaica
-Italy
-Serbia
-South Africa
-Bulgaria
-Iran
-Bosnia-Herzegovina
-Honduras
-Morocco
-Peru
 Australia
-Estonia
-Gibraltar
-Nigeria
-Georgia
+England
+Ireland
+Scotland
+Serbia
+Trinidad and Tobago
+Norway
+Wales
+Northern Ireland
+Sweden
 Iceland
-Cote d'Ivoire
-Cameroon
-Brazil
-Ukraine
-Latvia
-Lithuania
-Liberia
-Spain
-Uruguay
-Croatia
-Ghana
-Israel
-United States
-Mali
-Switzerland
-Czech Republic
-Ecuador
-Slovenia
-New Zealand
-Canada
-Russia
-Bermuda
-Costa Rica
-Greece
-Chile
-Paraguay
-Guyana
-DR Congo
-St. Kitts & Nevis
-Guinea
-Poland
-Togo
-Senegal
-Algeria
-Mexico
-Haiti
-Mauritania
-French Guiana
-Comoros
-Tunisia
-Montenegro
-Guadeloupe
-Tahiti
-Madagascar
-Martinique
-Cape Verde
-Albania
-Egypt
+Netherlands
+Finland
 Luxembourg
-Zambia
-Burkina Faso
-Macedonia
-Congo
-China
+Ghana
+Brazil
+Zimbabwe
+Denmark
+Russia
+Jamaica
+Romania
+Switzerland
+Nigeria
+Bolivia
+South Africa
+Canada
+Germany
+Georgia
+France
+Czech Republic
+Belgium
+Montserrat
+Colombia
+Italy
+United States
+Barbados
+Israel
+Croatia
+Portugal
+Senegal
+Cameroon
+Algeria
+DR Congo
+Montenegro
+Madagascar
+Cote d'Ivoire
+Tunisia
+Togo
+Cape Verde
+Haiti
+Liberia
+Slovakia
+Martinique
+Bosnia-Herzegovina
+Guinea
+French Guiana
+Morocco
+Poland
+Chad
+Albania
+Panama
+Armenia
+Argentina
 Hungary
+Mali
 Benin
-Angola
-Namibia
-Korea, South
+Guadeloupe
+Turkey
+Austria
+Uruguay
+Congo
+Macedonia
+Cyprus
+Bulgaria
+Ukraine
+Equatorial Guinea
+Slovenia
+Lithuania
+Greece
+Egypt
+Sierra Leone
+San Marino
+Spain
+Azerbaijan
+Peru
+Paraguay
 Belarus
-Japan
+Mexico
+Chile
+Honduras
+Venezuela
+Estonia
+Costa Rica
+Guyana
+Mauritius
 Guinea-Bissau
+Rwanda
+Hongkong
+Angola
+Japan
+Bermuda
+St. Kitts & Nevis
+Libya
+Gibraltar
+Malawi
+Niger
+Korea, South
+Iran
+Moldova
+Monaco
+Latvia
+China
+Tahiti
+Namibia
+Ecuador
+New Zealand
+Zambia
+Mauritania
+Comoros
+Burkina Faso
 Dominican Republic
 Qatar
-Venezuela
-Sierra Leone
-Equatorial Guinea
-Panama
-Bolivia
 Uganda
 Seychelles
 Gabon
@@ -113,47 +129,33 @@ Lebanon
 Liechtenstein
 Uzbekistan
 Curacao
-Cyprus
 Grenada
 Antigua and Barbuda
 India
-Monaco
-Zimbabwe
-Niger
 Neukaledonien
 Guatemala
 Pakistan
-Mauritius
 Tajikistan
 Philippines
-Libya
 Eritrea
-San Marino
-Barbados
 Thailand
 Central African Republic
-Chad
 Kazakhstan
 Mozambique
 Oman
 Kenya
-Malawi
 Cambodia
 Jordan
 Cuba
 Kosovo
 Kyrgyzstan
 Faroe Island
-Armenia
 Burundi
-Azerbaijan
 Somalia
 United Arab Emirates
 Korea, North
 The Gambia
 St. Lucia
-Montserrat
-Moldova
 Iraq
 Afghanistan
 Palästina

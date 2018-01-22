@@ -32,7 +32,7 @@ with open(file_name) as data_file:
         		team_name = year_data[team_id]
         		players_dict[year][team_name] = {}
 
-        		url = main_url + team_name + "/leistungsdaten/verein/" + team_id + "/plus/0?reldata=ES1%26" + str(year)
+        		url = main_url + team_name + "/leistungsdaten/verein/" + team_id + "/plus/0?reldata=ES1%26" + str(year) 
         		print(url)
         		request = requests.get(url, headers=headers)
 

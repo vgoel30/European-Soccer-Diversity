@@ -389,6 +389,162 @@
                 "nationality": "Spain"
             }
         },
+        "atletico-madrid": {
+            "0": {
+                "age": 24,
+                "appearances": 15,
+                "minutes": "1.350'",
+                "name": "Jos\u00e9 Francisco Molina",
+                "nationality": "Spain"
+            },
+            "1": {
+                "age": 23,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Ricardo",
+                "nationality": "Spain"
+            },
+            "2": {
+                "age": 22,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Dani",
+                "nationality": "Spain"
+            },
+            "3": {
+                "age": 21,
+                "appearances": 14,
+                "minutes": "1.252'",
+                "name": "Santi Denia",
+                "nationality": "Spain"
+            },
+            "4": {
+                "age": 34,
+                "appearances": 4,
+                "minutes": "50'",
+                "name": "Tom\u00e1s",
+                "nationality": "Spain"
+            },
+            "5": {
+                "age": 27,
+                "appearances": 15,
+                "minutes": "1.264'",
+                "name": "Toni Mu\u00f1oz",
+                "nationality": "Spain"
+            },
+            "6": {
+                "age": 25,
+                "appearances": 15,
+                "minutes": "1.350'",
+                "name": "Roberto Soloz\u00e1bal",
+                "nationality": "Spain"
+            },
+            "7": {
+                "age": 25,
+                "appearances": 10,
+                "minutes": "253'",
+                "name": "Juanma L\u00f3pez",
+                "nationality": "Spain"
+            },
+            "8": {
+                "age": 26,
+                "appearances": 15,
+                "minutes": "1.332'",
+                "name": "Delf\u00ed Geli",
+                "nationality": "Spain"
+            },
+            "9": {
+                "age": 18,
+                "appearances": 2,
+                "minutes": "22'",
+                "name": "Quinton Fortune",
+                "nationality": "South Africa"
+            },
+            "10": {
+                "age": 25,
+                "appearances": 13,
+                "minutes": "1.061'",
+                "name": "Diego Simeone",
+                "nationality": "Argentina"
+            },
+            "11": {
+                "age": 22,
+                "appearances": 12,
+                "minutes": "479'",
+                "name": "Roberto",
+                "nationality": "Spain"
+            },
+            "12": {
+                "age": 27,
+                "appearances": 15,
+                "minutes": "1.223'",
+                "name": "Jos\u00e9 Luis Caminero",
+                "nationality": "Spain"
+            },
+            "13": {
+                "age": 24,
+                "appearances": 6,
+                "minutes": "249'",
+                "name": "Pirri Mori",
+                "nationality": "Spain"
+            },
+            "14": {
+                "age": 28,
+                "appearances": 15,
+                "minutes": "986'",
+                "name": "Juan Vizca\u00edno",
+                "nationality": "Spain"
+            },
+            "15": {
+                "age": 28,
+                "appearances": 15,
+                "minutes": "1.314'",
+                "name": "Milinko Pantic",
+                "nationality": "Serbia"
+            },
+            "16": {
+                "age": 19,
+                "appearances": 0,
+                "minutes": "-",
+                "name": "Pepe De La Sagra",
+                "nationality": "Spain"
+            },
+            "17": {
+                "age": 18,
+                "appearances": 8,
+                "minutes": "251'",
+                "name": "Leo Biagini",
+                "nationality": "Argentina"
+            },
+            "18": {
+                "age": 21,
+                "appearances": 5,
+                "minutes": "59'",
+                "name": "Fernando Correa",
+                "nationality": "Uruguay"
+            },
+            "19": {
+                "age": 28,
+                "appearances": 13,
+                "minutes": "948'",
+                "name": "Lyuboslav Penev",
+                "nationality": "Bulgaria"
+            },
+            "20": {
+                "age": 22,
+                "appearances": 3,
+                "minutes": "118'",
+                "name": "Juan Carlos",
+                "nationality": "Spain"
+            },
+            "21": {
+                "age": 23,
+                "appearances": 12,
+                "minutes": "1.036'",
+                "name": "Kiko Narv\u00e1ez",
+                "nationality": "Spain"
+            }
+        },
         "cd-teneriffa": {
             "0": {
                 "age": 26,
@@ -2822,6 +2978,176 @@
                 "appearances": 10,
                 "minutes": "615'",
                 "name": "Pardeza",
+                "nationality": "Spain"
+            }
+        },
+        "real-sociedad-san-sebastian": {
+            "0": {
+                "age": 26,
+                "appearances": 40,
+                "minutes": "3.600'",
+                "name": "Alberto L\u00f3pez",
+                "nationality": "Spain"
+            },
+            "1": {
+                "age": 27,
+                "appearances": 1,
+                "minutes": "90'",
+                "name": "Roberto Olabe Aranzabal",
+                "nationality": "Spain"
+            },
+            "2": {
+                "age": 22,
+                "appearances": 1,
+                "minutes": "90'",
+                "name": "I\u00f1igo Arteaga Nieto",
+                "nationality": "Spain"
+            },
+            "3": {
+                "age": 22,
+                "appearances": 38,
+                "minutes": "3.372'",
+                "name": "Agust\u00edn Aranzabal",
+                "nationality": "Spain"
+            },
+            "4": {
+                "age": 24,
+                "appearances": 36,
+                "minutes": "3.235'",
+                "name": "Jon Andoni Pikabea",
+                "nationality": "Spain"
+            },
+            "5": {
+                "age": 30,
+                "appearances": 40,
+                "minutes": "3.599'",
+                "name": "Miguel Fuentes",
+                "nationality": "Spain"
+            },
+            "6": {
+                "age": 30,
+                "appearances": 29,
+                "minutes": "2.273'",
+                "name": "Alberto Albistegi",
+                "nationality": "Spain"
+            },
+            "7": {
+                "age": 28,
+                "appearances": 39,
+                "minutes": "3.423'",
+                "name": "Loren",
+                "nationality": "Spain"
+            },
+            "8": {
+                "age": 23,
+                "appearances": 14,
+                "minutes": "760'",
+                "name": "Imanol Alguacil",
+                "nationality": "Spain"
+            },
+            "9": {
+                "age": 25,
+                "appearances": 10,
+                "minutes": "668'",
+                "name": "Miguel Ram\u00edrez",
+                "nationality": "Chile"
+            },
+            "10": {
+                "age": 30,
+                "appearances": 19,
+                "minutes": "1.044'",
+                "name": "Jokin Uria",
+                "nationality": "Spain"
+            },
+            "11": {
+                "age": 23,
+                "appearances": 5,
+                "minutes": "127'",
+                "name": "Unai Emery",
+                "nationality": "Spain"
+            },
+            "12": {
+                "age": 21,
+                "appearances": 33,
+                "minutes": "1.395'",
+                "name": "I\u00f1igo Idiakez",
+                "nationality": "Spain"
+            },
+            "13": {
+                "age": 26,
+                "appearances": 37,
+                "minutes": "3.231'",
+                "name": "Valeri Karpin",
+                "nationality": "Russia"
+            },
+            "14": {
+                "age": 21,
+                "appearances": 38,
+                "minutes": "2.845'",
+                "name": "Javi de Pedro",
+                "nationality": "Spain"
+            },
+            "15": {
+                "age": 18,
+                "appearances": 1,
+                "minutes": "16'",
+                "name": "Joseba Agirre",
+                "nationality": "Spain"
+            },
+            "16": {
+                "age": 23,
+                "appearances": 29,
+                "minutes": "1.810'",
+                "name": "Andoni Imaz",
+                "nationality": "Spain"
+            },
+            "17": {
+                "age": 34,
+                "appearances": 7,
+                "minutes": "111'",
+                "name": "Jos\u00e9 Mari Lumbreras",
+                "nationality": "Spain"
+            },
+            "18": {
+                "age": 21,
+                "appearances": 13,
+                "minutes": "776'",
+                "name": "Joachin Yaw Acheampong",
+                "nationality": "Ghana"
+            },
+            "19": {
+                "age": 25,
+                "appearances": 32,
+                "minutes": "2.494'",
+                "name": "Javi Gracia",
+                "nationality": "Spain"
+            },
+            "20": {
+                "age": 27,
+                "appearances": 29,
+                "minutes": "1.744'",
+                "name": "Gheorghe Craioveanu",
+                "nationality": "Romania"
+            },
+            "21": {
+                "age": 20,
+                "appearances": 30,
+                "minutes": "1.626'",
+                "name": "Marcus P\u00fcrk",
+                "nationality": "Austria"
+            },
+            "22": {
+                "age": 20,
+                "appearances": 25,
+                "minutes": "1.285'",
+                "name": "\u00d3scar de Paula",
+                "nationality": "Spain"
+            },
+            "23": {
+                "age": 24,
+                "appearances": 29,
+                "minutes": "1.832'",
+                "name": "Luis P\u00e9rez",
                 "nationality": "Spain"
             }
         },

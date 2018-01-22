@@ -34,73 +34,76 @@ def minutes_parser(minutes_string):
 		return 0
 	return int(minutes_string.replace('\'','').replace('.',''))
 
-country = 'England'
+def get_percentages_df(country):
+	data_file = '../data/Leistungsdaten/' + str(country) + '/2016.json'
+	years = [str(year) for year in range(1995, 2017)]
 
-data_file = '../data/Leistungsdaten/' + str(country) + '/2016.json'
-years = [str(year) for year in range(1995, 2017)]
+	L_local = []
+	L_foreign = []
 
-L_local = []
-L_foreign = []
+	L_local_minutes = []
+	L_foreign_minutes = []
 
-L_local_minutes = []
-L_foreign_minutes = []
+	L_local_apps = []
+	L_foreign_apps = []
 
-L_local_apps = []
-L_foreign_apps = []
+	L_countries = {}
 
-L_countries = {}
+	with open(data_file) as datafile:
+		data = json.load(datafile)
+		for year in years:
+			local = 0
+			foreign = 0
+			local_minutes = 0
+			foreign_minutes = 0
+			local_apps = 0
+			foreign_apps = 0
 
-with open(data_file) as datafile:
-	data = json.load(datafile)
-	for year in years:
-		local = 0
-		foreign = 0
-		local_minutes = 0
-		foreign_minutes = 0
-		local_apps = 0
-		foreign_apps = 0
+			#data for a particular year
+			league_year_data = data[year]
+			#go trhough each team in the year
+			for team in league_year_data:
+				year_data = data[year][team]
 
-		#data for a particular year
-		league_year_data = data[year]
-		#go trhough each team in the year
-		for team in league_year_data:
-			year_data = data[year][team]
+				for key in year_data:
+					player = year_data[key]
+					player_country = player['nationality']
+					if(player_country == country):
+						local += 1
+						local_minutes += minutes_parser(player['minutes'])
+						local_apps += player['appearances']
+					else:
+						foreign += 1
+						foreign_minutes += minutes_parser(player['minutes'])
+						foreign_apps += player['appearances']
+					if player_country not in L_countries.keys():
+						L_countries[player_country] = 0
+					L_countries[player_country] = L_countries[player_country] + 1
 
-			for key in year_data:
-				player = year_data[key]
-				player_country = player['nationality']
-				if(player_country == country):
-					local += 1
-					local_minutes += minutes_parser(player['minutes'])
-					local_apps += player['appearances']
-				else:
-					foreign += 1
-					foreign_minutes += minutes_parser(player['minutes'])
-					foreign_apps += player['appearances']
-				if player_country not in L_countries.keys():
-					L_countries[player_country] = 0
-				L_countries[player_country] = L_countries[player_country] + 1
+			total = local + foreign
+			L_local.append((local/total)*100)
+			L_foreign.append((foreign/total)*100)
 
-		total = local + foreign
-		L_local.append((local/total)*100)
-		L_foreign.append((foreign/total)*100)
+			total = local_apps + foreign_apps
+			L_local_apps.append((local_apps/total) * 100)
+			L_foreign_apps.append((foreign_apps/total) * 100)
 
-		total = local_apps + foreign_apps
-		L_local_apps.append((local_apps/total) * 100)
-		L_foreign_apps.append((foreign_apps/total) * 100)
+			total = local_minutes + foreign_minutes
+			L_local_minutes.append((local_minutes/total)*100)
+			L_foreign_minutes.append((foreign_minutes/total)*100)
 
-		total = local_minutes + foreign_minutes
-		L_local_minutes.append((local_minutes/total)*100)
-		L_foreign_minutes.append((foreign_minutes/total)*100)
+	pprint(L_foreign_minutes)
+	#pprint(L_countries)
+	df = pd.DataFrame({#'Local': L_local,
+						'Foreign': L_foreign,
+						#'Local minutes': L_local_minutes,
+						'Foreign minutes': L_foreign_minutes,
+						'Foreign appearances': L_foreign_apps,
+						'Year': years			})
+	df = df.set_index('Year')
+	return df
+	pprint(df)
 
-pprint(L_foreign_minutes)
-#pprint(L_countries)
-df = pd.DataFrame({#'Local': L_local,
-					'Foreign': L_foreign,
-					#'Local minutes': L_local_minutes,
-					'Foreign minutes': L_foreign_minutes,
-					'Foreign appearances': L_foreign_apps,
-					'Year': years			})
-df = df.set_index('Year')
-pprint(df)
+country = 'Italy'
+df = get_percentages_df(country)
 plot_time_series(df, country)

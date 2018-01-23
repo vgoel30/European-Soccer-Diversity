@@ -112,26 +112,24 @@ def get_combined_correlations():
 	return df 
 
 def csv_dict_reader(file_obj):
-    """
-    Read a CSV file using csv.DictReader
-    """
     reader = csv.DictReader(file_obj, delimiter=',')
     for line in reader:
         print(line["Name"])
         #print(line["Matches"])
 
 def csv_reader(file_obj):
-    """
-    Read a csv file
-    """
     reader = csv.reader(file_obj)
     for row in reader:
         print(" ".join(row))
 
+def plot(df):
+	corr = df.corr()
+	sns.set(font_scale=0.8)
+	sns.heatmap(corr, cmap="YlGnBu", annot=True, annot_kws={"size": 13})
+	sns.plt.yticks(rotation=0)
+	sns.plt.xticks(rotation=90) 
+	sns.plt.show()
+
+
 df = get_combined_correlations()
-corr = df.corr()
-sns.set(font_scale=0.8)
-sns.heatmap(corr, cmap="YlGnBu", annot=True, annot_kws={"size": 13})
-sns.plt.yticks(rotation=0)
-sns.plt.xticks(rotation=90) 
-sns.plt.show()
+plot(df)

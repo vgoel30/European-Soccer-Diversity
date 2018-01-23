@@ -16,12 +16,6 @@ def plot_time_series(df, title):
     
     #set ticks roatation
     plt.xticks(rotation=50)
-    
-    #keep colors for next graph
-    colors = [x.get_color() for x in ax.get_lines()]
-    #colors_mapping = dict(zip(seasons,colors))
-    
-    #remove x label
     ax.set_ylabel('Percentages')
        
     ax.set_ylim(top=100)
@@ -34,7 +28,7 @@ def minutes_parser(minutes_string):
 		return 0
 	return int(minutes_string.replace('\'','').replace('.',''))
 
-def get_percentages_df(country, team):
+def get_team_percentages_df(country, team):
 	data_file = '../data/Leistungsdaten/' + str(country) + '/2016.json'
 	years = [str(year) for year in range(1995, 2017)]
 
@@ -106,8 +100,7 @@ def get_percentages_df(country, team):
 	pprint(df)
 	return df
 
-country = 'England'
-team = 'fc-liverpool'
-df = get_percentages_df(country, team)
-
+country = 'Spain'
+team = 'real-madrid'
+df = get_team_percentages_df(country, team)
 plot_time_series(df, team)

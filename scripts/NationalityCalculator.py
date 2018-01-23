@@ -16,15 +16,9 @@ def plot_time_series(df, title):
     
     #set ticks roatation
     plt.xticks(rotation=50)
-    
-    #keep colors for next graph
-    colors = [x.get_color() for x in ax.get_lines()]
-    #colors_mapping = dict(zip(seasons,colors))
-    
-    #remove x label
-    ax.set_ylabel('Percentages')
-       
-    ax.set_ylim(top=20)
+ 
+    ax.set_ylabel('Percentages')      
+    ax.set_ylim(top=50)
     ax.set_ylim(bottom=0)
 
     plt.show()
@@ -34,8 +28,7 @@ def minutes_parser(minutes_string):
 		return 0
 	return int(minutes_string.replace('\'','').replace('.',''))
 
-def get_nationalities_df(target_country):
-
+def get_nationalities_df():
 	years = [str(year) for year in range(1995, 2017)]
 	countries = ['England', 'France', 'Germany', 'Italy', 'Spain']
 
@@ -47,7 +40,6 @@ def get_nationalities_df(target_country):
 			final_data[-1].append(0)
 
 	for year in years:
-		target = 0
 		total = 0
 
 		for country in countries:
@@ -65,23 +57,14 @@ def get_nationalities_df(target_country):
 					for key in year_data:
 						player = year_data[key]
 						player_country = player['nationality']
-						if player_country == target_country:
-							target += 1
 						if player_country in countries:
 							final_data[countries.index(player_country)][int(year) - 1995] += 1
 						total += 1
 
-		percent = target/total
 		for country in countries:
 			final_data[countries.index(country)][int(year) - 1995] /= total
 			final_data[countries.index(country)][int(year) - 1995] *= 100
-		percent *= 100
-		# print(target)
-		# print(total)
-		# print("Year " + str(year) + " : " + str(percent))
-		# print()
 
-	#pprint(final_data)	
 	L_all_data = final_data
 
 	df = pd.DataFrame({'England': L_all_data[0],
@@ -91,9 +74,8 @@ def get_nationalities_df(target_country):
 						'Spain' : L_all_data[4],
 						'Year': years			})
 	df = df.set_index('Year')
-
 	return df
 
-df = get_nationalities_df('Italy')
+df = get_nationalities_df()
 pprint(df)
 plot_time_series(df, 'Percentage of nationalies')

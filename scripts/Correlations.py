@@ -124,10 +124,13 @@ def get_country_correlations(country):
 	os.remove('lol.csv')
 	return df
 
+def plot(df):
+	corr = df.corr()
+	sns.set(font_scale=0.8)
+	sns.heatmap(corr, cmap="YlGnBu", annot=True, annot_kws={"size": 13})
+	sns.plt.yticks(rotation=0)
+	sns.plt.xticks(rotation=90) 
+	sns.plt.show()
+
 df = get_country_correlations('Spain')
-corr = df.corr()
-sns.set(font_scale=0.8)
-sns.heatmap(corr, cmap="YlGnBu", annot=True, annot_kws={"size": 13})
-sns.plt.yticks(rotation=0)
-sns.plt.xticks(rotation=90) 
-sns.plt.show()
+plot(df)

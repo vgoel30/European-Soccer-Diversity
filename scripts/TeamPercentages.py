@@ -90,17 +90,16 @@ def get_team_percentages_df(country, team):
 				pass
 			#pprint(L_countries)
 
-	df = pd.DataFrame({#'Local': L_local,
-						'Foreign': L_foreign,
-						#'Local minutes': L_local_minutes,
+	df = pd.DataFrame({
+						'Foreign players': L_foreign,
 						'Foreign minutes': L_foreign_minutes,
 						'Foreign appearances': L_foreign_apps,
 						'Year': years_copy			})
 	df = df.set_index('Year')
-	pprint(df)
 	return df
 
-country = 'Spain'
-team = 'real-madrid'
+country = 'France'
+team = 'as-monaco'
 df = get_team_percentages_df(country, team)
+pprint(df)
 plot_time_series(df, team)

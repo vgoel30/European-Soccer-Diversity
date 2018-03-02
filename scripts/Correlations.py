@@ -5,7 +5,7 @@ import pandas as pd
 import seaborn as sns
 import math
 import numpy as np; np.random.seed(0)
-from gini import gini
+from gini import *
 import os
 
 L_countries = {}
@@ -60,8 +60,7 @@ def get_team_percentage(country, data, year, team):
 			L_countries[player_country] = L_countries[player_country] + player['appearances']
 	
 
-	gini_value = gini(np.asarray(list(L_countries.values()), dtype=np.float))
-	diversity = 1/gini_value
+	diversity = sdi(L_countries)
 	average_age = age/(local + foreign)
 	total = local_minutes + foreign_minutes
 	return [(foreign_minutes/total)*100, average_age, diversity]

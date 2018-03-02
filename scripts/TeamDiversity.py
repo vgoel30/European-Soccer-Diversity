@@ -6,7 +6,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 import math
-from gini import gini
+from gini import *
 
 def plot_time_series(df, title):
     #plot graph
@@ -25,8 +25,8 @@ def plot_time_series(df, title):
     #remove x label
     ax.set_ylabel('Diversity Scores')
        
-    ax.set_ylim(top=1.3)
-    ax.set_ylim(bottom=0.9)
+    ax.set_ylim(top=3.0)
+    ax.set_ylim(bottom=0.0)
 
     plt.show()
 
@@ -35,8 +35,8 @@ def minutes_parser(minutes_string):
 		return 0
 	return int(minutes_string.replace('\'','').replace('.',''))
 
-country = 'England'
-team = 'fc-chelsea'
+country = 'Germany'
+team = 'fc-bayern-munchen'
 
 data_file = '../data/Leistungsdaten/' + str(country) + '/2016.json'
 years = [str(year) for year in range(1995, 2017)]
@@ -108,8 +108,10 @@ with open(data_file) as datafile:
 
 			gini_value = gini(np.asarray(list(L_countries.values()), dtype=np.float))
 			diversity = 1/gini_value
-			pprint(diversity)
-			L_diversity_values.append(diversity)
+			sdi_values = sdi(L_countries)
+			pprint(sdi_values)
+			#print(L_countries)
+			L_diversity_values.append(sdi_values)
 
 		except:
 			years_copy.remove(year)

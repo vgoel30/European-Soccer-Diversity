@@ -3,6 +3,7 @@ Source code from https://github.com/oliviaguest/gini
 '''
 
 import numpy as np
+from math import log as ln
 
 def gini(array):
     """Calculate the Gini coefficient of a numpy array."""
@@ -25,3 +26,37 @@ def gini(array):
     n = array.shape[0]
     # Gini coefficient:
     return ((np.sum((2 * index - n  - 1) * array)) / (n * np.sum(array)))
+
+
+
+def sdi(data):        
+    N = sum(data.values())
+
+    def p(n, N):
+        """ Relative abundance """
+        if n is  0:
+            return 0
+        else:
+            return (float(n)/N) * ln(float(n)/N)
+    
+    return -sum(p(n, N) for n in data.values() if n is not 0)
+
+
+def simpson_di(data):
+
+    """ Given a hash { 'species': count } , returns the Simpson Diversity Index
+    
+    >>> simpson_di({'a': 10, 'b': 20, 'c': 30,})
+    0.3888888888888889
+    """
+
+    def p(n, N):
+        """ Relative abundance """
+        if n is  0:
+            return 0
+        else:
+            return float(n)/N
+
+    N = sum(data.values())
+    
+    return sum(p(n, N)**2 for n in data.values() if n is not 0)

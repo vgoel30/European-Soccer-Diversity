@@ -29,6 +29,37 @@ def minutes_parser(minutes_string):
 		return 0
 	return int(minutes_string.replace('\'','').replace('.',''))
 
+def get_nationality_distribution_df(target_country):
+	countries = ['England', 'France', 'Germany', 'Italy', 'Spain']
+	years = [str(year) for year in range(1995, 2017)]
+
+	values = {}
+
+	for country in countries:
+		country_info = {}
+		data_file = '../data/Leistungsdaten/' + str(country) + '/2016.json'
+		with open(data_file) as datafile:
+			data = json.load(datafile)
+
+			for year in years:
+				count = 0
+				#print('Data file : ' + str(data_file) + '   ' + str(year))
+				year_data = data[year]
+
+				for key in year_data:
+					players = year_data[key]
+					for player in players:
+						player_info = players[player]
+						player_country = player_info['nationality']
+						if(player_country == target_country):
+							count += 1
+
+				country_info[year] = count
+		values[country] = country_info
+	
+	pprint(values)
+
+
 def get_team_percentages_df(country, team):
 	data_file = '../data/Leistungsdaten/' + str(country) + '/2016.json'
 	years = [str(year) for year in range(1995, 2017)]
@@ -99,8 +130,9 @@ def get_team_percentages_df(country, team):
 	df = df.set_index('Year')
 	return df
 
-country = 'France'
-team = 'as-monaco'
-df = get_team_percentages_df(country, team)
-pprint(df)
-plot_time_series(df, team)
+# country = 'France'
+# team = 'as-monaco'
+# df = get_team_percentages_df(country, team)
+# pprint(df)
+# plot_time_series(df, team)
+get_nationality_distribution_df('Germany')

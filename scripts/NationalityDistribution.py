@@ -58,81 +58,24 @@ def get_nationality_distribution_df(target_country):
 		values[country] = country_info
 	
 	pprint(values)
-
-
-def get_team_percentages_df(country, team):
-	data_file = '../data/Leistungsdaten/' + str(country) + '/2016.json'
-	years = [str(year) for year in range(1995, 2017)]
-
-	L_local = []
-	L_foreign = []
-
-	L_local_minutes = []
-	L_foreign_minutes = []
-
-	L_local_apps = []
-	L_foreign_apps = []
-
-
-
-	years_copy = [str(year) for year in range(1995, 2017)]
-
-	with open(data_file) as datafile:
-		data = json.load(datafile)
-		for year in years:
-			local = 0
-			foreign = 0
-			local_minutes = 0
-			foreign_minutes = 0
-			local_apps = 0
-			foreign_apps = 0
-			L_countries = {}
-			#data for a particular year
-			try:
-				year_data = data[year][team]
-
-				for key in year_data:
-					player = year_data[key]
-					player_country = player['nationality']
-					if(player_country == country):
-						local += 1
-						local_minutes += minutes_parser(player['minutes'])
-						local_apps += player['appearances']
-					else:
-						foreign += 1
-						foreign_minutes += minutes_parser(player['minutes'])
-						foreign_apps += player['appearances']
-					if player_country not in L_countries.keys():
-						L_countries[player_country] = 0
-					L_countries[player_country] = L_countries[player_country] + 1
-
-				total = local + foreign
-				L_local.append((local/total)*100)
-				L_foreign.append((foreign/total)*100)
-
-				total = local_apps + foreign_apps
-				L_local_apps.append((local_apps/total) * 100)
-				L_foreign_apps.append((foreign_apps/total) * 100)
-
-				total = local_minutes + foreign_minutes
-				L_local_minutes.append((local_minutes/total)*100)
-				L_foreign_minutes.append((foreign_minutes/total)*100)
-			except:
-				years_copy.remove(year)
-				pass
-			#pprint(L_countries)
-
-	df = pd.DataFrame({
-						'Foreign players': L_foreign,
-						'Foreign minutes': L_foreign_minutes,
-						'Foreign appearances': L_foreign_apps,
-						'Year': years_copy			})
+	for year in years:
+		year_sum = 0
+		for country in countries:
+			year_sum += values[country][year]
+		for country in countries:
+			values[country][year] /= year_sum
+			values[country][year] *= 100
+	
+	df = pd.DataFrame({'England': list(values['England'].values()),
+						'France': list(values['France'].values()),
+						'Germany': list(values['Germany'].values()),
+						'Italy' : list(values['Italy'].values()),
+						'Spain' : list(values['Spain'].values()),
+						'Year': years			})
 	df = df.set_index('Year')
 	return df
 
-# country = 'France'
-# team = 'as-monaco'
-# df = get_team_percentages_df(country, team)
-# pprint(df)
-# plot_time_series(df, team)
-get_nationality_distribution_df('Germany')
+target_country = 'Italy'
+df = get_nationality_distribution_df(target_country)
+pprint(df)
+plot_time_series(df, target_country)
